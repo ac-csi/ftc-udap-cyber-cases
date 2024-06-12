@@ -1,4 +1,4 @@
-﻿Case,Complaint URL,Agreement URL,Date,UDAP?
+Case,Complaint URL,Agreement URL,Date,UDAP?
 Microsoft,https://www.ftc.gov/sites/default/files/documents/cases/2002/08/microsoftcmp.pdf,https://www.ftc.gov/sites/default/files/documents/cases/2002/08/microsoftagree.pdf,2002-12-24,Deceptive
 Guess Inc.,https://www.ftc.gov/sites/default/files/documents/cases/2003/08/guesscomp.pdf,https://www.ftc.gov/sites/default/files/documents/cases/2003/08/guessdo.pdf,2003-08-05,Deceptive
 MTS inc et. Al (Tower Records) ,https://www.ftc.gov/sites/default/files/documents/cases/2004/06/040602comp0323209.pdf,https://www.ftc.gov/sites/default/files/documents/cases/2004/06/040602do0323209.pdf,2004-06-02,Deceptive
@@ -11,38 +11,38 @@ Life is Good In,https://www.ftc.gov/sites/default/files/documents/cases/2008/04/
 TJX,https://www.ftc.gov/sites/default/files/documents/cases/2008/08/080801tjxcomplaint.pdf,https://www.ftc.gov/sites/default/files/documents/cases/2008/08/080801tjxdo.pdf,2008-08-01,Unfair
 Reed Elsevier Inc. and Seisint Inc,https://www.ftc.gov/sites/default/files/documents/cases/2008/08/080801reedcomplaint.pdf,https://www.ftc.gov/sites/default/files/documents/cases/2008/08/080801reeddo.pdf,2008-08-01,Unfair
 Genica Corporation,https://www.ftc.gov/sites/default/files/documents/cases/2009/03/090320genicacmpt.pdf,https://www.ftc.gov/sites/default/files/documents/cases/2009/03/090320genicado.pdf,2009-03-20,Deceptive
+LifeLock,https://www.ftc.gov/sites/default/files/documents/cases/2010/03/100309lifelockcmpt.pdf,https://www.ftc.gov/sites/default/files/documents/cases/2010/03/100309lifelockstip.pdf,2010-03-09,Deceptive
 "Dave & Busterns, Inc",https://www.ftc.gov/sites/default/files/documents/cases/2010/06/100608davebusterscmpt.pdf,https://www.ftc.gov/sites/default/files/documents/cases/2010/06/100608davebustersdo.pdf,2010-06-08,Unfair
 "Twitter, Inc.",https://www.ftc.gov/sites/default/files/documents/cases/2011/03/110311twittercmpt.pdf,https://www.ftc.gov/sites/default/files/documents/cases/2011/03/110311twitterdo.pdf,2011-03-11,Deceptive
 Ceridian Corporation,https://www.ftc.gov/sites/default/files/documents/cases/2011/06/110615ceridiancmpt.pdf,https://www.ftc.gov/sites/default/files/documents/cases/2011/06/110615ceridiando.pdf,2011-06-15,Unfair & Deceptive
 Lookout Services ,https://www.ftc.gov/sites/default/files/documents/cases/2011/06/110615lookoutcmpt.pdf,https://www.ftc.gov/sites/default/files/documents/cases/2011/06/110615lookoutdo.pdf,2011-06-15,Unfair & Deceptive
-EPN Checknet,https://www.ftc.gov/sites/default/files/documents/cases/2012/10/121026epncmpt.pdf,https://www.ftc.gov/sites/default/files/documents/cases/2012/10/121026epndo.pdf,2012-10-26,
-Compete Inc.,https://www.ftc.gov/sites/default/files/documents/cases/2013/02/130222competecmpt.pdf,https://www.ftc.gov/sites/default/files/documents/cases/2013/02/130222competedo.pdf,2012-10-26,unfair and deceptive
+Upromise Inc,https://www.ftc.gov/sites/default/files/documents/cases/2012/04/120403upromisecmpt.pdf,https://www.ftc.gov/sites/default/files/documents/cases/2012/04/120403upromisedo.pdf,2012-04-03,Unfair & Deceptive
+EPN Checknet,https://www.ftc.gov/sites/default/files/documents/cases/2012/10/121026epncmpt.pdf,https://www.ftc.gov/sites/default/files/documents/cases/2012/10/121026epndo.pdf,2012-10-26,Unfair
+Compete Inc.,https://www.ftc.gov/sites/default/files/documents/cases/2013/02/130222competecmpt.pdf,https://www.ftc.gov/sites/default/files/documents/cases/2013/02/130222competedo.pdf,2012-10-26,Unfair & Deceptive
 "HTC America, Inc ask Maia!!",https://www.ftc.gov/sites/default/files/documents/cases/2013/07/130702htccmpt.pdf,https://www.ftc.gov/sites/default/files/documents/cases/2013/07/130702htcdo.pdf,2013-07-02,Unfair 
 TrendNet,https://www.ftc.gov/system/files/documents/cases/140207trendnetcmpt.pdf,https://www.ftc.gov/system/files/documents/cases/140207trendnetdo.pdf,2014-02-07,Unfair & Deceptive
-Genelink Inc: NEED TO CHECK THIS ONE!!!,https://www.ftc.gov/system/files/documents/cases/140512genelinkcmpt.pdf,https://www.ftc.gov/system/files/documents/cases/140512genelinkdo_0.pdf,2014-05-12,Unfair/ Deceptive
+Genelink Inc,https://www.ftc.gov/system/files/documents/cases/140512genelinkcmpt.pdf,https://www.ftc.gov/system/files/documents/cases/140512genelinkdo_0.pdf,2014-05-12,Unfair & Deceptive
 Credit Karma ,https://www.ftc.gov/system/files/documents/cases/140328creditkarmacmpt.pdf,https://www.ftc.gov/system/files/documents/cases/140328creditkarmaorder.pdf,2014-08-19,Deceptive
 Fandango ,https://www.ftc.gov/system/files/documents/cases/140819fandangocmpt.pdf,https://www.ftc.gov/system/files/documents/cases/140819fandangodo.pdf,2014-08-19,Unfair
 GMR Transcirption Services and Ajay Prasad and ShreeKan Srivastava,https://www.ftc.gov/system/files/documents/cases/140821gmrcmpt.pdf,https://www.ftc.gov/system/files/documents/cases/140821gmrdo.pdf,2014-08-21,Unfair & Deceptive
-Snapchat,https://www.ftc.gov/system/files/documents/cases/141231snapchatcmpt.pdf,https://www.ftc.gov/system/files/documents/cases/141231snapchatdo.pdf,2014-12-31,unfair
+Snapchat,https://www.ftc.gov/system/files/documents/cases/141231snapchatcmpt.pdf,https://www.ftc.gov/system/files/documents/cases/141231snapchatdo.pdf,2014-12-31,Unfair
 Wyhndham Worldwide Corporation,https://www.ftc.gov/sites/default/files/documents/cases/2012/06/120626wyndamhotelscmpt.pdf,https://www.ftc.gov/system/files/documents/cases/151211wyndhamstip.pdf,2014-12-23,Unfair & Deceptive
 ASUStek,https://www.ftc.gov/system/files/documents/cases/1607asustekcmpt.pdf,https://www.ftc.gov/system/files/documents/cases/1607asustekdo.pdf,2016-07-28,Deceptive
-Lenovo,https://www.ftc.gov/system/files/documents/cases/1523134_c4636_lenovo_united_states_complaint.pdf,https://www.ftc.gov/system/files/documents/cases/152_3134_c4636_lenovo_united_states_decision_and_order.pdf,2017-09-13,Unfair & Deceptive
-Ashley Madison,https://www.ftc.gov/system/files/documents/cases/161214ashleymadisoncmplt1.pdf,https://www.ftc.gov/system/files/documents/cases/161214ashleymadisonorder1.pdf,2017-09-27,Unfair & Deceptive
-Blu Products Inc and Samuel Ohev-Zion,https://www.ftc.gov/system/files/documents/cases/172_3025_c4657_blu_complaint_9-10-18.pdf,https://www.ftc.gov/system/files/documents/cases/172_3025_c4657_blu_decision_and_order_9-10-18.pdf,2018-09-11,Deceptive
-Uber Technologies,https://www.ftc.gov/system/files/documents/cases/152_3054_c-4662_uber_technologies_revised_complaint.pdf,https://www.ftc.gov/system/files/documents/cases/152_3054_c-4662_uber_technologies_revised_decision_and_order.pdf,2018-10-29,Deceptive
+Ashley Madison,https://www.ftc.gov/system/files/documents/cases/161214ashleymadisoncmplt1.pdf,https://www.ftc.gov/system/files/documents/cases/161214ashleymadisonorder1.pdf,2016-12-14,Unfair & Deceptive
+Lenovo,https://www.ftc.gov/system/files/documents/cases/1523134_c4636_lenovo_united_states_complaint.pdf,https://www.ftc.gov/system/files/documents/cases/152_3134_c4636_lenovo_united_states_decision_and_order.pdf,2018-01-02,Unfair & Deceptive
+Blu Products Inc and Samuel Ohev-Zion,https://www.ftc.gov/system/files/documents/cases/172_3025_c4657_blu_complaint_9-10-18.pdf,https://www.ftc.gov/system/files/documents/cases/172_3025_c4657_blu_decision_and_order_9-10-18.pdf,2018-09-10,Deceptive
+Uber Technologies,https://www.ftc.gov/system/files/documents/cases/152_3054_c-4662_uber_technologies_revised_complaint.pdf,https://www.ftc.gov/system/files/documents/cases/152_3054_c-4662_uber_technologies_revised_decision_and_order.pdf,2018-10-26,Deceptive
 "James V. Grago, Jr. (ClixSense.com)",https://www.ftc.gov/system/files/documents/cases/172_3003_c4678_clixsense_complaint_7-2-19.pdf,https://www.ftc.gov/system/files/documents/cases/172_3003_clixsense_decision_and_order_7-2-19.pdf,2019-07-02,Unfair
 D-Link,https://www.ftc.gov/system/files/documents/cases/d-link_complaint_for_permanent_injunction_and_other_equitable_relief_unredacted_version_seal_lifted_-_3-20-17.pdf,https://www.ftc.gov/system/files/documents/cases/dlink_proposed_order_and_judgment_7-2-19.pdf,2019-07-02,Unfair
 "InfoTrax Systems, L.C.",https://www.ftc.gov/system/files/documents/cases/c-4696_162_3130_infotrax_complaint_clean.pdf,https://www.ftc.gov/system/files/documents/cases/c-4696_162_3130_infotrax_order_clean.pdf,2020-01-06,Unfair & Deceptive
 "Tapplock, Inc. ",https://www.ftc.gov/system/files/documents/cases/1923011c4718tapplockcomplaint.pdf,https://www.ftc.gov/system/files/documents/cases/1923011c4718tapplockorder.pdf,2020-05-20,Deceptive
-Support King (Spy Fone) ,https://www.ftc.gov/system/files/documents/cases/1923003c4756spyfonecomplaint_0.pdf,https://www.ftc.gov/system/files/documents/cases/1923003c4756spyfoneorder.pdf,2021-12-20,Deceptive
+Zoom,https://www.ftc.gov/system/files/documents/cases/1923167zoomcomplaint.pdf,https://www.ftc.gov/system/files/documents/cases/1923167_c-4731_zoom_final_order.pdf,2021-02-01,Unfair & Deceptive
 SkyMed International ,https://www.ftc.gov/system/files/documents/cases/c-4732_skymed_final_complaint.pdf,https://www.ftc.gov/system/files/documents/cases/c-4732_skymed_final_order.pdf,2021-02-05,Unfair & Deceptive
+Support King (Spy Fone) ,https://www.ftc.gov/system/files/documents/cases/1923003c4756spyfonecomplaint_0.pdf,https://www.ftc.gov/system/files/documents/cases/1923003c4756spyfoneorder.pdf,2021-12-20,Deceptive
+Residual Pumpkin (Cafepress) ,https://www.ftc.gov/system/files/ftc_gov/pdf/1923209CafePressComplaint.pdf,https://www.ftc.gov/system/files/ftc_gov/pdf/192%203209%20-%20CafePress%20combined%20package%20without%20signatures.pdf,2022-06-24,Unfair & Deceptive
 Drizly LLC and James Cory Rellas,https://www.ftc.gov/system/files/ftc_gov/pdf/202-3185-Drizly-Complaint.pdf,https://www.ftc.gov/system/files/ftc_gov/pdf/2023185-drizly-combined-consent.pdf,2023-01-10,Unfair & Deceptive
 Chegg,https://www.ftc.gov/system/files/ftc_gov/pdf/Chegg-Complaint.pdf,https://www.ftc.gov/system/files/ftc_gov/pdf/Chegg-DecisionandOrder.pdf,2023-01-26,Unfair & Deceptive
-Ring,https://www.ftc.gov/system/files/ftc_gov/pdf/complaint_ring.pdf,https://www.ftc.gov/system/files/ftc_gov/pdf/proposed_stipulated_order_ring.pdf,2023-06-16,Unfair & Deceptive
-Residual Pumpkin (Cafepress) ,https://www.ftc.gov/system/files/ftc_gov/pdf/1923209CafePressComplaint.pdf,https://www.ftc.gov/system/files/ftc_gov/pdf/192%203209%20-%20CafePress%20combined%20package%20without%20signatures.pdf,2024-01-10,Unfair & Deceptive
-Blackbaud,https://www.ftc.gov/system/files/ftc_gov/pdf/Blackbaud-Complaint.pdf,https://www.ftc.gov/system/files/ftc_gov/pdf/Blackbaud-D%26O.pdf,2024-02-14,unfair and deceptive 
+Ring,https://www.ftc.gov/system/files/ftc_gov/pdf/complaint_ring.pdf,https://www.ftc.gov/system/files/ftc_gov/pdf/proposed_stipulated_order_ring.pdf,2023-05-31,Unfair & Deceptive
+1Health.io,https://www.ftc.gov/system/files/ftc_gov/pdf/1Health-Complaint.pdf,https://www.ftc.gov/system/files/ftc_gov/pdf/1Health-DecisionandOrder.pdf,2023-09-07,Deceptive
+Blackbaud,https://www.ftc.gov/system/files/ftc_gov/pdf/Blackbaud-Complaint.pdf,https://www.ftc.gov/system/files/ftc_gov/pdf/Blackbaud-D%26O.pdf,2024-02-01,Unfair & Deceptive 
 Global Tel*Link,https://www.ftc.gov/system/files/ftc_gov/pdf/Complaint-GlobalTelLink.pdf,https://www.ftc.gov/system/files/ftc_gov/pdf/D%26OGlobalTelLink.pdf,2024-02-23,Unfair & Deceptive
-1Health.io,https://www.ftc.gov/system/files/ftc_gov/pdf/1Health-Complaint.pdf,https://www.ftc.gov/system/files/ftc_gov/pdf/1Health-DecisionandOrder.pdf,2023-09-06,Deceptive
-Zoom,https://www.ftc.gov/system/files/documents/cases/1923167zoomcomplaint.pdf,,,
-LifeLock,https://www.ftc.gov/sites/default/files/documents/cases/2010/03/100309lifelockcmpt.pdf,,,
-Upromise Inc,https://www.ftc.gov/sites/default/files/documents/cases/2012/04/120403upromisecmpt.pdf,,,
