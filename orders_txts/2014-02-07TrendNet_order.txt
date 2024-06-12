@@ -1,0 +1,677 @@
+UNITED STATES OF AMERICA 
+BEFORE THE FEDERAL TRADE COMMISSION 
+
+122 3090 
+
+COMMISSIONERS:  
+
+Edith Ramirez, Chairwoman 
+Julie Brill 
+Maureen K. Ohlhausen 
+Joshua D. Wright 
+
+In the Matter of 
+
+__________________________________________ 
+) 
+) 
+) 
+) 
+) 
+) 
+__________________________________________) 
+
+TRENDNET, INC.,   
+a corporation. 
+
+DOCKET No. C-4426 
+
+DECISION AND ORDER  
+
+The Federal Trade Commission (“Commission” or “FTC”), having initiated an 
+investigation of certain acts and practices of the respondent named in the caption hereof, and the 
+respondent having been furnished thereafter with a copy of a draft complaint that the Bureau of 
+Consumer Protection proposed to present to the Commission for its consideration and which, if 
+issued by the Commission, would charge respondent with violations of the Federal Trade 
+Commission Act (“FTC Act”), 15 U.S.C. § 45 et seq.; 
+
+The respondent, its attorney, and counsel for the Commission having thereafter executed 
+
+an Agreement Containing Consent Order (“Consent Agreement”), which includes: a statement 
+by respondent that it neither admits nor denies any of the allegations in the draft complaint, 
+except as specifically stated in the Consent Agreement, and, only for purposes of this action, 
+admits the facts necessary to establish jurisdiction; and waivers and other provisions as required 
+by the Commission’s Rules; and 
+
+The Commission having thereafter considered the matter and having determined that it 
+had reason to believe that the respondent has violated the FTC Act, and that a complaint should 
+issue stating its charges in that respect, and having thereupon accepted the executed consent 
+agreement and placed such agreement on the public record for a period of thirty (30) days for the 
+receipt and consideration of public comments, and having duly considered the comments 
+received from interested persons pursuant to Commission Rule 2.34, 16 C.F.R. § 2.34, now in 
+further conformity with the procedure prescribed in Commission Rule 2.34, the Commission 
+hereby issues its complaint, makes the following jurisdictional findings, and enters the following 
+Decision and Order (“Order”): 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. 
+
+2. 
+
+Respondent TRENDnet, Inc. (“TRENDnet”) is a California corporation with its principal 
+office or place of business at 20675 Manhattan Place, Torrance, California 90501. 
+
+The Federal Trade Commission has jurisdiction of the subject matter of this proceeding 
+and of the respondent, and the proceeding is in the public interest. 
+
+ORDER 
+
+DEFINITIONS 
+
+For purposes of this Order, the following definitions shall apply: 
+
+1. 
+
+2. 
+
+3. 
+
+“Affected Consumers” shall mean persons who purchased and installed one of the 
+following Cameras with software last updated prior to February 7, 2012: TV-IP110 
+(Version A1.xR); TV-IP110W (Version A1.xR); TV-IP110WN (Version A1.xR); TV-
+IP110WN (Version V2.0R); TV-IP121W (Version A1.xR); TV-IP121WN (Version 
+V1.0R); TV-IP121WN (Version V2.0R); TV-IP212 (Version A1.xR); TV-IP212W 
+(Version A1.xR); TV-IP252P (Version B1.xR); TV-IP312 (Version A1.xR); TV-IP312W 
+(Version A1.xr); TV-IP312WN (Version A1.xR); TV-IP322P (Version V1.0R); TV-
+IP410 (Version A1.XR); TV-IP410W (Version A1.xR); TV-IP410WN (Version V1.0R); 
+TV-IP422 (Versions A1.xR/A2.xR); TV-IP422W (Versions A1.xR/A2.xR); TV-
+IP422WN (Version V1.0R); TV-VS1 (Version V1.0R); and TV-VS1P (Version V1.0R). 
+
+“App” or “Apps” shall mean any software application or related code developed, 
+branded, or provided by respondent for a mobile device, including, but not limited to, any 
+iPhone, iPod touch, iPad, BlackBerry, Android, Amazon Kindle, or Microsoft Windows 
+device.   
+
+“Cameras” shall mean any Internet Protocol (“IP”) camera, cloud camera, or other 
+Internet-accessible camera advertised, developed, branded, or sold by respondent, or on 
+behalf of respondent, or any corporation, subsidiary, division or affiliate owned or 
+controlled by respondent that transmits, or allows for the transmission of Live Feed 
+Information over the Internet.   
+
+4. 
+
+“Clear(ly) and prominent(ly)” shall mean: 
+
+A. 
+
+B. 
+
+In textual communications (e.g., printed publications or words displayed on the 
+screen of a computer or device), the required disclosures are of a type, size, and 
+location sufficiently noticeable for an ordinary consumer to read and comprehend 
+them, in print that contrasts highly with the background on which they appear; 
+
+In communications disseminated orally or through audible means (e.g., radio or 
+streaming audio), the required disclosures are delivered in a volume and cadence 
+sufficient for an ordinary consumer to hear and comprehend them; 
+
+2 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+C. 
+
+In communications disseminated through video means (e.g., television or 
+streaming video), the required disclosures are in writing in a form consistent with 
+subparagraph (A) of this definition and shall appear on the screen for a duration 
+sufficient for an ordinary consumer to read and comprehend them, and in the 
+same language as the predominant language that is used in the communication; 
+and 
+
+D. 
+
+In all instances, the required disclosures (1) are presented in an understandable 
+language and syntax; and (2) include nothing contrary to, inconsistent with, or in 
+mitigation of any other statements or disclosures provided by respondent. 
+
+“Commerce” shall mean commerce among the several States or with foreign nations, or 
+in any Territory of the United States or in the District of Columbia, or between any such 
+Territory and another, or between any such Territory and any State or foreign nation, or 
+between the District of Columbia and any State or Territory or foreign nation, as defined 
+in Section 4 of the Federal Trade Commission Act, 15 U.S.C. § 44. 
+
+“Covered Device” shall mean: (1) any Internet-accessible electronic product or device, 
+including but not limited to “Cameras,” advertised, developed, branded, or sold by 
+respondent, or on behalf of respondent, or any corporation, subsidiary, division or 
+affiliate owned or controlled by respondent that transmits or allows for the transmission 
+of Covered Information over the Internet; and (2) any App or software advertised, 
+developed, branded, or provided by respondent or any corporation, subsidiary, division or 
+affiliate owned or controlled by respondent used to operate, manage, access, or view the 
+product or device.   
+
+“Covered Device Functionality” shall mean any capability of a Covered Device to 
+capture, access, store, or transmit Covered Information.  
+
+“Covered Information” shall mean individually-identifiable information from or about an 
+individual consumer input into, stored on, captured with, accessed, or transmitted through 
+a Covered Device, including but not limited to: (a) a first or last name; (b) a home or 
+other physical address, including street name and name of city or town; (c) an email 
+address or other online contact information, such as a user identifier or screen name; (d) 
+photos; (e) videos; (f) pre-recorded and live-streaming audio; (g) an IP address, User ID 
+or other persistent identifier; or (h) an authentication credential, such as a username or 
+password.  
+
+5. 
+
+6. 
+
+7. 
+
+8. 
+
+9. 
+
+“Live Feed Information” shall mean video, audio, or audiovisual data. 
+
+10. 
+
+Unless otherwise specified, “respondent” shall mean TRENDnet, Inc., and its successors 
+and assigns. 
+
+3 
+
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+I. 
+
+IT IS ORDERED that respondent and its officers, agents, representatives, and 
+
+employees, directly or through any corporation, subsidiary, division, website, other device, or an 
+affiliate owned or controlled by respondent, in or affecting commerce, shall not misrepresent in 
+any manner, expressly or by implication: 
+
+A. 
+
+The extent to which respondent or its products or services maintain and protect: 
+
+1. 
+
+2. 
+
+The security of Covered Device Functionality; 
+
+The security, privacy, confidentiality, or integrity of any Covered 
+Information; and 
+
+B. 
+
+The extent to which a consumer can control the security of any Covered 
+Information input into, stored on, captured with, accessed, or transmitted by a 
+Covered Device. 
+
+II. 
+
+IT IS FURTHER ORDERED that respondent shall, no later than the date of service of 
+this Order, establish and implement, and thereafter maintain, a comprehensive security program 
+that is reasonably designed to (1) address security risks that could result in unauthorized access 
+to or use of Covered Device Functionality, and (2) protect the security, confidentiality, and 
+integrity of Covered Information, whether collected by respondent, or input into, stored on, 
+captured with, accessed, or transmitted through a Covered Device.  Such program, the content 
+and implementation of which must be fully documented in writing, shall contain administrative, 
+technical, and physical safeguards appropriate to respondent’s size and complexity, the nature 
+and scope of respondent’s activities, and the sensitivity of the Covered Device Functionality or 
+Covered Information, including:   
+
+A. 
+
+B. 
+
+C. 
+
+The designation of an employee or employees to coordinate and be accountable 
+for the security program;   
+
+The identification of material internal and external risks to the security of Covered 
+Devices that could result in unauthorized access to or use of Covered Device 
+Functionality, and assessment of the sufficiency of any safeguards in place to 
+control these risks;   
+
+The identification of material internal and external risks to the security, 
+confidentiality, and integrity of Covered Information that could result in the 
+unauthorized disclosure, misuse, loss, alteration, destruction, or other compromise 
+of such information, whether such information is in respondent’s possession or is 
+input into, stored on, captured with, accessed, or transmitted through a Covered 
+
+4 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+D. 
+
+E. 
+
+F. 
+
+G. 
+
+H. 
+
+Device, and assessment of the sufficiency of any safeguards in place to control 
+these risks; 
+
+At a minimum, the risk assessments required by Subparts B and C should include 
+consideration of risks in each area of relevant operation, including, but not limited 
+to: (1) employee training and management; (2) product design, development, and 
+research; (3) secure software design, development, and testing; and (4) review, 
+assessment, and response to third-party security vulnerability reports;  
+
+The design and implementation of reasonable safeguards to control the risks 
+identified through the risk assessments, including but not limited to reasonable 
+and appropriate software security testing techniques, such as: (1) vulnerability and 
+penetration testing; (2) security architecture reviews; (3) code reviews; and (4) 
+other reasonable and appropriate assessments, audits, reviews, or other tests to 
+identify potential security failures and verify that access to Covered Information 
+is restricted consistent with a user’s security settings;  
+
+Regular testing or monitoring of the effectiveness of the safeguards’ key controls, 
+systems, and procedures;   
+
+The development and use of reasonable steps to select and retain service providers 
+capable of maintaining security practices consistent with this Order, and requiring 
+service providers, by contract, to establish and implement, and thereafter 
+maintain, appropriate safeguards consistent with this Order; and   
+
+The evaluation and adjustment of the security program in light of the results of the 
+testing and monitoring required by Subpart F, any material changes to the 
+respondent’s operations or business arrangements, or any other circumstances that 
+respondent knows or has reason to know may have a material impact on the 
+effectiveness of its security program.  
+
+III.  
+
+IT IS FURTHER ORDERED that, in connection with its compliance with Part II of this 
+Order, respondent shall obtain initial and biennial assessments and reports (“Assessments”) from 
+a qualified, objective, independent third-party professional, who uses procedures and standards 
+generally accepted in the profession.  Professionals qualified to prepare such Assessments shall 
+be: a person qualified as a Certified Secure Software Lifecycle Professional (CSSLP) with 
+experience programming secure Covered Devices or other similar Internet-accessible consumer-
+grade devices; or as a Certified Information System Security Professional (CISSP) with 
+professional experience in the Software Development Security domain and in programming 
+secure Covered Devices or other similar Internet-accessible consumer-grade devices; or a 
+similarly qualified person or organization; or a similarly qualified person or organization 
+approved by the Associate Director for Enforcement, Bureau of Consumer Protection, Federal 
+
+5 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Trade Commission, Washington, D.C. 20580.  The reporting period for the Assessments shall 
+cover: (1) the first one hundred eighty (180) days after service of the Order for the initial 
+Assessment; and (2) each two (2) year period thereafter for twenty (20) years after service of the 
+Order for the biennial Assessments.  Each Assessment shall: 
+
+A. 
+
+B. 
+
+C. 
+
+D. 
+
+Set forth the specific administrative, technical, and physical safeguards that 
+respondent has implemented and maintained during the reporting period; 
+
+Explain how such safeguards are appropriate to respondent’s size and complexity, 
+the nature and scope of respondent’s activities, and the sensitivity of the Covered 
+Device Functionality or Covered Information; 
+
+Explain how the safeguards that have been implemented meet or exceed the 
+protections required by Part II of this Order; and 
+
+Certify that respondent’s security program is operating with sufficient 
+effectiveness to provide reasonable assurance that the security of Covered Device 
+Functionality and the security, confidentiality, and integrity of Covered 
+Information is protected and has so operated throughout the reporting period. 
+
+Each Assessment shall be prepared and completed within sixty (60) days after the end of the 
+reporting period to which the Assessment applies.  Respondent shall provide the initial 
+Assessment to the Associate Director for Enforcement, Bureau of Consumer Protection, Federal 
+Trade Commission, Washington, D.C. 20580, within ten (10) days after the Assessment has been 
+prepared.  All subsequent biennial Assessments shall be retained by respondent until the Order is 
+terminated and provided to the Associate Director of Enforcement within ten (10) days of 
+request.  Unless otherwise directed by a representative of the Commission, the initial 
+Assessment, and any subsequent Assessments requested, shall be sent by overnight courier (not 
+the U.S. Postal Service) to the Associate Director of Enforcement, Bureau of Consumer 
+Protection, Federal Trade Commission, 600 Pennsylvania Avenue NW, Washington, D.C. 
+20580, with the subject line In the Matter of TRENDnet, Inc., FTC File No. 1223090, Docket 
+No. C-4426.  Provided, however, that in lieu of overnight courier, notices may be sent by first-
+class mail, but only if an electronic version of any such notice is contemporaneously sent to the 
+Commission at Debrief@ftc.gov. 
+
+IT IS FURTHER ORDERED that respondent shall: 
+
+IV. 
+
+A. 
+
+Notify Affected Consumers, clearly and prominently, that their Cameras had a 
+flaw that allowed third parties to access their Live Feed Information without 
+inputting authentication credentials, despite their security setting choices; and 
+provide instructions on how to remove this flaw.  Notification shall include, but 
+not be limited to, each of the following means: 
+
+6 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. 
+
+2. 
+
+3. 
+
+On or before ten (10) days after the date of service of this Order and for 
+two (2) years after the date of service of this Order, posting of a notice on 
+its website; 
+
+On or before ten (10) days after the date of service of this Order and for 
+three (3) years after the date of service of this Order, informing Affected 
+Consumers who complain or inquire about a Camera; and 
+
+On or before ten (10) days after the date of service of this Order and for 
+three (3) years after the date of service of this Order, informing Affected 
+Consumers who register, or who have registered, their Camera with 
+respondent; and 
+
+B. 
+
+Provide prompt and free support with clear and prominent contact information to 
+help consumers update and/or uninstall a Camera.  For two (2) years after the date 
+of service of this Order, this support shall include toll-free, telephonic and 
+electronic mail support. 
+
+V. 
+
+IT IS FURTHER ORDERED that respondent shall maintain and upon request make 
+
+available to the Federal Trade Commission for inspection and copying, a print or electronic copy 
+of: 
+
+A. 
+
+For a period of five (5) years after the date of preparation of each Assessment 
+required under Part III of this Order, all materials relied upon to prepare the 
+Assessment, whether prepared by or on behalf of the respondent, including but 
+not limited to all plans, reports, studies, reviews, audits, audit trails, policies, 
+training materials, and assessments, and any other materials relating to 
+respondent’s compliance with Part III of this Order, for the compliance period 
+covered by such Assessment;   
+
+B. 
+
+Unless covered by V.A, for a period of five (5) years from the date of preparation 
+or dissemination, whichever is later, all other documents relating to compliance 
+with this Order, including but not limited to: 
+
+1. 
+
+All advertisements, promotional materials, installation and user guides, 
+and packaging containing any representations covered by this Order, as 
+well as all materials used or relied upon in making or disseminating the 
+representation; and 
+
+7 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2. 
+
+Any documents, whether prepared by or on behalf of respondent, that 
+contradict, qualify, or call into question respondent’s compliance with this 
+Order. 
+
+VI. 
+
+IT IS FURTHER ORDERED that respondent shall deliver a copy of this Order to all 
+
+(1) current and future subsidiaries, (2) current and future principals, officers, directors, and 
+managers, (3) current and future employees, agents, and representatives having responsibilities 
+relating to the subject matter of this Order, and (4) current and future manufacturers and service 
+providers of the Covered Products.  Respondent shall deliver this Order to such current 
+subsidiaries, personnel, manufacturers, and service providers within thirty (30) days after service 
+of this Order, and to such future subsidiaries, personnel, manufacturers, and service providers 
+within thirty (30) days after the person assumes such position or responsibilities.  For any 
+business entity resulting from any change in structure set forth in Part VII, delivery shall be at 
+least ten (10) days prior to the change in structure.  Respondent must secure a signed and dated 
+statement acknowledging receipt of this Order, within thirty (30) days of delivery, from all 
+persons receiving a copy of the Order pursuant to this section.   
+
+VII. 
+
+IT IS FURTHER ORDERED that respondent shall notify the Commission at least 
+
+thirty (30) days prior to any change in the corporation(s) that may affect compliance obligations 
+arising under this Order, including, but not limited to: a dissolution, assignment, sale, merger, or 
+other action that would result in the emergence of a successor corporation; the creation or 
+dissolution of a subsidiary, parent, or affiliate that engages in any acts or practices subject to this 
+Order; the proposed filing of a bankruptcy petition; or a change in the corporate name or address.  
+Provided, however, that, with respect to any proposed change in the corporation(s) about which 
+respondent learns fewer than thirty (30) days prior to the date such action is to take place, 
+respondent shall notify the Commission as soon as is practicable after obtaining such knowledge.  
+Unless otherwise directed by a representative of the Commission, all notices required by this Part 
+shall be sent by overnight courier (not the U.S. Postal Service) to the Associate Director of 
+Enforcement, Bureau of Consumer Protection, Federal Trade Commission, 600 Pennsylvania 
+Avenue NW, Washington, D.C. 20580, with the subject line In the Matter of TRENDnet, Inc., 
+FTC File No. 1223090, Docket No. C-4426.  Provided, however, that in lieu of overnight 
+courier, notices may be sent by first-class mail, but only if an electronic version of any such 
+notice is contemporaneously sent to the Commission at Debrief@ftc.gov.   
+
+8 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+VIII. 
+
+IT IS FURTHER ORDERED that respondent within sixty (60) days after the date of 
+
+service of this Order, shall file with the Commission a true and accurate report, in writing, setting 
+forth in detail the manner and form of its compliance with this Order.  Within ten (10) days of 
+receipt of written notice from a representative of the Commission, it shall submit an additional 
+true and accurate written report. 
+
+IX. 
+
+This Order will terminate on January 16, 2034, or twenty (20) years from the most recent 
+
+date that the United States or the Commission files a complaint (with or without an 
+accompanying consent decree) in federal court alleging any violation of the Order, whichever 
+comes later; provided, however, that the filing of such a complaint will not affect the duration of: 
+
+A. 
+
+B. 
+
+C. 
+
+Any Part in this Order that terminates in fewer than twenty (20) years; 
+
+This Order’s application to any respondent that is not named as a defendant in 
+such complaint; and 
+
+This Order if such complaint is filed after the Order has terminated pursuant to 
+this Part. 
+
+Provided, further, that if such complaint is dismissed or a federal court rules that respondent did 
+not violate any provision of the Order, and the dismissal or ruling is either not appealed or 
+upheld on appeal, then the Order as to such respondent will terminate according to this Part as 
+though the complaint had never been filed, except that the Order will not terminate between the 
+date such complaint is filed and the later of the deadline for appealing such dismissal or ruling 
+and the date such dismissal or ruling is upheld on appeal. 
+
+By the Commission. 
+
+SEAL 
+ISSUED:  January 16, 2014 
+
+Donald S. Clark 
+Secretary 
+
+9 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+

@@ -1,0 +1,288 @@
+UNITED STATES OF AMERICA 
+FEDERAL TRADE COMMISSION
+
+012 3240
+
+In the Matter of
+
+MICROSOFT CORPORATION,
+
+a corporation.
+
+                                                            )
+
+)
+)
+)
+)
+)
+
+)
+
+DOCKET NO. C-4069
+
+COMPLAINT
+
+The  Federal  Trade  Commission,  having  reason  to  believe  that  Microsoft,  a  corporation  (“respondent”)
+has  violated the provisions of the Federal Trade Commission Act, and it appearing to the Commission that this
+proceeding is in the public interest, alleges:
+
+Respondent Microsoft is a Washington corporation with its principal office or place of business at One
+1.
+Microsoft  Way,  Redmond,  Washington  98052.    Respondent,  a  software  and  technology  company,  has
+advertised and promoted its sign-on and online wallet services, Passport and Passport Express Purchase (aka
+Passport Wallet), through the company’s Web site at www.passport.com and elsewhere on the Internet.
+
+The acts and practices of respondent as alleged in this complaint have been in or affecting commerce,
+
+2.
+as “commerce” is defined in Section 4 of the Federal Trade Commission Act.
+
+Passport Security
+
+3.
+Following  the  launch  of  Passport  in  October  1999,  respondent  disseminated  or  caused  to  be
+disseminated  various  versions  of  a  “Microsoft  .NET  Passport  Q&A”  on  Passport.com,  including  but  not
+necessarily limited to that attached as Exhibit A, containing the following statements:
+
+Security and Privacy
+
+How secure is .NET Passport?
+
+.NET Passport achieves a high level of Web Security by using technologies and systems designed to
+prevent unauthorized access to your personal information.
+
+Exhibit A, Microsoft .NET Passport Q&A, http://www.passport.com/Consumer/ ConsumerQA.asp?lc.
+
+4.
+Respondent  also  disseminated  or  caused  to  be  disseminated  on  the  home  page  of  its  Web  site  at
+Passport.com  various  advertisements,  including  but  not  necessarily  limited  to  that  shown  in  Exhibit  B,
+containing the following statements:
+
+Security
+Use  .NET  Passport  from  any  computer  on  the  Internet.    Your  .NET  Passport  is  protected  by  powerful
+online security technology and a strict privacy policy.
+
+Page 1 of  5
+
+                                                            
+Exhibit B, Passport Home Page, http://www.passport.com/Consumer/Default.asp?lc=1033.
+
+5.
+including but not limited to the attached Exhibit C, containing the following statements:
+
+Respondent also disseminated or caused to be disseminated various privacy policies on Passport.com,
+
+SECURITY OF YOUR PERSONAL INFORMATION
+
+Your  .NET  Passport  information  is  stored  on  secure  .NET  Passport  servers  that  are  protected  in
+controlled facilities.
+
+E x h i b i t   C ,   M i c r o s o f t  
+PrivacyPolicy.asp?lc=1033.
+
+. N E T   P a s s p o r t   P r i v a c y   P o l i c y ,   h t t p : / / w w w . p a s s p o r t . c o m / C o n s u m e r /
+
+Through the means  described in Paragraphs 3-5, respondent represented, expressly or by implication,
+6.
+that it maintained a high level of online security by employing sufficient measures reasonable and appropriate
+under the circumstances to maintain and protect the privacy and confidentiality of personal information obtained
+from or about consumers in connection with the Passport and Passport Wallet services.
+
+In truth and in fact, respondent did not maintain a high level of online security by employing sufficient
+7.
+measures   reasonable  and  appropriate  under  the  circumstances  to  maintain  and  protect  the  privacy  and
+confiden tiality  of  personal  information  obtained  from  or  about  consumers   in  connection  with  the  Passport  and
+Passport  Wallet  services.    In  particular,  respondent  failed  to  implement  and  document  procedures  that  were
+reasonable  and  appropriate  to:  (1)  prevent  possible  unauthorized  access  to  the  Passport  system;  (2)  detect
+possible  unauthorized  access  to  the  Passport  system;  (3)  monitor  the  Passport  system  for  potential
+vulnerabilities;  and  (4)  record  and  retain  system  information  sufficient  to  perform  security  audits   a n d
+investigations.    In  light  of  these  deficiencies,  taken  together,  the  representation  set  forth  in  Paragraph  6  was
+false or misleading.
+
+Passport Wallet Security
+
+8. 
+Respondent has  promoted its Passport Express Purchase service, also referred to as Passport Wallet,
+as  an  online  service  that  facilitates  consumers’  online  purchases   by  transmitting  credit  card  numbers,  billing
+information,  and  shipping  information  stored  in  their  Passport  wallet  to  participating  Express  Purchase  sites.
+
+9. 
+Following  the  launch  of  Passport  Wallet  in  October  1999,  respondent  disseminated  or  caused  to  be
+disseminated  on  the  home  page  of  its  Web  site  at  Passport.com   various  advertisements,  including  but  not
+necessarily limited to that shown in Exhibit B, containing the following statements:
+
+Store  information  in  .NET  Passport  wallet  that  will  help  you  make  faster  safer  online  purchases  at
+any .NET Passport express purchase site.
+
+Exhibit B, Passport Home Page, http://www.passport.com/Consumer/Default.asp?lc=1033.
+
+Respondent  also  disseminated  or  caused  to  be  disseminated  various  versions  of  a  “Microsoft  .NET
+10.
+Passport Q&A” on Passport.com, including but not necessarily limited to that attached as Exhibit A, containing
+the following statements:
+
+What is Microsoft .NET Passport and what can I do with it?
+
+Page 2 of  5
+
+* * *
+
+With a .NET Passport, you can:
+
+* * *
+
+Make faster, more secure online purchases with .NET Passport express purchase.
+
+Exhibit A, Microsoft .NET Passport Q&A, http://www.passport.com/Consumer/ ConsumerQA.asp?lc.
+
+11. 
+Through  the  means  described  in  paragraphs  9  and  10,  respondent  represented,  expressly  or by
+implication, that purchases  made at a Passport Express Purchase site with Passport Wallet are safer or more
+secure than purchases  made at the same Passport Express Purchase site without using the Passport Wallet.
+
+In  truth  and  in  fact,  purchases   made  at  a  Passport  Express  Purchase  site  with  Passport  Wallet  are
+12. 
+not, for most consumers, safer or more secure than purchases made at the same Passport Express Purchase
+site without using the Passport Wallet.  Most consumers making credit card purchases at a Passport Express
+Purchase  site  receive  identical  security  whether  they  use  Passport  Wallet  to  complete  a  transaction  or
+purchase  directly  from  the  Passport  Express  Purchase  site  without  using  a  Passport  Wallet.    Therefore,  the
+representations set forth in paragraph 11 were false or misleading.
+
+Passport Privacy - Data Collection
+
+Respondent has  disseminated or caused to be disseminated various  privacy policies  on Passport.com,
+
+13.
+including but not limited to the attached Exhibit C, which contains the following statements:
+
+This  Privacy  Statement  discloses   the  privacy  practices  for  the  .NET  Passport  Web  Site  and  .NET
+
+Passport  Services  in  accordance  with  the  requirements   of  the  TRUSTe  Privacy  Program.  When  you
+visit  a  web  site  displaying  the  TRUSTe  trademark,  you  can  expect  to  be  notified  of  [w]hat  personally
+identifiable information of yours is collected. . . .
+
+E x h i b i t   C ,   M i c r o s o f t  
+PrivacyPolicy.asp?lc=1033.
+
+. N E T   P a s s p o r t   P r i v a c y   P o l i c y ,   h t t p : / / w w w . p a s s p o r t . c o m / C o n s u m e r /
+
+14.
+This  privacy  statement  also  described  in  detail  the  information  collected  from  or  about  consumers  in
+connection  with  their  use  of  the  Passport,  including,  but  not  limited  to:  what  information  is  collected  by
+Passport  when  a  consumer  registers   at  the  Passport.com   site;  what  information  is  collected  by  Passport  and
+by a participating site when a consumer registers for Passport through that participating site; what information
+is  collected  by  participating  sites  when  a  consumer  signs  in  with  a  Passport;  “operational”  information
+generated  in  connection  with  a  Passport  account;  the  association  of  a  unique  identification  number  with  every
+Passport  account;  and  the  collection  of  sign-in  and  other  information  in  temporary  cookies  that  are  deleted
+when the consumer signs out of Passport. 
+
+Through  the  means   described  in  paragraphs   13-14,  respondent  represented,  expressly  or  by
+15.
+implication, that Passport did not collect any personally identifiable information other than that described in its
+privacy policy.
+
+16.
+In  truth  and  in  fact,  Passport  did  collect  personally  identifiable  information  other  than  that  described
+in its privacy policy.  In particular, Passport collected, and maintained for a limited period of time, a personally
+
+Page 3 of  5
+
+identifiable  record  of  the  sites   to  which  a  Passport  user  signed  in,  along  with  the  dates  and  times   of  sign  in,
+which  customer  service  representatives  linked  to  a  user’s  name  in  order  to  respond  to  a  user’s  request  for
+service.  Therefore, the representation set forth in paragraph 15 was false or misleading.
+
+Kids Passport
+
+Respondent  has   promoted  its  Kids  Passport  service  as  an  online  service  that  assists  parents  in
+
+17.
+protecting their children’s online privacy.
+
+Since  the  introduction  of  Kids  Passport  in  April  2000,  respondent  has  disseminated  or  caused  to  be
+
+18.
+disseminated  various  Kids  Passport  web  pages   and  privacy  policies,  including  but  not  necessarily  limited  to
+the attached Exhibits D and E, which contain the following statements: 
+
+A.
+
+Welcome to Kids Passport
+Helping parents protect their children’s privacy online
+. . .
+
+Learn about the Children’s Online Privacy Protection Act
+Discover how Passport Kids is helping parents to keep their children’s identity safe online.
+. . .
+
+Microsoft Kids Passport is a free service that helps  you conveniently protect and control your
+children’s   online  privacy.  .  .  With  Kids  Passport,  you  can  grant  or  deny  consent  to
+participation  (sic)  web  sites   (including  the  Microsoft  family  of  web  sites)  to  collect  personal
+information from your children.  In addition, you can make specific choices for each child and
+for each site, all in one convenient, centralized location.
+
+Exhibit D, Kids Passport web pages, http://kids.passport.com.
+
+B.
+
+Microsoft Kids Passport Privacy Statement
+
+Microsoft  is  especially  concerned  about  the  safety  and  protection  of  children’s   personal
+information  collected  and  used  online.    Microsoft  Kids  Passport  (“Kids  Passport”)  allows
+parents  to  consent  to  the  collection,  use  and  sharing  of  their  children’s  information  with
+Passport  participating  sites   and  services  that  have  agreed  to  use  Kids  Passport  as  their
+parental consent process.
+. . .
+
+USE OF CHILDREN’S PERSONAL INFORMATION BY PASSPORT
+. . .
+Passport  does   not  share  this  information  contained  in  your  child’s   Passport  profile  with  third
+parties, except for Passport participating sites where you have consented to such sharing, or
+as otherwise disclosed in this statement.
+
+. . .
+CONTROL OF CHILDREN’S PERSONAL INFORMATION
+Kids Passport allow you to limit the amount of information shared with the sites and services
+participating in the Kids Passport program.  You can choose to allow Passport to share all of
+the  information  in  your  child’s  Passport  profile  with  a  participating  site  or  service,  or  you  can
+limit the information shared to just a unique identifier or age range.
+. . . 
+
+Page 4 of  5
+
+ 
+Exhibit  E,  Microsoft  Kids  Passport  Privacy  Statement,  http://www.passport.com/
+consumer/privacy/policy.asp/PPIcid=1033.
+
+Through  the  means   described  in  Paragraph  18,  respondent  represented,  expressly  or  by  implication,
+19.
+that the Kids Passport service provided parents with control over the information their children could provide to
+participating Passport sites and the use of that information by such sites . 
+
+In truth and in fact, the Kids Passport service did not provide parents with control over the information
+20.
+their  children  could  provide  to  participating  Passport  sites  and  the  use  of  that  information  by  such  sites.    For
+instance,  once  a  parent  set  up  a  child’s   Passport  account  and  provided  consent  for  the  collection  and/or
+disclosure  of  the  types  of  personal  information  lis ted  in  respondent’s  privacy  policy,  respondent  permitted  the
+child  to  edit  or  change  certain  fields  of  personal  information  and  change  account  settings  set  by  the  parent. 
+Respondent  also  failed  to  clearly  inform  parents  that  in  some  instances   information  would  be  disclosed  to
+Passport  Web  sites  that  do  not  participate  in  the  Kids  Passport  service.      Therefore,  the  representations  set
+forth in paragraph 19 were false or misleading.
+
+21.
+or practices in or affecting commerce in violation of Section 5(a) of the Federal Trade Commission Act.
+
+The acts and practices of respondent as alleged in this complaint constituted unfair or deceptive acts
+
+THEREFORE, the Federal Trade Commission this twentieth day of December, 2002, has issued this complaint
+against respondent.
+
+By the Commission.
+
+Donald S. Clark
+Secretary
+
+Page 5 of  5
+
+ 
+

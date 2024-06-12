@@ -1,0 +1,176 @@
+UNITED STATES OF AMERICA
+FEDERAL TRADE COMMISSION
+
+082 3113
+
+COMMISSIONERS:
+
+Jon Leibowitz, Chairman
+Pamela Jones Harbour
+William E. Kovacic
+J. Thomas Rosch
+
+In the Matter of
+
+GENICA CORPORATION,
+a corporation,
+
+)
+)
+)
+)
+)
+)
+)
+)
+)
+COMPGEEKS.COM also doing business as
+)
+COMPUTER GEEKS DISCOUNT OUTLET
+)
+and GEEKS.COM,
+a corporation.
+)
+                                                                                    )
+
+and
+
+DOCKET NO. C-4252
+
+COMPLAINT
+
+The Federal Trade Commission, having reason to believe that Genica Corporation and
+
+Compgeeks.com also doing business as Computer Geeks Discount Outlet and geeks.com
+(“respondents”) have violated the provisions of the Federal Trade Commission Act, and it
+appearing to the Commission that this proceeding is in the public interest, alleges:
+
+1.
+
+2.
+
+3.
+
+Respondent Genica Corporation (“Genica”) is a Delaware corporation with its principal
+office or place of business at 1890 Ord Way, Oceanside, California 92056.
+
+Respondent Compgeeks.com also doing business as Computer Geeks Discount Outlet
+and geeks.com (“Compgeeks.com”) is a California corporation with its principal office or
+place of business at 1890 Ord Way, Oceanside, California 92056.  Compgeeks.com is a
+wholly-owned subsidiary of Genica, and Genica controlled the acts and practices of
+Compgeeks.com at issue in this complaint.
+
+The acts and practices of respondents as alleged in this complaint have been in or
+affecting commerce, as “commerce” is defined in Section 4 of the Federal Trade
+Commission Act.
+
+1
+
+                                                                                    
+4.
+
+5.
+
+6.
+
+7.
+
+8.
+
+Respondents are in the business of selling computer systems, peripherals, and consumer
+electronics to consumers over the internet, including through a website (www.geeks.com)
+operated by respondent Compgeeks.com.  
+
+Respondents operate a computer network that consumers use, in conjunction with the
+www.geeks.com website and web application, to obtain information and to buy their
+products.  
+
+In selling products through the www.geeks.com website, respondents routinely collect
+sensitive information from consumers to obtain authorization for credit card purchases,
+including a first and last name, address, e-mail address, telephone number, credit card
+number, credit card expiration date, and credit card security code (hereinafter “personal
+information”).  Personal information collected at the website is sent to computers on
+respondents’ computer network, reformatted, and sent to outside computer networks for
+payment authorization.  Until at least December 2007, respondents stored information in
+clear, readable text on the network on a computer accessible through the www.geeks.com
+website.
+
+Since at least October 2001, respondents have disseminated or caused to be disseminated
+privacy policies and statements on the www.geeks.com website, including, but not
+limited to, the following statements regarding the privacy and confidentiality of the
+consumer information they collect:
+
+The objective of the safeguarding personal information principle is
+to assure you that we actively protect your privacy using a variety
+of security and controls.  We use secure technology, privacy
+protection controls and restrictions on employee access in order to
+safeguard your personal information.  We use state of the art
+technology (e.g., Secure Socket Layer, or SSL) encryption to keep
+customer personal information as secure as possible.  We have also
+put in place privacy protection control systems designed to ensure
+that personal Customer data remains safe and private.  (Exhibit A,
+current privacy policy effective 2007, and Exhibit B, former
+privacy policy effective between 2001 and 2007)
+
+Until at least December 2007, respondents engaged in a number of practices that, taken
+together, failed to provide reasonable and appropriate security for the personal
+information stored on their network.  Among other things, respondents: (1) stored
+personal information in clear, readable text; (2) did not adequately assess the
+vulnerability of their web application and network to commonly known or reasonably
+foreseeable attacks, such as “Structured Query Language” (“SQL”) injection attacks; (3)
+did not implement simple, free or low-cost, and readily available defenses to such
+attacks; (4) did not use readily available security measures to monitor and control
+connections between computers on the network and from the network to the internet; and
+
+2
+
+(5) failed to employ reasonable measures to detect and prevent unauthorized access to
+personal information, such as by logging or employing an intrusion detection system. 
+
+Since at least January 2007 and continuing through at least June 2007, hackers repeatedly
+exploited the failures set forth in Paragraph 8 by using SQL injection attacks on the
+www.geeks.com website and web application.  Through these attacks, the hackers found
+personal information stored on respondents’ network and exported the information of
+hundreds of customers, including credit card numbers, expiration dates, and security
+codes, over the internet to outside computers.
+
+Respondents became aware of the breach in December 2007, at which time they took
+steps to prevent further unauthorized access and to notify law enforcement and affected
+consumers.
+
+Through the means described in Paragraph 7, respondents represented, expressly or by
+implication, that they implemented reasonable and appropriate measures to protect
+personal information against unauthorized access.
+
+In truth and in fact, respondents did not implement reasonable and appropriate measures
+to protect personal information against unauthorized access.  Therefore, the
+representation set forth in Paragraph 11 was, and is, false or misleading.
+
+The acts and practices of respondents as alleged in this complaint constitute deceptive
+acts or practices in or affecting commerce in violation of Section 5(a) of the Federal
+Trade Commission Act.
+
+9.
+
+10.
+
+11.
+
+12.
+
+13.
+
+THEREFORE, the Federal Trade Commission this sixteenth day of March, 2009, has
+
+issued this complaint against respondents.
+
+By the Commission.
+
+SEAL
+
+Donald S. Clark
+Secretary
+
+3
+
+

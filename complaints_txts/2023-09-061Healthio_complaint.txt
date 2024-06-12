@@ -1,0 +1,641 @@
+UNITED STATES OF AMERICA 
+BEFORE THE FEDERAL TRADE COMMISSION 
+
+1923170 
+
+COMMISSIONERS: 
+
+Lina M. Khan, Chair 
+Rebecca Kelly Slaughter 
+Alvaro M. Bedoya 
+
+In the Matter of 
+
+1HEALTH.IO INC., a corporation, also d/b/a 
+VITAGENE, INC. 
+
+DOCKET NO.  C-4798 
+
+COMPLAINT 
+
+The Federal Trade Commission (“FTC”), having reason to believe that 1Health.io Inc., 
+also doing business as Vitagene, Inc. and Vitagene, a corporation (“Respondent”), has violated 
+the provisions of the Federal Trade Commission Act, and it appearing to the Commission that 
+this proceeding is in the public interest, alleges: 
+
+Respondent 1Health.io Inc., also doing business as Vitagene, Inc. and Vitagene 
+
+1. 
+(“1Health.io” or “Vitagene”), is a Delaware corporation with its principal office or place of 
+business at 201 Spear Street, Suite 1100, San Francisco, California 94105.  Respondent changed 
+its name from Vitagene, Inc. to 1Health.io Inc. in October 2020. 
+
+Respondent has developed, advertised, offered for sale, sold, and distributed products to 
+
+2. 
+consumers, including DNA test kits, through its websites, https://1health.io and 
+https://vitagene.com (“Vitagene Website”), and other outlets, such as www.amazon.com. 
+
+The acts and practices of Respondent alleged in this complaint have been in or affecting 
+
+3. 
+commerce, as “commerce” is defined in Section 4 of the Federal Trade Commission Act. 
+
+RESPONDENT’S DNA HEALTH TEST KITS AND RELATED PRODUCTS 
+
+Since 2015, Respondent has sold Vitagene-branded “DNA Health Test Kits” to 
+
+4. 
+consumers.  In each DNA Health Test Kit, Respondent instructs the consumer to provide a saliva 
+sample by mail.  Respondent contracts with a testing lab to analyze the sample and map a portion 
+of the consumer’s genetic code. 
+
+Respondent combines the lab’s DNA analysis with the consumer’s answers to an online 
+
+5. 
+“health questionnaire” that probes the individual’s health history, lifestyle, and family health 
+
+1 
+
+ 
+history.  Using this information, Respondent generates reports about the consumer’s health and 
+wellness (“Health Reports”) and ancestry. 
+
+6. 
+Respondent also sells to consumers Health Reports that Respondent creates by using 
+consumers’ answers to an online “lifestyle questionnaire” and raw DNA data that consumers 
+send to Respondent after the consumers have obtained DNA tests from certain companies other 
+than Respondent. 
+
+7. 
+In addition to DNA Health Test Kits, Health Reports, and ancestry reports, Respondent’s 
+products include nutritional, fitness, and beauty plans and nutritional supplements customized to 
+each consumer’s unique DNA. 
+
+The retail cost for a single DNA Health Test Kit, Health Report, and ancestry report 
+
+8. 
+ranges from $29 to $259, with high-end kits including add-ons, such as subscriptions to 
+personalized vitamin packs and nutritional coaching. 
+
+9. 
+The Health Reports that Respondent creates contain numerous facts about the consumer’s 
+genetics and health.  For example, one type of Health Report first lists the consumer’s name, date 
+of birth, and referring doctor or dietician, and then identifies salient genotype data, pertinent 
+questionnaire answers, and, based on the genotype data and questionnaire answers, the level of 
+risk for having or developing certain health conditions, such as high LDL cholesterol, high 
+triglycerides, obesity, or blood clots. 
+
+RESPONDENT’S DECEPTIVE PRIVACY AND SECURITY PROMISES 
+
+Since at least 2018, Respondent has made numerous, prominent claims about the privacy 
+
+10. 
+and security of the sensitive health and genetic information it collects and maintains.  For 
+example, the Vitagene Website’s home page, https://vitagene.com, devotes a section to “DNA 
+Testing Privacy” that, as shown below, prominently features an image of a large padlock over a 
+strand of DNA and asserts:  “Your DNA and health details are personal and private. We make 
+your privacy our priority.” 
+
+Your DNA and health details are personal and private. We make your privacy our priority. 
+
+Testing Privacy 
+
+Wo will not sell or publish your information with any third party firm or partner. That is our commitment to you. 
+
+We use industry standard security practices to store your DNA sample. your test results. 
+and any other personal data you provide. 
+
+loam more 
+
+2 
+
+ 
+ 
+ 
+ 
+As shown above, the Vitagene Website home page includes a button that consumers can 
+11. 
+click to “Learn more” about Respondent’s “DNA Testing Privacy.”  That button provides a link 
+to a webpage on the Vitagene Website that Respondent devotes to describing Respondent’s 
+privacy practices, https://vitagene.com/privacy/.  Like the Vitagene Website home page, as 
+shown below, the website’s privacy webpage prominently features images of padlocks, with the 
+large-type, bold-faced heading:  “The most personal information must also be the most 
+private.”  (Emphasis in original).  Under that heading, Respondent asserts:  “[W]e design 
+innovative ways to protect your data and build powerful safeguards into our platform to ensure 
+the safety of your personal information. As your lifelong partner on your health journey, your 
+privacy is our top priority.”  (Emphasis in original). 
+
+("'\ 
+
+,., 
+
+The most personal information must 
+also be the most private. 
+
+Vit 
+
+wm, f 
+
+.d ori t 
+
+,:,t P'CM  "'9 W 
+
+occurato and oct,onoD!o 
+
+WormObOn to ol"l"lp(Mut poop:O lO •vo l'lopP"OJ ond tlOO?\hiiOf livt1.-.  To SUP90'\ lhOl 
+rnom>t\ ,..,-.go"'"'"''""'° ""YI to p,o<oct yo.,r cloto ond build P""  m,1 oof"l!'•o"'" 
+
+o our platform to MIIU'8 t 
+
+1,0f 
+
+of your  ~ rvmat.on 
+
+Aa you, Rt- .g  pa,.,_ on your ,_h  jownoy. your p,lva<:y la..,, top p,fority. 
+
+On the Vitagene Website privacy webpage, as shown below, under the bold-faced 
+
+12. 
+heading, “Experience personalization without sacrificing privacy,” Respondent features an 
+image of a padlock with the sub-heading “Rock-solid Security.”  (Emphasis omitted). 
+Accompanying this image and sub-heading is the statement:  “We use the latest technology and 
+exceed industry-standard security practices to protect your privacy.” 
+
+Experience personalization without sacrificing privacy. 
+
+Your privacy is your business 
+Wo do not soil your doto to ony th,rd-porty, 
+
+1ndividuolly or in oggrogote form. 
+
+You're in control of your data 
+You con dolote your doto ot ony timo. This will 
+remove your information from oll of our 
+
+sorvors. 
+
+Rock-solid Security 
+Wo uso tho lotost technology ond oxcoed 
+
+industry-stondord security practices to 
+protoct your privacy. 
+
+13. 
+Also on the Vitagene Website privacy webpage, Respondent gives its consumers 
+additional assurances of its careful privacy and security practices.  For example, as shown below, 
+Respondent asserts, in bold-faced type:  “Vitagene collects, processes, and stores your 
+personal information in a responsible, transparent and secure environment that fosters our 
+
+3 
+
+ 
+  
+customers’ trust and confidence.”  At the bottom of this webpage, Respondent further 
+represents in bold typeface:  “Your health information is yours, and yours only. Your trust 
+means a great deal to us, and drives our continued commitment to protecting your 
+privacy.” 
+
+Vitagene collect s, processes, and stores your 
+personal informat ion in a responsible, 
+transparent and sec ure environment that 
+fosters our customers' t rust and c onfidence. 
+
+Porsonol lnformotton Includos, but is nol l1mItod to nomes. 
+phono numbers. physical or moiling oddrossos. email 
+addrossos, liloctylo quost,onnaIro. and gonotic tost results. 
+
+Vitagene collect s data to operate effectively 
+and provide you the best experiences with 
+our products. 
+
+v,tageno use  tho dote we collect to provtdo you tho 
+sorvicos wo aflor. IncludIng Improv,ng and porsonahzmg 
+your oxpenences. We may also use the data to 
+communicato with you about your tost progress. your 
+account. and to provide product mrormat1on ,ncluding 
+occosionol marl<oling olfors. You may opt out of rocoiving 
+mo,1<e11ng communication at any time. 
+
+Your health information is yours. and yours only. Your trust means a 
+great deal to us, and drives our continued commitment to protecting 
+your privacy. 
+
+14. 
+Respondent reiterates these claims about its commitment to privacy and security 
+throughout the Vitagene Website.  For example, as shown below, on a webpage titled “How It 
+Works,” https://vitagene.com/how-it-works/, Respondent represents:  “We believe that genetic 
+information deserves the highest level of security. Therefore, your privacy is a top priority at 
+Vitagene.” 
+
+Take the guesswork out of achieving your goals 
+
+We believe that genetic information deserves the highest 
+
+level of security. Therefore, your privacy is a  top priority at 
+
+Vitagene. Rest assured, your enrollment information, health 
+
+goals, medical history, and genetic information will be 
+
+protected  by industry standard security practices. 
+
+4 
+
+RESPONDENT’S DECEPTIVE PROMISES TO SEPARATE DNA 
+FROM OTHER IDENTIFYING INFORMATION 
+
+Since at least 2018, Respondent has described a specific manner in which it protects the 
+
+15. 
+privacy and security of consumers’ information:  separating DNA from any other identifying 
+information.  Specifically, since at least 2018, on the Vitagene Website “How It Works” 
+webpage and as shown below, Respondent has provided a list of “[t]hree of the ways we protect 
+your privacy,” which includes separation of DNA results from identifying information:  “Your 
+results and DNA sample are stored without your name or any other common identifying 
+information.” 
+
+Three of the ways we protect your privacy: 
+
+1.  Your results and DNA sample are stored without your 
+name or any other common identifying information. 
+
+Respondent prominently repeats this claim about separation of DNA and other 
+
+16. 
+identifying information elsewhere on the Vitagene Website.  On a webpage devoted to answering 
+“Frequently Asked Questions,” https://vitagene.com/frequently-asked-questions/, as shown 
+below, Respondent answers the questions, “Is my data protected?” and “How is my privacy 
+protected?”, by asserting (in part):  “Your results and DNA [“sample” or “files”] are stored 
+without any identifying information….” 
+
+Is my data protected? 
+
+• 
+
+Vitogene uses industry standard security practices to store and protect your ONA samplo, rosu!ts. and any odditionol tnformot,on you provide. Your 
+
+rosults and ONA sompla ore stored without any identifying ,nlormat,on and your physical sompla is dostroyod ofter it ,s processed. Vitogono does not 
+
+shore your information with any third porty without your OlCplicit consent 
+
+• 
+
+Haw is my privacy protected? 
+
+V,togono usos industry stondord security practices to store and protect your ONA filo. results. and any add,tJonal 1nformot,on you provide. Your results 
+
+and ONA filas oro storad without any identifying ,nformotion Vitagene does not share your information w,th any third party without your explicit 
+
+consent 
+
+RESPONDENT’S DECEPTIVE PROMISE TO DELETE 
+ALL DATA UPON CONSUMER REQUEST 
+
+17. 
+Since at least 2018, Respondent has promised that consumers can readily delete all of 
+their information.  On the Vitagene Website privacy webpage, as shown below, under the sub-
+heading “You’re in control of your data,” Respondent has represented:  “You can delete your 
+data at any time. This will remove your information from all of our servers.” 
+
+5 
+
+Experience personalization without sacrificing privacy. 
+
+Your privacy is your business 
+Wo do not soil your doto to ony third-party, 
+
+You're in control of your data 
+You con dolete your doto ot ony timo This will 
+
+Rock-solid Security 
+We use tho lotost technology ond oxcoed 
+
+,ndiv,duolly or ,n oggregote form 
+
+removo your informot,on from oll of our 
+
+industry-standard sacunty proctJces to 
+
+sorvors. 
+
+protoct your privacy. 
+
+RESPONDENT’S DECEPTIVE PROMISE TO DESTROY DNA SALIVA SAMPLES 
+
+Since at least 2018, Respondent has promised on multiple webpages that it destroys the 
+
+18. 
+physical DNA samples it collects from consumers after the samples have been analyzed. 
+Specifically, on the Vitagene Website “How It Works” webpage, and as shown below, 
+Respondent has represented:  “Vitagene destroys your physical DNA saliva sample after it has 
+been analyzed.”  As also shown below, Respondent repeats this claim on the Vitagene Website 
+“Frequently Asked Questions” webpage, in response to the question: 
+“Is my data protected?” (“your physical sample is destroyed after it is processed”). 
+
+Three of the ways we protect your privacy: 
+1.  Your results and DNA sample are stored without your 
+name or any other common identifying information. 
+
+2.  Vitagene destroys your physical DNA saliva sample after 
+it has been analyzed. 
+
+3.  We don't share your information with any third party 
+without your explicit consent. 
+
+Is m y data p r otected? 
+
+• 
+
+Vitogene uses industry stonctord securrty practices to storo ond protect your ONA sample. rosults. ond ony odditionol mformotion you provide. Your 
+
+results ond ONA sample ore stored without any 1dentity,ng ,nformot,on and your physical samplo is destroyed ofter ,t ,s processod. Vitogene does not 
+
+shoro your 1nformo11on with ony third party w,thout your explicit consent 
+
+Beginning in approximately December 2016, Respondent lacked measures to ensure that 
+
+19. 
+consumers’ saliva samples were destroyed shortly after they had been analyzed.  In particular, 
+Respondent did not have a contract provision with its genotyping laboratory partner requiring 
+such destruction. 
+
+6 
+
+   
+ 
+ 
+RESPONDENT’S PRIVACY POLICY REVISIONS REGARDING 
+MORE EXPANSIVE SHARING OF CONSUMERS’ 
+SENSITIVE PERSONAL INFORMATION WITH THIRD PARTIES 
+
+From at least 2017 until April 2020, Respondent’s privacy policy defined “personal 
+20. 
+information” to include “Enrollment Information, Family History, Lab work, Health Goals, 
+Medical History, Genetic Data, and Enrollment Form.”  The privacy policy also stated:  “A large 
+portion of the Personal Information we collect, use, share, and store is sensitive in nature, 
+including any and all medical information for example Genetic Data & Other Personal 
+Information.” 
+
+Consistent with Respondent’s numerous prominent claims about maintaining privacy and 
+
+21. 
+security for the sensitive health and genetic information Respondent collects from consumers, 
+from at least 2017 until April 2020, Respondent’s privacy policy stated that Respondent would 
+share consumers’ personal information with third parties only in limited circumstances for 
+narrow purposes.  Specifically, the privacy policy stated that Respondent would share 
+consumers’ personal information with their physicians or other medical professionals under 
+consumers’ direction; with Respondent’s business partners or service providers, such as credit 
+card processors or contracted genotyping laboratories, “only as necessary to” help Respondent 
+provide, understand, or improve its services; as required by law; with any third party with a 
+consumer’s prior consent; or via transfer of Respondent’s business to another entity.  During part 
+of that time period, Respondent’s privacy policy also stated that Respondent would share 
+consumers’ personal information with business partners, affiliates, sponsors, or other third 
+parties in an aggregate, non-personally identifiable form. 
+
+From at least 2017 to April 2020, Respondent’s privacy policy also stated:  “We reserve 
+
+22. 
+the right to update, change, modify or otherwise alter this Privacy Policy at any time. If any 
+material changes are made to this Privacy Policy, Vitagene will notify you by posting the revised 
+Privacy Policy on the Services or notifying you through the Services. ANY ACCESS OR USE 
+OF THE SERVICES BY YOU AFTER THE CHANGES GO INTO EFFECT SHALL 
+CONSTITUTE AND BE DEEMED YOUR AGREEMENT TO THIS PRIVACY POLICY.” 
+
+In April and December 2020, Respondent published revised privacy policies 
+
+23. 
+(collectively, “Respondent’s 2020 privacy policies”) that apply to all of Respondent’s customers, 
+including those who purchased products and services from Respondent solely before April 2020. 
+Compared to Respondent’s previous privacy policy, Respondent’s 2020 privacy policies 
+significantly expand the types of third parties with whom, and the purposes for which, 
+Respondent may share consumers’ personal information.  For example, Respondent’s 2020 
+privacy policies state that Respondent shares personal information with third parties such as 
+pharmacies, supermarket chains, nutrition and supplement manufacturers, and other providers 
+and retailers so they can promote and offer their products and services to Respondent’s 
+customers; with third parties for their own services and marketing purposes unless a customer 
+opts out of such sharing; and with partners, third parties, or affiliates, including for those third 
+parties’ own purposes.  Respondent’s December 2020 version of its privacy policy currently 
+remains in effect.  
+
+7 
+
+ 
+ 
+ 
+24.  When Respondent posted the 2020 privacy policies, Respondent did not take any 
+additional steps to notify consumers who had provided sensitive personal information to 
+Respondent prior to the 2020 privacy policy changes or to obtain consumers’ consent for the 
+material changes to its policies with respect to the sharing of such information, including sharing 
+that Respondent’s previously posted privacy policy had stated would take place only with the 
+consumer’s consent. 
+
+Although Respondent has not yet implemented the broader information sharing practices 
+25. 
+stated in its 2020 privacy policies, it could do so at any time without further notice to consumers. 
+
+RESPONDENT’S PUBLIC EXPOSURE OF 
+CONSUMERS’ HEALTH AND GENETIC INFORMATION 
+
+As part of its information technology infrastructure, Respondent uses Amazon Web 
+
+26. 
+Services’ (“AWS’s”) Simple Storage Service (the “Amazon S3 Datastore”).  The Amazon S3 
+Datastore is a scalable cloud storage service that entities use to store and retrieve data in virtual 
+containers, called “Buckets.” 
+
+Respondent stores a variety of files containing sensitive health and genetic information in 
+
+27. 
+Amazon S3 Datastore Buckets.  These files include, among other things, consumers’ Health 
+Reports; genotype data called single-nucleotide polymorphisms (“SNPs”), which are the most 
+common type of genetic variation among people; and other raw genotype data. 
+
+28. 
+Despite the fact that Respondent stores consumers’ sensitive personal information in the 
+Amazon S3 Datastore, Respondent did not uniformly apply basic safeguards to the data in each 
+of its Amazon S3 Datastore Buckets.  In or about 2016, Respondent created a publicly accessible 
+Bucket in which Respondent stored Health Reports for at least 2,383 consumers and a publicly 
+accessible Bucket in which Respondent stored raw genetic data (sometimes accompanied by first 
+name) for at least 227 consumers (“Health and Genetic Buckets”).  Respondent did not use any 
+access controls to restrict access to this sensitive data, encrypt it, log or monitor access to it, or 
+inventory it to help ensure ongoing security.  As a result of Respondent’s disregard for the basic 
+security of the Health and Genetic Buckets, Respondent publicly exposed online the health and 
+genetic information of more than 2,600 consumers. 
+
+Between July 2017 and June 2019, Respondent received at least three warnings that it 
+
+29. 
+was storing consumers’ unencrypted health, genetic, and other personal information in publicly 
+accessible Buckets.   
+
+Respondent received its first warning in July 2017.  At that time, AWS sent Respondent 
+
+30. 
+an email message, with the subject line “Securing Amazon S3 Buckets,” “to remind 
+[Respondent] that one or more of [its] Amazon S3 bucket access control lists (ACLs) [was] 
+currently configured to allow read access from any user on the Internet.”  The message included 
+a list of six of Respondent’s Buckets that were “configured to allow read access from anyone on 
+the Internet,” including the Health and Genetic Buckets.  The message encouraged Respondent 
+to promptly review its Buckets and provided a link to the AWS Management Console where 
+Respondent could have quickly reviewed its Bucket access controls and a link to guidance about 
+
+8 
+
+ 
+how to restrict Bucket access.  Despite this warning, Respondent did not restrict access to the 
+Health and Genetic Buckets. 
+
+31. 
+Respondent received its second warning in November 2018, when a security testing 
+company that conducted a web application penetration test for Respondent “found that uploaded 
+DNA data was being stored in Amazon S3 . . . without any access controls.”  Despite this 
+warning, Respondent did not restrict access to the Health and Genetic Buckets. 
+
+In June 2019, Respondent received its third warning.  On June 27, 2019, a security 
+
+32. 
+researcher emailed Respondent’s support inbox regarding a security issue with Respondent’s 
+web application.  On July 1, 2019, the security researcher sent Respondent an email with 
+publicly accessible links to Health Reports and files in the Health and Genetic Buckets.  The 
+security researcher stated that he had “been able to confirm via the details” that the publicly 
+exposed files pertained to “real individuals and real doctors” and that they were not “testing or 
+‘made up’ records.”  The security researcher later reported his findings to the news media, which 
+published articles about this breach of security in July 2019. 
+
+33. 
+In July 2019, Respondent began an investigation into the public exposure of the Health 
+and Genetic Buckets.  Because Respondent had not taken steps to log access to the Health and 
+Genetic Buckets, Respondent was unable to determine exactly when the Buckets had been 
+created or whether anyone other than the security researcher had accessed, downloaded, or 
+transferred any of the sensitive health, genetic, and personal information they contained. 
+
+34. 
+In August 2019, Respondent notified affected consumers about the breach.  Numerous 
+consumers complained to Respondent about its failure to safeguard their sensitive information. 
+For example, one consumer wrote to Respondent:  “I am horrified that my dna is out there for 
+anyone to use.”  Another wrote:  “This is worse than credit card and financial info because it’s 
+related to my health.”  A third simply said:  “Shame on Vitagene for not having its consumers in 
+their best interest.” 
+
+Because Respondent did not maintain a data inventory, from approximately 2016 through 
+
+35. 
+July 1, 2019, Respondent could not search the Health and Genetic Buckets in response to 
+consumers’ requests for Respondent to delete their data. 
+
+Count I 
+Security Misrepresentation – Exceeding Industry Standards 
+
+As described in Paragraph 12, Respondent represented, directly or indirectly, expressly or 
+
+36. 
+by implication, that it exceeded industry-standard security practices to protect the privacy of 
+consumers’ sensitive personal information, including their health and genetic information. 
+
+In fact, as set forth in Paragraphs 26-35, Respondent’s security practices did not exceed 
+
+37. 
+industry-standard security practices to protect the privacy of consumers’ sensitive personal 
+information.  Therefore, the representations set forth in Paragraph 12 are false or misleading. 
+
+9 
+
+ 
+Count II 
+Security Misrepresentation – Storing DNA Results without Identifying Information 
+
+As described in Paragraphs 15-16, Respondent represented, directly or indirectly, 
+
+38. 
+expressly or by implication, that it stored consumers’ DNA results without name or any other 
+common identifying information. 
+
+In fact, as set forth in Paragraphs 9 and 28, Respondent stored DNA results with name 
+
+39. 
+and other common identifying information.  Therefore, the representations set forth in 
+Paragraphs 15-16 are false or misleading. 
+
+Count III 
+Privacy Misrepresentation – Data Deletion 
+
+As described in Paragraph 17, Respondent represented, directly or indirectly, expressly or 
+
+40. 
+by implication, that if a consumer requested deletion of his or her data, Respondent would 
+remove all of that consumer’s information. 
+
+In fact, as set forth in Paragraph 35, because Respondent did not have an inventory of 
+
+41. 
+consumers’ information, including in the Health and Genetic Buckets it exposed publicly, in at 
+least some instances, Respondent could not delete all consumer information for consumers who 
+requested deletion of their data.  Therefore, the representations set forth in Paragraph 17 are false 
+or misleading. 
+
+Count IV 
+Privacy Misrepresentation – Saliva Sample Destruction 
+
+As described in Paragraph 18, Respondent represented, directly or indirectly, expressly or 
+
+42. 
+by implication, that it destroys the consumer’s physical DNA saliva sample shortly after the 
+sample has been analyzed. 
+
+In fact, as set forth in Paragraph 19, beginning in approximately December 2016, 
+
+43. 
+Respondent did not have measures in place to ensure that consumers’ saliva samples were 
+destroyed shortly after they had been analyzed.  In particular, Respondent did not have a contract 
+provision with its genotyping laboratory partner requiring such destruction.  Therefore, the 
+representations set forth in Paragraph 18 are false or misleading. 
+
+Count V 
+Unfair Adoption of Material Retroactive Privacy Policy Changes Regarding 
+Sharing of Consumers’ Sensitive Personal Information with Third Parties 
+
+44. 
+As described in Paragraphs 20-25, in April and December 2020, Respondent posted 
+revised privacy policies containing material changes to Respondent’s practices for sharing 
+consumers’ sensitive personal information with third parties, including the health and genetic 
+information of consumers who purchased products and services from Respondent solely before 
+April 2020.  Respondent made those material retroactive changes without taking any additional 
+steps to notify consumers or obtain consumers’ consent even though Respondent’s numerous 
+
+10 
+
+ 
+ 
+ 
+prominent privacy and security claims when it had collected consumers' sensitive personal 
+infonnation, as described in Paragraphs  I 0-16, demonstrate Respondent's understanding that 
+consumers consider it impo1iant to be able to control and limit access to such infonnation. 
+Unauthorized access to a consumer's sensitive health and genetic info1mation can lead to a 
+variety ofhanns, including discrimination or economic or reputational injmy.  Accordingly, 
+Respondent's retroactive application of its revised privacy policies caused or is likely to cause 
+substantial injmy to consumers that is not outweighed by counte1vailing benefits to consumers or 
+competition and is not reasonably avoidable by consumers.  This is an unfair act or practice. 
+
+VIOLATIONS OF SECTION 5 OF THE FTC ACT 
+
+The acts and practices of Respondent as alleged in this complaint constitute unfair or 
+
+45. 
+deceptive acts or practices, in or affecting commerce in violation of Section 5(a) of the Federal 
+Trade Commission Act. 
+
+THEREFORE, the Federal Trade Commission this 6th day of September, 2023, has 
+
+issued this Complaint against Resp ondent. 
+
+By the Commission. 
+
+SEAL: 
+
+April J.  Tabor 
+Secretruy 
+
+11 
+
+

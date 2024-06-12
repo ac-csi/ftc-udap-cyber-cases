@@ -1,0 +1,1151 @@
+UNITED STATES OF AMERICA 
+BEFORE THE FEDERAL TRADE COMMISSION 
+
+2023185 
+
+COMMISSIONERS: 
+
+Lina M. Khan, Chair 
+Noah Joshua Phillips 
+Rebecca Kelly Slaughter 
+Christine S. Wilson 
+Alvaro M. Bedoya 
+
+In the Matter of 
+
+DRIZLY, LLC, a Limited Liability Company, 
+
+DOCKET NO. 
+
+and 
+
+JAMES CORY RELLAS, individually, and as an 
+officer of DRIZLY, LLC. 
+
+COMPLAINT 
+
+The Federal Trade Commission (“FTC”), having reason to believe that Drizly, LLC, a 
+
+limited liability company, and James Cory Rellas, individually and as an officer of Drizly, LLC 
+(collectively “Respondents”), violated provisions of the Federal Trade Commission Act, 15 
+U.S.C. § 45(a)(1), and it appearing to the Commission that this proceeding is in the public 
+interest, alleges: 
+
+1. 
+
+2. 
+
+3. 
+
+4. 
+
+Respondent Drizly, LLC (“Drizly”) is a Delaware limited liability company with its 
+principal place of business at 501 Boylston Street, Boston, MA 02216.  Until October 13, 
+2021, Drizly was a subsidiary of The Drizly Group, Inc., a holding company.  On October 13, 
+2021, Drizly, LLC became a wholly-owned subsidiary of Uber Technologies, Inc. (“Uber”). 
+
+Respondent James Cory Rellas (“Rellas”), is the Chief Executive Officer (“CEO”) of 
+Drizly, LLC.  Individually or in concert with others, he had the authority to control, or 
+participated in, the acts and practices alleged in this complaint. 
+
+Respondents’ acts and practices as alleged in this Complaint have been in or affecting 
+commerce, as “commerce” is defined in Section 4 of the Federal Trade Commission Act. 
+
+Summary of the Case 
+
+Drizly failed to use appropriate information security practices to protect consumers’ 
+personal information.  These failures allowed a malicious actor to access Drizly’s 
+consumer database and steal information relating to 2.5 million consumers, as described 
+in greater detail below.  Rellas is responsible for this failure, as he did not implement, or 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+        
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+5. 
+
+6. 
+
+7. 
+
+8. 
+
+9. 
+
+10. 
+
+properly delegate the responsibility to implement, reasonable information security 
+practices.  Indeed, as CEO of Drizly prior to and during the breach, Rellas hired senior 
+executives dedicated to finance, legal, marketing, retail, human resources, product, and 
+analytics, but failed to hire a senior executive responsible for the security of consumers’ 
+personal information collected and maintained by Drizly.  
+
+Drizly’s Business Model and Operations 
+
+Drizly operates an e-commerce platform that enables local retailers to sell alcohol online 
+to consumers of legal drinking age.  Retailers choose the products to offer and the prices 
+to charge on the platform.  When a consumer places an order through Drizly’s website or 
+one of Drizly’s mobile apps, the retailer accepts the order and facilitates delivery of the 
+purchase. 
+
+Drizly’s platform includes tools to verify a consumer’s age; monitor, track, and analyze 
+orders; and support customer service.  The platform also collects and stores both personal 
+information that consumers provide and information that it automatically obtains from 
+consumers’ computers and mobile devices. 
+
+Drizly was founded in 2012 and now has more than 360 employees.  The company 
+maintains a headquarters in Boston, Massachusetts and an office in Denver, Colorado.  It 
+advertises itself as North America’s “largest online marketplace for alcohol,” partnering 
+with more than 4,000 retailers across 1,600 urban and suburban markets.  Drizly claims 
+that it facilitates sales of alcohol for delivery in more than 33 states and the District of 
+Columbia.  It also claims that its retail partners saw average growth in 2020 of 350%, 
+with an average monthly number of orders of more than 230 per store. 
+
+Rellas has been Drizly’s Chief Executive Officer since August 2018.  He was previously 
+Drizly’s Chief Operating Officer and is a co-founder of Drizly.  At all times relevant to 
+the allegations in this Complaint, Rellas had the authority to control, or participated in, 
+Drizly’s information security practices. 
+
+Drizly’s Information Technology Infrastructure 
+
+Drizly uses a third-party service called the Amazon Relational Database Service 
+(“Amazon RDS”) to host its production database environment (the software Drizly uses 
+to operate its e-commerce platform).  Amazon RDS is a cloud service provided by 
+Amazon Web Services (“AWS”). 
+
+Drizly’s production environment includes a variety of applications and databases, some 
+of which store personal information.  These databases contain, among other things, 
+names, email addresses, postal addresses, phone numbers, unique device identifiers, order 
+histories, partial payment information, geolocation information, and consumer data 
+(including, e.g., income level, marital status, gender, ethnicity, existence of children, and 
+home value) purchased from third parties.  The databases also contain passwords that 
+were hashed—converted into new values so as not to store the password itself in the 
+database.  The passwords were hashed using the bcrypt function or MD5, the latter of 
+which is cryptographically broken, and widely considered insecure.  This personal 
+
+2 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+  
+ 
+ 
+information can be misused to facilitate identity theft and other consumer harm.  Drizly’s 
+databases contain some or all of this personal information for more than 2.5 million 
+consumers. 
+
+11. 
+
+Drizly also uses the GitHub software platform (“GitHub”) for the development, 
+management, and storage of source code that supports the Drizly website and mobile 
+apps.  GitHub facilitates collaboration among developers, allowing them to store and 
+share project files, including images, spreadsheets, and data sets, as well as the histories 
+of all source code changes, in “repositories.”  Through its GitHub account, Drizly 
+maintains a number of repositories that hold company data and projects, and which at one 
+point improperly held AWS credentials, which could be used to access the company’s 
+production environment. 
+
+12. 
+
+Drizly employees are required to use their personal GitHub accounts to access Drizly 
+projects and data using GitHub, with the company granting those accounts access to its 
+repositories. 
+
+Drizly’s Information Security Practices 
+
+13. 
+
+Drizly failed to use reasonable information security practices to protect consumers’ 
+personal information.  Among other things, Drizly failed to: 
+
+a.  Develop adequate written information security standards, policies, procedures, or 
+practices; assess or enforce compliance with the written standards, policies, 
+procedures, and practices that it did have; and implement training for employees 
+(including engineers) regarding such standards, policies, procedures, and 
+practices; 
+
+b.  Securely store AWS and database login credentials, by including them in GitHub 
+repositories, and failed to use readily available measures to scan these repositories 
+for unsecured credentials (such as usernames, passwords, API keys, secure access 
+tokens, and asymmetric private keys); 
+
+c.  Impose reasonable data access controls such as:  (1) requiring unique and 
+
+complex passwords (i.e., long passwords not used by the individual for any other 
+online service) or multifactor authentication to access source code or databases; 
+(2) enforcing role-based access controls; (3) monitoring and terminating 
+employee and contractor access to source code once they no longer needed such 
+access; (4) restricting inbound connections to known IP addresses; and (5) 
+requiring appropriate authentications between Drizly applications and the 
+production environment; 
+
+d.  Prevent data loss by monitoring for unauthorized attempts to transfer or exfiltrate 
+consumers’ personal information outside the company’s network boundaries; 
+continually log and monitor its systems and assets to identify data security events; 
+and perform regular assessments as to the effectiveness of protection measures; 
+
+3 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+e.  Test, audit, assess, or review its products’ or applications’ security features; and 
+
+conduct regular risk assessments, vulnerability scans, and penetration testing of its 
+networks and databases; and 
+
+f.  Have a policy, procedure, or practice for inventorying and deleting consumers’ 
+
+personal information stored on its network that was no longer necessary. 
+
+Drizly’s Information Security Statements 
+
+14. 
+
+Drizly made explicit representations about its information security practices that led 
+consumers to believe that it used reasonable and appropriate information security 
+practices to protect their personal information. 
+
+15. 
+
+For example, Drizly’s Privacy Policy in effect from September 1, 2016 until 
+approximately October 1, 2019 included the following statement: 
+
+Security.  All information we collect is securely stored within our 
+database, and we use standard, industry-wide, commercially reasonable 
+security practices such as 128-bit encryption, firewalls and SSL (Secure 
+Socket Layers). 
+
+(Exhibit A, Drizly.com Privacy Policy) 
+
+16. 
+
+Drizly’s Privacy Policy in effect after October 1, 2019 contained similar language: 
+
+Security.  We use standard security practices such as encryption and firewalls to 
+protect the information we collect from you. 
+
+(Exhibit B, Drizly.com Privacy Policy) 
+
+2020 Breach of Personal Information 
+
+17. 
+
+18. 
+
+19. 
+
+Drizly’s failures, as described in Paragraph 13, led to a breach in or around July 2020 of 
+its production environment, and the exfiltration of the personal information of 2.5 million 
+consumers. 
+
+In April 2018, Drizly granted a company executive access to its GitHub repositories so 
+that he could participate in a one-day hackathon (a collaborative programming event). 
+Following the event, Drizly failed to monitor and terminate the executive’s access, even 
+though such access was no longer needed.  The lack of need was underscored by the fact 
+that the executive never accessed the repositories after the hackathon and started 
+employment for a different Drizly subsidiary at the beginning of 2020. 
+
+Drizly failed to require unique and complex passwords or multifactor authentication for 
+personal GitHub accounts that it granted access to its repositories, nor did it leverage 
+Single Sign On for the GitHub organization.  Consequently, the executive’s GitHub 
+account used a seven-character alphanumeric password that he had used for other 
+personal accounts and did not use multifactor authentication although it was available. 
+
+4 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+20. 
+
+21. 
+
+22. 
+
+23. 
+
+24. 
+
+In early July 2020, a malicious actor accessed the executive’s GitHub account by reusing 
+credentials from an unrelated breach.  The malicious actor then used the executive’s 
+GitHub account to access one of Drizly’s GitHub repositories containing source code, 
+which it could use to find vulnerabilities in Drizly’s software.  It was also able to access, 
+in those same repositories, AWS and database credentials. 
+
+Drizly employees stored these credentials in the company’s GitHub repository even 
+though GitHub security guidance and numerous publicly-reported security incidents since 
+2013 have highlighted the dangers of storing passwords and other access keys in GitHub 
+repositories.  For example, the Commission’s 2018 Complaint against Uber Technologies 
+Inc. specifically publicized and described credential reuse, lack of multifactor 
+authentication, and insecure AWS credentials exposed through GitHub repository code as 
+failures contributing to the breach and exposure of consumers’ personal information. 
+
+The intruder used the compromised credentials from Drizly’s GitHub repositories to 
+modify the company’s AWS security settings.  This modification provided the intruder 
+unfettered access to Drizly’s production environment, including databases containing 
+millions of records of user information.  The intruder proceeded to exfiltrate Drizly’s 
+User Table, comprising more than 2.5 million records. 
+
+Drizly did not itself detect the breach of its production environment or discover the 
+exfiltration of the personal information of nearly 2.5 million consumers.  Drizly only 
+learned of the breach from media and social media reports describing its customers’ 
+accounts for sale on dark web forums. 
+
+The GitHub compromise and breach of Drizly’s production environment was not the 
+company’s first security incident involving GitHub.  In 2018, another Drizly employee 
+posted Drizly AWS credentials to their individual public (personal) GitHub repository. 
+The employee was unable to delete the GitHub posting or rotate the AWS credentials 
+prior to the public exploitation of the credentials; as a result, Drizly’s AWS servers were 
+used to mine cryptocurrency until Drizly learned of the exploitation and changed the 
+credentials.  Following this incident, Respondents were on notice of the potential dangers 
+of exposing AWS credentials and should have taken appropriate steps to improve GitHub 
+security, including implementation of policies, procedures, and technical measures to 
+address the security practices of employees with access to Drizly’s organizational GitHub 
+repositories. 
+
+25. 
+
+Drizly’s own post-breach analyses concluded the company’s lack of security 
+preparedness, including failures to operate a formal security program or practice basic 
+security hygiene, was exposed as a result of a data breach. 
+
+Consumer Injury 
+
+26. 
+
+27. 
+
+Respondents’ failures to provide reasonable security for consumers’ personal information 
+have caused or are likely to cause substantial injury to consumers. 
+
+Consumers have suffered or are likely to suffer substantial injury in the form of increased 
+exposure to fraud and identity theft, leading to monetary loss and time spent remedying 
+
+5 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+the problem.  Personal information exfiltrated from Drizly’s databases was offered for 
+sale on two different, publicly-accessible dark web forums, including raidforums.com, a 
+website where criminals post and offer for sale information from compromised databases. 
+Malicious actors combine such information to perpetrate fraud (for example, by opening 
+fraudulent lines of credit) or obtain additional personal information by impersonating 
+companies with whom the target has previously transacted.  The opening of fraudulent 
+accounts will cause consumers financial harm in the form of denied transactions due to 
+damaged credit reflected in consumer reports, and time lost in trying to correct those 
+reports.  Moreover, as a result of Respondents’ failures to secure consumers’ personal 
+information, including in many cases their physical addresses, this information is now in 
+the possession of criminals.  Consumers are harmed when criminals know and sell their 
+personal information. 
+
+These harms were not reasonably avoidable by consumers, as consumers had no way of 
+independently knowing about Respondents’ security failures (described in Paragraph 13 
+above). 
+
+Respondents could have prevented or mitigated the failures described in Paragraph 13 
+through well known, readily available, and relatively low-cost measures.  For example, 
+Drizly could have required regular review of access permissions, multifactor 
+authentication for all employees with access to code repositories, or scanning of code 
+repositories for unsecured credentials.  Any of these measures would likely have 
+prevented the July 2020 breach. 
+
+Violations of the FTC Act 
+
+The acts and practices of Respondents, as alleged in this Complaint, constitute unfair 
+and/or deceptive acts or practices, in or affecting commerce, in violation of Section 5(a) 
+of the Federal Trade Commission Act. 
+
+Count I – Drizly’s Unfair Information Security Practices 
+
+As alleged in Paragraphs 13 to 29, Respondents’ failure to employ reasonable security 
+measures to protect consumers’ personal information caused or is likely to cause 
+substantial injury to consumers that is not outweighed by countervailing benefits to 
+consumers or competition and is not reasonably avoidable by consumers themselves.  
+This practice was, and is, an unfair act or practice. 
+
+Count II – Drizly’s Deceptive Security Statements 
+
+Through the means described in Paragraphs 14 to 16, Respondents have represented, 
+directly or indirectly, expressly or by implication, that Drizly used appropriate safeguards 
+to protect consumers’ personal information. 
+
+In truth and in fact, as described in Paragraph 13, Respondents did not maintain 
+appropriate safeguards to protect consumers’ personal information.  Therefore, the 
+representations set forth in Paragraph 32 are false or misleading. 
+
+28. 
+
+29. 
+
+30. 
+
+31. 
+
+32. 
+
+33. 
+
+6 
+
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+THEREFORE, the Federal Trade Commission this ___ day of ____, 2022, has issued this 
+
+complaint against Respondents. 
+
+By the Commission. 
+
+SEAL: 
+
+April J. Tabor 
+Secretary 
+
+7 
+
+ 
+ 
+ 
+ 
+Exhibit A 
+
+Drizly.com Privacy Policy, September 1, 2016 
+
+Securi~. All  infonnation we  collect is  securely stored ·within our database, and we use  standard, industry-wide, 
+commercially  reasonable  s•ecurity  practices  such  as  128-bit  encryption,  firewalls  and  SSL  (Secure  Socket 
+Layers) .  However,  as  effective  as  encryption  technology  is,  no  security  system  is  impenetrable.  We  cannot 
+guarantee  the  security  of our  database, nor  can  we  guarantee  that  information  you  supply  won't be  intercepted 
+while being transmitted to us over the Internet, and any information you transmit to  Drizly you do so at your own 
+risk.  We  recommend  that  you  use  unique  numbers,  letters  and  special  characters  in  your  password  and  not 
+disclose  your password to  anyone.  If you do  share  your  password or personal  information with others, you are 
+responsible  for  all actions taken in the  name  of your account.  Please review  our Tenns of Service for  additional 
+infom1ation. If your password has  been  compromised  for  any  reason, you  should  immediately notify  Drizly  at 
+info@drizly,:.com and change your password. 
+
+Exhibit B 
+
+Drizly.com Privacy Policy, October 1, 2019 
+
+Security...  We  use standard security practices such  as  encryption  and  firewalls to  protect the 
+information we  collect from  you.  No security system  is  perfect, and  we do not guarantee the 
+security of your information. You  are responsible for all  actions taken  in  the  name of your 
+account, so use your discretion when providing information  and  managing your account.  Use 
+unique numbers , letters and  special  characters in  your password and  do not disclose it to 
+anyone.  Please review our Terms  of Service  for additional  information.  If your password  is 
+compromised  notify us  immediately at  info@drizly.com  and change  your password. We  may 
+store the  information we collect on  servers in  the United  States. 
+
+

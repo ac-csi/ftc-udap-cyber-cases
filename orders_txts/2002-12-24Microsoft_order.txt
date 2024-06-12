@@ -1,0 +1,365 @@
+UNITED STATES OF AMERICA
+FEDERAL TRADE COMMISSION
+
+______________________________
+
+In the Matter of
+
+)
+)
+)
+)
+)
+)
+______________________________)
+
+MICROSOFT CORPORATION,
+
+a corporation.
+
+FILE NO. 012 3240
+
+AGREEMENT CONTAINING
+CONSENT ORDER
+
+The Federal Trade Commission has conducted an investigation of certain acts and practices of
+Microsoft, a corporation (“proposed respondent”).  Proposed respondent, having been represented by
+counsel, is willing to enter into an agreement containing a consent order resolving the allegations contained
+in the attached draft complaint.  Therefore,
+
+IT IS HEREBY AGREED by and between Microsoft, by its duly authorized officer, and counsel
+
+for the Federal Trade Commission that:
+
+1.
+
+Proposed respondent Microsoft is a Washington corporation with its principal office or
+
+place of business at One Microsoft Way, Redmond, Washington 98052.
+
+2.
+
+3.
+
+Proposed respondent admits all the jurisdictional facts set forth in the draft complaint.
+
+Proposed respondent waives:
+
+(a)
+
+(b)
+
+(c)
+
+Any further procedural steps;
+
+The requirement that the Commission's decision contain a statement of findings of
+fact and conclusions of law; and
+
+All rights to seek judicial review or otherwise to challenge or contest the validity
+of the order entered pursuant to this agreement.
+
+4.
+
+This agreement shall not become part of the public record of the proceeding unless and until
+it is accepted by the Commission.  If this agreement is accepted by the Commission, it, together with the
+
+Page 1 of 8
+
+draft complaint, will be placed on the public record for a period of thirty (30) days and information about
+it publicly released.  The Commission thereafter may either withdraw its acceptance of this agreement and
+so notify proposed respondent, in which event it will take such action as it may consider appropriate, or
+issue and serve its complaint (in such form as the circumstances may require) and decision in disposition
+of the proceeding.
+
+5.
+
+This agreement is for settlement purposes only and does not constitute an admission by
+proposed respondent that the law has been violated as alleged in the draft complaint, or that the facts as
+alleged in the draft complaint, other than the jurisdictional facts, are true.
+
+6.
+
+This  agreement  contemplates  that,  if  it  is  accepted  by  the  Commission,  and  if  such
+acceptance is not subsequently withdrawn by the Commission pursuant to the provisions of Section 2.34
+of the Commission's Rules, the Commission may, without further notice to proposed respondent, (1) issue
+its  complaint  corresponding  in  form  and  substance  with  the  attached  draft  complaint  and  its  decision
+containing the following order in disposition of the proceeding, and (2) make information about it public.
+When so entered, the order shall have the same force and effect and may be altered, modified, or set aside
+in the same manner and within the same time provided by statute for other orders.  The order shall become
+final upon service. Delivery of the complaint and the decision and order to proposed respondent’s address
+as stated in this agreement by any means specified in Section 4.4(a) of the Commission's Rules shall
+constitute service.  Proposed respondent waives any right it may have to any other manner of service.  The
+complaint may be used in construing the terms of the order.  No agreement, understanding, representation,
+or interpretation not contained in the order or the agreement may be used to vary or contradict the terms
+of the order.
+
+7.
+
+Proposed respondent has read the draft complaint and consent order.  It understands that
+it may be liable for civil penalties in the amount provided by law and other appropriate relief for each
+violation of the order after it becomes final.
+
+ORDER
+
+DEFINITIONS
+
+For purposes of this order, the following definitions shall apply:
+
+1.
+“Personally identifiable information” or “personal information” shall mean individually identifiable
+information from or about an individual including, but not limited to:  (a) a first and last name; (b) a home
+or other physical address, including street name and name of city or town; (c) an email address or other
+online contact information, such as an instant messaging user identifier or a screen name that reveals an
+
+Page 2 of 8
+
+individual’s email address; (d) a telephone number; (e) a Social Security Number; (f) a persistent identifier,
+such as a customer number held in a “cookie” or processor serial number, that is combined with other
+available data that identifies an individual; or (g) any information that is combined with any of (a) through
+(f) above.
+
+“Covered online service” shall mean Passport, Kids Passport, Passport Wallet, any substantially
+
+2.
+similar product or service, or any multisite online authentication service.
+
+3. 
+Unless otherwise specified, “respondent” shall mean Microsoft Corporation, its successors and
+assigns and its officers, agents, representatives, and employees acting within the scope of their authority on
+behalf of, or in active concert or participation with Microsoft Corporation.
+
+“Commerce” shall mean as defined in Section 4 of the Federal Trade Commission Act, 15 U.S.C.
+
+4.  
+§  44.
+
+I.
+
+IT IS ORDERED that respondent, directly or through any corporation, subsidiary, division, or
+other  device,  in  connection  with  the  advertising,  marketing,  promotion,  offering  for  sale,  or  sale  of  a
+covered online service, in or affecting commerce, shall not misrepresent in any manner, expressly or by
+implication, its information practices, including:
+
+A.
+
+B. 
+
+C.
+
+D.
+
+E.
+
+what personal information is collected from or about consumers;
+
+the extent to which respondent’s product or service will maintain, protect or enhance the
+privacy, confidentiality, or security of any personally identifiable information collected from
+or about consumers; 
+
+the steps respondent will take with respect to personal information it has collected in the
+event that it changes the terms of the privacy policy in effect at the time the information was
+collected;
+
+the extent to which the service allows parents to control what information their children can
+provide to participating sites or the use of that information by such sites; and
+
+any  other  matter  regarding  the  collection,  use,  or  disclosure  of  personally  identifiable
+information.
+
+Page 3 of 8
+
+II.
+
+IT IS FURTHER ORDERED that respondent, and its successors and assigns, in connection with
+the advertising, marketing, promotion, offering for sale, or sale of a covered online service, in or affecting
+commerce, shall establish and maintain a comprehensive information security program in writing that is
+reasonably designed to protect the security, confidentiality, and integrity of personal information collected
+from or about consumers.  Such program shall contain administrative, technical, and physical safeguards
+appropriate to respondent’s size and complexity, the nature and scope of respondent’s activities, and the
+sensitivity of the personal information collected from or about consumers, including:
+
+A.
+
+B.
+
+C.
+
+D.
+
+The designation of an employee or employees to coordinate and be accountable for the
+information security program.
+
+The identification of material internal and external risks to the security, confidentiality, and
+integrity of customer information that could result in the unauthorized disclosure, misuse,
+alteration, destruction, or other compromise of such information, and assessment of the
+sufficiency of any safeguards in place to control these risks.  At a minimum, this risk
+assessment  should  include  consideration  of  risks  in  each  area  of  relevant  operation,
+including:  (1)  employee  training  and  management;  (2)  information  systems,  including
+network and software design, information processing, storage, transmission and disposal;
+and (3) prevention, detection, and response to attacks, intrusions, or other systems failures.
+
+Design and implementation of reasonable safeguards to control the risks identified through
+risk assessment, and regular testing or monitoring of the effectiveness of the safeguards’
+key controls, systems, and procedures. 
+
+Evaluation and adjustment of respondent’s information security program in light of the
+results of the testing and monitoring required by paragraph C, any material changes to
+respondent’s  operations  or  business  arrangements,  or  any  other  circumstances  that
+respondent knows or has reason to know may have a material impact on its information
+security program.  
+
+III.
+
+Page 4 of 8
+
+IT IS FURTHER ORDERED that respondent obtain within one (1) year, and on a biannual basis
+thereafter, an assessment and report from a qualified, objective, independent third-party professional, using
+procedures and standards generally accepted in the profession, that certifies:
+
+A.
+
+B. 
+
+that respondent has in place a security program that provides protections that meet or
+exceed the protections required by Part II of this order; and
+
+that respondent’s security program is operating with sufficient effectiveness to provide
+reasonable assurance that the security, confidentiality, and integrity of consumer’s personal
+information has been protected.
+
+The  report  required  by  this  paragraph  shall  be  prepared  by  a  Certified  Information  System  Security
+Professional (CISSP) or by a person or organization approved by the Associate Director for Enforcement,
+Bureau of Consumer Protection, Federal Trade Commission.
+
+IV.
+
+IT IS FURTHER ORDERED that respondent, and its successors and assigns, shall for a period
+of five (5) years after the date of service of this order maintain and upon request make available to the
+Federal Trade Commission for inspection and copying a print or electronic copy of the following documents
+relating to compliance with this order:
+
+A.
+
+a  sample  copy  of  each  different  print,  broadcast,  cable,  or  Internet  advertisement,
+promotion,  information  collection  form,  Web  page,  screen,  email  message,  or  other
+document containing any representation to consumers regarding respondent’s collection,
+use, and security of personal information from or about consumers.  Each Web page copy
+shall be dated and contain the full URL of the Web page where the material was posted
+online.  Electronic copies shall include all text and graphics files, audio scripts, and other
+computer files used in presenting the information on the Web.  Provided, however, that
+after creation of any Web page or screen in compliance with this order, respondent shall
+not be required to retain a print or electronic copy of any amended Web page or screen
+to the extent that the amendment does not affect respondent’s compliance obligations
+under this order;
+
+B.
+
+all  plans,  reports,  studies,  reviews,  audits,  audit  trails,  policies,  and  training  materials,
+whether prepared by or on behalf of respondent, relating to respondent’s compliance with
+this order; and
+
+Page 5 of 8
+
+C.
+
+any documents, whether prepared by or on behalf of respondent, that contradict, qualify,
+or call into question respondent’s compliance with this order.
+
+V.
+
+IT IS FURTHER ORDERED that respondent, and its successors and assigns, shall deliver a copy
+of this order to all current and future principals, officers, directors, and managers, and to all current and
+future employees, agents, and representatives having managerial responsibilities relating to the subject
+matter of this order.  Respondent shall deliver this order to such current personnel within thirty (30) days
+after the date of service of this order, and to such future personnel within thirty (30) days after the person
+assumes such position or responsibilities.
+
+VI.
+
+IT IS FURTHER ORDERED that respondent Microsoft Corporation, and its successors and
+assigns, shall notify the Commission at least thirty (30) days prior to any change in the corporation that may
+affect compliance obligations arising under this order, including, but not limited to, a dissolution, assignment,
+sale, merger, or other action that would result in the emergence of a successor corporation; the creation
+or dissolution of a subsidiary, parent, or affiliate that engages in any acts or practices subject to this order;
+the proposed filing of a bankruptcy petition; or a change in the corporate name or address.  Provided,
+however, that, with respect to any proposed change in the corporation about which respondent learns less
+than thirty (30) days prior to the date such action is to take place, respondent shall notify the Commission
+as soon as is practicable after obtaining such knowledge.  All notices required by this Part shall be sent by
+certified mail to the Associate Director, Division of Enforcement, Bureau of Consumer Protection, Federal
+Trade Commission, Washington, D.C. 20580.
+
+VII.
+
+IT IS FURTHER ORDERED that respondent Microsoft Corporation, and its successors and
+assigns, shall within sixty (60) days after service of this order, and at such other times as the Federal Trade
+Commission may require, file with the Commission a report, in writing, setting forth in detail the manner and
+form in which they have complied with this order.
+
+Page 6 of 8
+
+ 
+VIII.
+
+This order will terminate twenty (20) years from the date of its issuance, or twenty (20) years from
+the most recent date that the United States or the Federal Trade Commission files a complaint (with or
+without an accompanying consent decree) in federal court alleging any violation of the order, whichever
+comes later; provided, however, that the filing of such a complaint will not affect the duration of:
+
+A.
+
+B.
+
+Any Part in this order that terminates in less than twenty (20) years;
+
+This  order's  application  to  any  respondent  that  is  not  named  as  a  defendant  in  such
+complaint; and
+
+C.
+
+This order if such complaint is filed after the order has terminated pursuant to this Part.
+
+Provided, further, that if such complaint is dismissed or a federal court rules that the respondent did not
+violate any provision of the order, and the dismissal or ruling is either not appealed or upheld on appeal,
+then the order will terminate according to this Part as though the complaint had never been filed, except that
+the order will not terminate between the date such complaint is filed and the later of the deadline for
+appealing such dismissal or ruling and the date such dismissal or ruling is upheld on appeal.
+
+Signed this                        day of                                                                                          , 2002.
+
+MICROSOFT CORPORATION
+
+By:
+
+BRADFORD SMITH
+Senior Vice President
+
+CHARLES E. BUFFON
+Covington & Burling
+Counsel for Respondent Microsoft Corporation
+
+FEDERAL TRADE COMMISSION
+
+Page 7 of 8
+
+                                                                              
+                                                                              
+ELLEN R. FINN
+Counsel for the Federal Trade Commission
+
+APPROVED:
+
+JESSICA RICH
+Assistant Director
+Division of Financial Practices
+
+J. HOWARD BEALES, III
+Director
+Bureau of Consumer Protection
+
+Page 8 of 8
+
+                                                                              
+                                                                  
+                                                                  
+

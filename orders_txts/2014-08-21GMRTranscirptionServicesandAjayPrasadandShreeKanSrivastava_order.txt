@@ -1,0 +1,567 @@
+UNITED STATES OF AMERICA 
+BEFORE THE FEDERAL TRADE COMMISSION 
+
+122 3095 
+
+COMMISSIONERS:  
+
+Edith Ramirez, Chairwoman 
+Julie Brill 
+Maureen K. Ohlhausen 
+Joshua D. Wright 
+Terrell McSweeny 
+
+_________________________________________ 
+
+In the Matter of 
+
+AJAY PRASAD 
+
+GMR TRANSCRIPTION SERVICES, INC., 
+a corporation, 
+
+ ) 
+ )  
+ ) 
+ ) 
+ ) 
+ ) 
+ ) 
+ ) 
+ ) 
+ ) 
+SHREEKANT SRIVASTAVA,  
+ ) 
+individually and as officers of  
+ ) 
+ ) 
+GMR Transcription Services, Inc.   
+__________________________________________ ) 
+
+and 
+
+DOCKET NO. C-4482 
+
+DECISION AND ORDER 
+
+ The Federal Trade Commission having initiated an investigation of certain acts and 
+practices of the Respondents named in the caption hereof, and the Respondents having been 
+furnished thereafter with a copy of a draft Complaint that the Bureau of Consumer Protection 
+proposed to present to the Commission for its consideration and which, if issued by the 
+Commission, would charge the Respondents with violation of the Federal Trade Commission 
+Act, 15 U.S.C. § 45 et seq; 
+
+The Respondents, their attorneys, and counsel for the Commission having thereafter 
+
+executed an Agreement Containing Consent Order (“Consent Agreement”), an admission by the 
+Respondents of all the jurisdictional facts set forth in the aforesaid draft Complaint, a statement 
+that the signing of said Consent Agreement is for settlement purposes only and does not 
+constitute an admission by Respondents that the law has been violated as alleged in such 
+Complaint, or that the facts as alleged in such Complaint, other than jurisdictional facts, are true, 
+and waivers and other provisions as required by the Commission’s Rules; and 
+
+The Commission having thereafter considered the matter and having determined that it 
+
+has reason to believe that the Respondents have violated the said Act, and that a Complaint 
+should issue stating its charges in that respect, and having thereupon accepted the executed 
+
+1 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Consent Agreement and placed such Consent Agreement on the public record for a period of 
+thirty (30) days, and having duly considered the comments filed thereafter by interested persons 
+pursuant to Commission Rule 2.34, 16 C.F.R. § 2.34, now in further conformity with the 
+procedure described in Commission Rule 2.34, the Commission hereby issues its Complaint, 
+makes the following jurisdictional findings and enters the following Order: 
+
+1. 
+
+2. 
+
+Respondent GMR is a California corporation with its principal office or place of business 
+at 2512 Chambers Road, Suite 206, Tustin, CA 92780. 
+
+Respondents Ajay Prasad (“Prasad”) and Shreekant Srivastava (“Srivastava”) are co-
+owners of GMR and President and Vice President of the company, respectively. 
+Individually or in concert with others, they formulate, direct, or control the policies, acts, 
+or practices of respondent GMR.  Their principal place of business is the same as GMR’s. 
+
+ORDER 
+
+DEFINITIONS 
+
+For purposes of this order, the following definitions shall apply: 
+
+1. 
+
+2. 
+
+3. 
+
+Unless otherwise specified, “respondents” shall mean GMR Transcription Services, Inc., 
+and its successors and assigns, and Ajay Prasad and Shreekant Srivastava.   
+
+“Commerce” shall mean as defined in Section 4 of the Federal Trade Commission Act, 
+15 U.S.C. § 44. 
+
+“Personal information” shall mean individually identifiable information from or about an 
+individual consumer including, but not limited to:  (a) a first and last name; (b) a home or 
+other physical address, including street name and name of city or town; (c) an email 
+address or other online contact information, such as an instant messaging user identifier 
+or a screen name; (d) a telephone number; (e) a Social Security number; (f) a driver’s 
+license number or other government-issued identification number; (g) a bank account, 
+debit card, or credit card account number; (h) a persistent identifier, such as a customer 
+number held in a “cookie” or processor serial number; and (i) medical information about 
+a consumer including, but not limited to, prescription information, clinical laboratory 
+testing information, health insurance information, physician examination notes, and 
+medical history.  For the purpose of this provision, a “consumer” shall mean any person, 
+including, but not limited to, any user of respondents’ services, any person whose 
+information is contained in the files of a user of respondents’ services, and respondents’ 
+employees and service providers. 
+
+2 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+I. 
+
+IT IS ORDERED that respondents and their officers, agents, representatives, and 
+employees, directly or through any corporation, subsidiary, division, website, or other device or 
+affiliate owned or controlled by respondents, shall not misrepresent in any manner, expressly or 
+by implication, the extent to which respondents use, maintain, and protect the privacy, 
+confidentiality, security, or integrity of personal information collected from or about consumers. 
+
+II. 
+
+IT IS FURTHER ORDERED that respondent GMR Transcription Services, Inc., its 
+
+successors and assigns, and any business entity that respondent Ajay Prasad or Shreekant 
+Srivastava controls, directly or indirectly, that collects, maintains, or stores personal information 
+from or about consumers, shall, no later than the date of service of this order, establish and 
+implement, and thereafter maintain, a comprehensive information security program that is 
+reasonably designed to protect the security, confidentiality, and integrity of personal information 
+collected from or about consumers.  Such program, the content and implementation of which 
+must be fully documented in writing, shall contain administrative, technical, and physical 
+safeguards appropriate to respondents’ or the business entity’s size and complexity, the nature 
+and scope of respondents’ or the business entity’s activities, and the sensitivity of the personal 
+information collected from or about consumers, including:   
+
+A. 
+
+B. 
+
+the designation of an employee or employees to coordinate and be accountable for 
+the information security program; 
+
+the identification of material internal and external risks to the security, 
+confidentiality, and integrity of personal information that could result in the 
+unauthorized disclosure, misuse, loss, alteration, destruction, or other compromise 
+of such information, and assessment of the sufficiency of any safeguards in place 
+to control these risks.  At a minimum, this risk assessment should include 
+consideration of risks in each area of relevant operation, including, but not limited 
+to:  (1) employee training and management; (2) information systems, including 
+network and software design, information processing, storage, transmission, and 
+disposal; and (3) prevention, detection, and response to attacks, intrusions, or 
+other systems failures; 
+
+C. 
+
+the design and implementation of reasonable safeguards to control the 
+risks identified through risk assessment, and regular testing or monitoring 
+of the effectiveness of the safeguards’ key controls, systems, and 
+procedures; 
+
+D.        the development and use of reasonable steps to select and retain service providers 
+
+capable of appropriately safeguarding personal information they receive from 
+respondents, and requiring service providers by contract to implement and 
+maintain appropriate safeguards; and 
+
+3 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+E. 
+
+the evaluation and adjustment of the information security program in light 
+of the results of the testing and monitoring required by subpart C, any 
+material changes to any operations or business arrangements, or any other 
+circumstances that respondents know or have reason to know may have a 
+material impact on the effectiveness of the information security program. 
+
+III. 
+
+IT IS FURTHER ORDERED that, in connection with its compliance with Part II of this 
+order, respondents shall obtain initial and biennial assessments and reports (“Assessments”) from 
+a qualified, objective, independent third-party professional, who uses procedures and standards 
+generally accepted in the profession.  Professionals qualified to prepare such assessments shall 
+be:  a person qualified as a Certified Information System Security Professional (CISSP) or as a 
+Certified Information Systems Auditor (CISA); a person holding Global Information Assurance 
+Certification (GIAC) from the SANS Institute; or a qualified person or organization approved by 
+the Associate Director for Enforcement, Bureau of Consumer Protection, Federal Trade 
+Commission, Washington, D.C. 20580.  The reporting period for the Assessments shall cover:  
+(1) the first one hundred and eighty (180) days after service of the order for the initial 
+Assessment, and (2) each two (2) year period thereafter for twenty (20) years after service of the 
+order for the biennial Assessments.  Each Assessment shall: 
+
+A. 
+
+B. 
+
+C. 
+
+D. 
+
+set forth the specific administrative, technical, and physical safeguards that 
+respondents have implemented and maintained during the reporting period; 
+
+explain how such safeguards are appropriate to respondents’ or the business 
+entity’s size and complexity, the nature and scope of respondents’ or the business 
+entity’s activities, and the sensitivity of the personal information collected from or 
+about consumers; 
+
+explain how the safeguards that have been implemented meet or exceed the 
+protections required by Part II of this order; and 
+
+certify that the security program is operating with sufficient effectiveness to 
+provide reasonable assurance that the security, confidentiality, and integrity of 
+personal information is protected and has so operated throughout the reporting 
+period. 
+
+Each Assessment shall be prepared and completed within sixty (60) days after the end of the 
+reporting period to which the Assessment applies.  Respondents shall provide the initial 
+Assessment to the Associate Director for Enforcement, Bureau of Consumer Protection, Federal 
+Trade Commission, Washington, D.C. 20580, within ten (10) days after the Assessment has been 
+completed.  All subsequent biennial Assessments shall be retained by respondents until the order 
+is terminated and provided to the Associate Director for Enforcement within ten (10) days of 
+request.  Unless otherwise directed by a representative of the Commission, the initial 
+Assessment, and any subsequent Assessments requested, shall be sent by overnight courier (not 
+
+4 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+the U.S. Postal Service) to the Associate Director of Enforcement, Bureau of Consumer 
+Protection, Federal Trade Commission, 600 Pennsylvania Avenue NW, Washington, D.C. 
+20580, with the subject line In the matter of GMR Transcription Services, Inc., FTC File No. 
+1123120.  Provided, however, that in lieu of overnight courier, notices may be sent by first-class 
+mail, but only if an electronic version of any such notice is contemporaneously sent to the 
+Commission at Debrief@ftc.gov. 
+
+IT IS FURTHER ORDERED that respondents shall maintain and, upon request, make 
+
+available to the Federal Trade Commission for inspection and copying:  
+
+IV. 
+
+A. 
+
+for a period of three (3) years after the date of preparation of each Assessment 
+required under Part III of this order, all materials relied upon to prepare the 
+Assessment, whether prepared by or on behalf of respondents, including but not 
+limited to, all plans, reports, studies, reviews, audits, audit trails, policies, training 
+materials, and assessments, and any other materials relating to respondents’ 
+compliance with Parts II and III of this order, for the compliance period covered 
+by such Assessment;   
+
+B. 
+
+unless covered by IV.A, for a period of five (5) years from the date of preparation 
+or dissemination, whichever is later, a print or electronic copy of each document 
+relating to compliance with this order, including but not limited to: 
+
+1. 
+
+2. 
+
+all advertisements and promotional materials containing any 
+representations covered by this order, with all materials used or 
+relied upon in making or disseminating the representation; and 
+
+any documents, whether prepared by or on behalf of respondents, 
+that contradict, qualify, or call into question compliance with this 
+order. 
+
+V. 
+
+IT IS FURTHER ORDERED that respondents shall deliver copies of the order as 
+
+directed below: 
+
+A. 
+
+Respondents shall deliver a copy of this order to (1) all current and future 
+principals, officers, directors, and managers, (2) all current and future employees, 
+agents, and representatives having responsibilities relating to the subject matter of 
+this order, and (3) any business entity resulting from any change in structure set 
+forth in Part VI.  Respondents shall deliver this order to such current personnel 
+within thirty (30) days after service of this order, and to such future personnel 
+within thirty (30) days after the person assumes such position or responsibilities.  
+For any business entity resulting from any change in structure set forth in Part VI, 
+delivery shall be at least ten (10) days prior to the change in structure. 
+
+5 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+B. 
+
+Respondents shall secure a signed and dated statement acknowledging receipt of 
+this order, within thirty (30) days of delivery, from all persons receiving a copy of 
+the order pursuant to this section. 
+
+VI.  
+
+IT IS FURTHER ORDERED that respondents Prasad and Srivastava, for a period of 
+
+ten (10) years after the date of issuance of the order, shall notify the Commission of the 
+following:  (a) Any changes to respondent Prasad’s or respondent Srivastava’s residence, mailing 
+addresses and/or telephone numbers, within ten (l0) days of the date of such change; (b) Any 
+changes in respondent Prasad’s or respondent Srivastava’s employment status (including self-
+employment), and any changes in ownership in any business entity, within ten (10) days of the 
+date of such change.  Such notice shall include:  the name and address of each business that 
+respondent Prasad or respondent Srivastava is affiliated with, employed by, creates or forms, 
+incorporates, or performs services for; a detailed description of the nature of the business; and a 
+detailed description of respondent Prasad’s or respondent Srivastava’s duties and responsibilities 
+in connection with the business or employment; and (c) Any changes in respondent Prasad’s or 
+respondent Srivastava’s name or use of any aliases or fictitious names, including “doing business 
+as” names.  All notices required by this Part shall be sent by overnight courier (not the U.S. 
+Postal Service) to the Associate Director of Enforcement, Bureau of Consumer Protection, 
+Federal Trade Commission, 600 Pennsylvania Avenue NW, Washington, D.C. 20580, with the 
+subject line In the matter of GMR Transcription Services, Inc., FTC File No.1123120.  Provided, 
+however, that in lieu of overnight courier, notices may be sent by first-class mail, but only if an 
+electronic version of any such notice is contemporaneously sent to the Commission at 
+Debrief@ftc.gov. 
+
+VII. 
+
+IT IS FURTHER ORDERED respondents shall notify the Commission at least thirty 
+
+(30) days prior to any change in respondents that may affect compliance obligations arising 
+under this order, including, but not limited to, a dissolution, assignment, sale, merger, or other 
+action that would result in the emergence of a successor company; the creation or dissolution of a 
+subsidiary, parent, or affiliate that engages in any acts or practices subject to this order; the 
+proposed filing of a bankruptcy petition; or a change in either corporate name or address.  
+Provided, however, that, with respect to any proposed change in the corporation about which 
+respondents learn less than thirty (30) days prior to the date such action is to take place, 
+respondents shall notify the Commission as soon as is practicable after obtaining such 
+knowledge.  Unless otherwise directed by a representative of the Commission, all notices 
+required by this Part shall be sent by overnight courier (not the U.S. Postal Service) to the 
+Associate Director of Enforcement, Bureau of Consumer Protection, Federal Trade Commission, 
+600 Pennsylvania Avenue NW, Washington, D.C. 20580, with the subject line In the matter of 
+GMR Transcription Services, Inc., FTC File No.1123120.  Provided, however, that in lieu of 
+overnight courier, notices may be sent by first-class mail, but only if an electronic version of any 
+such notice is contemporaneously sent to the Commission at Debrief@ftc.gov.   
+
+6 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+VIII. 
+
+IT IS FURTHER ORDERED that respondents, within sixty (60) days after the date of 
+
+service of this order, shall file with the Commission a true and accurate report, in writing, setting 
+forth in detail the manner and form of its compliance with this order.  Within ten (10) days of 
+receipt of written notice from a representative of the Commission, it shall submit additional true 
+and accurate written reports. 
+
+IX. 
+
+This order will terminate on August 14, 2034, or twenty (20) years from the most recent 
+date that the United States or the Federal Trade Commission files a complaint (with or without 
+an accompanying consent decree) in federal court alleging any violation of the order, whichever 
+comes later; provided, however, that the filing of such a complaint will not affect the duration of: 
+
+A. 
+
+B. 
+
+C. 
+
+Any Part in this order that terminates in less than twenty (20) years; 
+
+This order’s application to any respondent that is not named as a defendant in 
+such complaint; and 
+
+This order if such complaint is filed after the order has terminated pursuant to this 
+Part. 
+
+Provided, further, that if such complaint is dismissed or a federal court rules that respondent did 
+not violate any provision of the order, and the dismissal or ruling is either not appealed or upheld 
+on appeal, then the order will terminate according to this Part as though the complaint had never 
+been filed, except that the order will not terminate between the date such complaint is filed and 
+the later of the deadline for appealing such dismissal or ruling and the date such dismissal or 
+ruling is upheld on appeal. 
+
+By the Commission, Commissioner McSweeny not participating. 
+
+ISSUED:  August 14, 2014 
+SEAL: 
+
+Donald S. Clark 
+Secretary 
+
+7 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+

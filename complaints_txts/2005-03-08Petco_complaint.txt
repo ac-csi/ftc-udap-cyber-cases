@@ -1,0 +1,209 @@
+COMMISSIONERS:
+
+0323221
+
+UNITED STATES OF AMERICA 
+FEDERAL TRADE COMMISSION
+
+Deborah Platt Majoras, Chairman
+Orson Swindle
+Thomas B. Leary
+Pamela Jones Harbour
+Jon Leibowitz
+
+In the Matter of
+
+     )
+     )
+     )
+PETCO ANIMAL SUPPLIES, INC.,  )
+a corporation.
+     )
+                                                                 )
+
+DOCKET NO. C-4133
+
+COMPLAINT
+
+The Federal Trade Commission, having reason to believe that Petco Animal Supplies,
+
+Inc. (“respondent”) has violated the provisions of the Federal Trade Commission Act, and it
+appearing to the Commission that this proceeding is in the public interest, alleges:
+
+1.
+
+2.
+
+3.
+
+4.
+
+Respondent Petco Animal Supplies, Inc. is a Delaware corporation with its principal
+office or place of business at 9125 Rehco Road, San Diego, California 29121. 
+
+Respondent sells pet food, supplies, and services through more than 636 stores in 43
+states and the District of Columbia.  It also sells pet food and supplies through its website
+at www.PETCO.com.  
+
+The acts and practices of respondent as alleged in this complaint have been in or
+affecting commerce, as “commerce” is defined in Section 4 of the Federal Trade
+Commission Act.
+
+Respondent has marketed and sold pet food and supplies to consumers online at
+www.PETCO.com since February 5, 2001.  Most consumers who make purchases
+through www.PETCO.com pay using a credit card.  To complete these purchases,
+consumers must provide personal information, including, but not limited to, name,
+address, and credit card number and expiration date.  Respondent stores this information
+in particular locations (called “tables”) in a database that supports or connects to its
+website.  Respondent also stores product information about pet food and supplies in a
+database that supports or connects to its website.
+
+Page 1 of  4
+
+                                                                 
+5.
+
+6.
+
+Visitors to www.PETCO.com communicate with the website using a software program
+called a “web application.”  Respondent’s application was designed so that visitors could
+use it to: (1) obtain product information from certain database tables, and (2) supply
+respondent with transaction information, such as credit card numbers and expiration
+dates, that respondent then stored in other tables in a database.  To facilitate
+communication between the website and a visitor, respondent’s application was designed
+to automatically present any information retrieved from or supplied to a database in clear
+readable text on the visitor’s web browser. 
+
+Since at least February 5, 2001, respondent has disseminated or caused to be
+disseminated privacy policies and representations on www.PETCO.com, including, but
+not necessarily limited to, the attached Exhibit A containing the following statements
+regarding the privacy and confidentiality of personal information collected through
+respondent’s website:
+
+Privacy Concerns and Issues
+
+Your information is secure
+At PETCO.com our customers’ data is strictly protected against any unauthorized
+access.  PETCO.com also provides a “100% Safeguard Your Shopping
+Experience Guarantee” so you never have to worry about the safety of your credit
+card information.
+
+Payment Options
+
+PETCO.com accepts the following credit cards: Visa, MasterCard, American
+Express, and Discover.  PETCO.com also redeems PETCO.com online gift
+certificates and PETCO gift cards as payment for purchases made at PETCO.com. 
+We are unable to accept checks or money orders at this time.
+
+Entering your credit card number via our secure server is completely safe.  The
+server encrypts all of your information; no one except you can access it.  
+
+Is my personal information secure?
+
+At PETCO.com, protecting your information is our number one priority, and your
+personal data is strictly shielded from unauthorized access.  Our “100% Safeguard
+Your Shopping Experience Guarantee” means you never have to worry about the
+safety of your credit card information. 
+
+Exhibit A (Petco webpages dated June 21, 2003)(emphasis in original) 
+
+Page 2 of  4
+
+ 
+7.
+
+8.
+
+9.
+
+10.
+
+11.
+
+12.
+
+Since at least February 5, 2001, respondent’s website and application have been
+vulnerable to commonly known or reasonably foreseeable attacks from third parties
+attempting to obtain access to personal information about consumers stored in
+respondent’s database.  These attacks include, but are not limited to, web application
+attacks such as “Structured Query Language” (or “SQL”) injection attacks.  Such an
+attack occurs when an attacker enters certain characters in the address (or URL) bar of a
+standard web browser to direct an application to obtain information from a database that
+supports or connects to a website.  By such an attack, respondent’s application can be
+manipulated to gain access, in clear readable text, to tables in databases that support or
+connect to www.PETCO.com, including tables containing credit card information
+supplied by consumers.
+
+Respondent created these vulnerabilities by failing to implement reasonable and
+appropriate measures to secure and protect databases that support or connect to the
+website.  Among other things, respondent failed to: adopt policies and procedures
+adequate to protect sensitive consumer information collected through the website; or
+implement simple, readily available defenses to prevent website visitors from gaining
+access to database tables containing sensitive personal information about other
+consumers. 
+
+The risk of such web application attacks is well known in the information technology
+industry, as are simple, easy to implement, and publicly available measures to prevent
+such attacks.  Security experts have been warning the industry about these vulnerabilities
+since at least 1997; in 1998, at least one security organization developed, and made
+publicly available at no charge, a security measure that could prevent such attacks, and in
+2000 the industry began receiving reports of successful attacks on web applications. 
+
+In June 2003, a visitor to www.PETCO.com conducted an SQL injection attack and was
+able to read in clear text credit card numbers stored in respondent’s database.
+
+Through the means described in Paragraph 6, respondent represented, expressly or by
+implication, that the personal information it obtained from consumers through
+www.PETCO.com was maintained in an encrypted format and therefore was inaccessible
+to anyone other than the consumer providing the information. 
+
+In truth and in fact, the personal information respondent obtained from consumers
+through www.PETCO.com was not maintained in an encrypted format and was
+accessible to persons other than the consumer providing the information.  Instead, Petco
+encrypted credit card information only while it was being transmitted between a visitor’s
+web browser and the website’s server; once the information reached the server, it was
+decrypted and maintained in clear readable text.  Using a standard web browser, a visitor
+could (and did) use a commonly known attack to manipulate respondent’s web
+application and obtain access, in clear readable text, to sensitive personal information
+about other consumers, including, but not limited to, consumer names and credit card
+
+Page 3 of  4
+
+numbers and expiration dates.  Therefore, the representation set forth in Paragraph 11
+was false or misleading.
+
+13.
+
+14.
+
+Through the means described in Paragraph 6, respondent represented, expressly or by
+implication, that it implemented reasonable and appropriate measures to protect personal
+information it obtained from consumers through www.PETCO.com against unauthorized
+access.
+
+In truth and in fact, respondent did not implement reasonable and appropriate measures to
+protect personal information it obtained from consumers through www.PETCO.com
+against unauthorized access.  In particular, respondent failed to implement procedures
+that were reasonable and appropriate to: (1) detect reasonably foreseeable application
+vulnerabilities, and (2) prevent visitors from exploiting such vulnerabilities and obtaining
+unauthorized access to sensitive consumer information.  Therefore, the representation set
+forth in Paragraph 13 was false or misleading.
+
+15.
+
+The acts and practices of respondent as alleged in this complaint constitute unfair or
+deceptive acts or practices in or affecting commerce in violation of Section 5(a) of the
+Federal Trade Commission Act. 
+
+THEREFORE, the Federal Trade Commission this fourth day of March, 2005, has issued
+
+this complaint against respondent.
+
+By the Commission
+
+Donald S. Clark
+Secretary
+
+Page 4 of  4
+
+

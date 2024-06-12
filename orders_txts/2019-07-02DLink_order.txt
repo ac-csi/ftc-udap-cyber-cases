@@ -1,0 +1,4436 @@
+Case 3:17-cv-00039-JD   Document 272-1   Filed 07/02/19   Page 1 of 32 
+
+UNITED STATES DISTRICT COURT  
+NORTHERN DISTRICT OF CALIFORNIA 
+SAN FRANCISCO DIVISION 
+
+FEDERAL TRADE COMMISSION, 
+
+CIVIL ACTION NO. 
+3:17-CV-39-JD 
+
+Plaintiff,
+
+v. 
+
+D-LINK SYSTEMS, INC., 
+
+Defendant. 
+
+[PROPOSED] STIPULATED ORDER  
+FOR INJUNCTION AND JUDGMENT 
+
+Plaintiff, the Federal Trade Commission (“Commission”), filed its Complaint for 
+
+Permanent Injunction and Other Equitable Relief pursuant to Section 13(b) of the Federal Trade 
+
+Commission Act (“FTC Act”), 15 U.S.C. § 53(b).  The Commission and Defendant stipulate, for 
+
+the purpose of settlement, to the entry of this Stipulated Order for Injunction (“Order”) to resolve 
+
+all matters in dispute in this action between them. 
+
+THEREFORE, IT IS ORDERED as follows: 
+
+FINDINGS 
+
+This Court has jurisdiction over this matter. 
+
+The Complaint charges that Defendant participated in deceptive acts or practices 
+
+1. 
+
+2. 
+
+in violation of Section 5 of the FTC Act, 15 U.S.C. § 45, related to the security of the software in 
+
+its IP cameras and Routers.  
+
+3. 
+
+This Order does not constitute an admission by Defendant that the law has been 
+
+violated as alleged in the Complaint, or that the facts as alleged in the complaint, other than the 
+
+jurisdictional facts, are true.  Defendant waives and releases any claims that it may have against 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+26 
+
+27 
+
+28 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Case 3:17-cv-00039-JD   Document 272-1   Filed 07/02/19   Page 2 of 32 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+26 
+
+27 
+
+28 
+
+the Commission, its employees, and its agents that relate to this action.  Only for purposes of this 
+
+action, Defendant admits the facts necessary to establish jurisdiction.   
+
+4. 
+
+Defendant waives any claim that it may have under the Equal Access to Justice 
+
+Act, 28 U.S.C. § 2412, concerning the prosecution of this action through the date of this Order, 
+
+and agrees to bear its own costs and attorney fees.  The Commission also agrees to bear its own 
+
+costs and attorney fees.   
+
+5. 
+
+Defendant and the Commission waive all rights to appeal or otherwise challenge 
+
+or contest the validity of this Order. 
+
+DEFINITIONS 
+
+For the purpose of this Order, the following definitions apply: 
+
+1. 
+
+“Approved Standard” shall mean the “Security for industrial automation and 
+
+control systems – Part 4-1: Secure product development lifecycle requirements”, attached hereto 
+
+as Exhibit A, or, in the event that such standard no longer exists, any successor standard 
+
+established or approved by the International Electrotechnical Commission, or any successor 
+
+entity thereto.  In the event no such successor standard or successor entity exists, or at the 
+
+election of Defendant, Approved Standard shall mean a standard of comparable scope and 
+
+thoroughness approved, at his or her sole discretion, by the Associate Director for Enforcement, 
+
+Bureau of Consumer Protection, Federal Trade Commission.  Any decision not to approve a 
+
+standard must be accompanied by a writing setting forth in detail the reasons for denying such 
+
+approval. 
+
+2.
+
+3. 
+
+ “Defendant” means D-Link Systems, Inc. and its successors and assigns. 
+
+“Covered Device” shall mean any IP Camera or Router that Defendant sells on or 
+
+after January 5, 2017, directly or through authorized re-sellers to consumers in the United States; 
+2 
+
+[PROPOSED] STIPULATED ORDER FOR INJUNCTION  
+CASE NO. 3:17-cv-00039-JD 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Case 3:17-cv-00039-JD   Document 272-1   Filed 07/02/19   Page 3 of 32 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+26 
+
+27 
+
+28 
+
+provided that “Covered Device” does not include IP Cameras or Routers that Defendant can 
+
+establish that Defendant offers primarily for enterprises and other commercial entities, including 
+
+products identified in Exhibit B.   
+
+4. 
+
+“IP Camera” shall mean any Internet Protocol (“IP”) camera, cloud camera, or 
+
+other Internet-accessible camera that transmits, or allows for the transmission of, video, audio, or 
+
+audiovisual data over the Internet. 
+
+5. 
+
+“Router” shall mean any network device that forwards IP data packets from one 
+
+network to another or from a network to the Internet. 
+
+ORDER 
+
+I. 
+
+COMPREHENSIVE SOFTWARE SECURITY PROGRAM 
+
+IT IS ORDERED that Defendant shall, for a period of twenty (20) years after entry of 
+
+this Order, continue with or establish and implement, and maintain, a comprehensive software 
+
+security program (“Software Security Program”) that is designed to provide protection for the 
+
+security of its Covered Devices, unless Defendant ceases to market, distribute, or sell any 
+
+Covered Devices.  Subject to Section II.I of this Order, to satisfy this requirement, Defendant 
+
+must, at a minimum: 
+
+A. 
+
+Document in writing the content, implementation, and maintenance of the 
+
+Software Security Program; 
+
+B. 
+
+Provide the written program and any evaluations thereof or updates thereto to 
+
+Defendant’s board of directors or governing body or, if no such board or equivalent governing 
+
+body exists, to a senior officer of Defendant responsible for Defendant’s Software Security 
+
+Program at least once every twelve (12) months; 
+
+[PROPOSED] STIPULATED ORDER FOR INJUNCTION  
+CASE NO. 3:17-cv-00039-JD 
+
+3 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Case 3:17-cv-00039-JD   Document 272-1   Filed 07/02/19   Page 4 of 32 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+26 
+
+27 
+
+28 
+
+C. 
+
+Designate a qualified employee or employees to coordinate and be responsible for 
+
+the Software Security Program; 
+
+D. 
+
+Assess and document, at least once every twelve (12) months, internal and 
+
+external risks to the security of Covered Devices that could result in the unauthorized disclosure, 
+
+misuse, loss, theft, alteration, destruction, or other compromise of such information input into, 
+
+stored on or captured with, accessed, or transmitted by a Covered Device; 
+
+E. 
+
+Design, implement, maintain, and document safeguards, as a part of a secure 
+
+software development process, that control for the internal and external risks Defendant 
+
+identifies to the security of Covered Devices.  Such safeguards shall also include: 
+
+1. 
+
+Engaging in security planning by enumerating in writing how 
+
+functionality and features will affect the security of Covered Devices; 
+
+2. 
+
+Performing threat modeling to identify internal and external risks to the 
+
+security of data transmitted using Covered Devices; 
+
+3. 
+
+Engaging in pre-release code review of every release of software for 
+
+Covered Devices through the use of automated static analysis tools;  
+
+4. 
+
+Conducting pre-release vulnerability testing of every release of software 
+
+for Covered Devices; 
+
+5. 
+
+Performing ongoing code maintenance by maintaining a database of 
+
+shared code to be used to help find other instances of a vulnerability when a vulnerability is 
+
+reported or otherwise discovered; 
+
+6. 
+
+Remediation processes designed to address security flaws, or analogous 
+
+instances of security flaws, identified at any stage of software development process; 
+
+[PROPOSED] STIPULATED ORDER FOR INJUNCTION  
+CASE NO. 3:17-cv-00039-JD 
+
+4 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Case 3:17-cv-00039-JD   Document 272-1   Filed 07/02/19   Page 5 of 32 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+26 
+
+27 
+
+28 
+
+7. 
+
+Ongoing monitoring of security research for potential vulnerabilities that 
+
+could affect Covered Devices;  
+
+8. 
+
+A process for accepting vulnerability reports from security researchers, 
+
+which shall include providing a designated point of contact for security researchers, appointing 
+
+supervisory personnel to validate concerns; 
+
+9. 
+
+Automatic firmware updates directly to the Covered Devices that are 
+
+configured to receive automatic firmware updates; 
+
+10. 
+
+At least 60 days prior to ceasing security updates for a Covered Device, a 
+
+clear and conspicuous notice to consumers who registered their Covered Device, through the 
+
+communication channel(s) the consumer chose at the time of registration, and a clear and 
+
+conspicuous notice on the product information page of the Covered Device on Defendant’s 
+
+website that the Covered Device will no longer receive firmware updates; and 
+
+11. 
+
+Biennial security training for personnel and vendors responsible for 
+
+developing, implementing, or reviewing Covered Device software, including firmware updates.  
+
+F. 
+
+Assess, at least once every twelve (12) months the sufficiency of any safeguards 
+
+in place to address the risks to the security of Covered Devices, and modify the Software 
+
+Security Program based on the results.   
+
+G. 
+
+Test and monitor the effectiveness of the safeguards at least once every twelve 
+
+(12) months, and modify the Software Security Program based on the results.  
+
+H. 
+
+Select and retain service providers capable of maintaining security practices 
+
+consistent with this Order, and contractually require service providers to implement and maintain 
+
+safeguards consistent with this Order; and  
+
+[PROPOSED] STIPULATED ORDER FOR INJUNCTION  
+CASE NO. 3:17-cv-00039-JD 
+
+5 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Case 3:17-cv-00039-JD   Document 272-1   Filed 07/02/19   Page 6 of 32 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+26 
+
+27 
+
+28 
+
+I. 
+
+Evaluate and adjust the Software Security Program in light of any changes to 
+
+Defendant’s operations or business arrangements, or any other circumstances that Defendant 
+
+knows or has reason to know may have an impact on the effectiveness of the Software Security 
+
+Program.  At a minimum, Defendant must evaluate the Software Security Program at least once 
+
+every twelve (12) months and modify the Software Security Program based on the results. 
+
+Except for Sections I.B and I.C, Defendant may select, appoint, and work with third 
+
+parties that are contractually required to comply with the requirements of this Section I, provided 
+
+that Defendant discloses all material facts and does not misrepresent any material facts to said 
+
+third party.  Defendant shall obtain from said third party all materials and documentation 
+
+necessary to evaluate the effectiveness of the compliance with any provisions that the third party 
+
+is contracted to comply with.  However, Defendant shall be solely responsible for compliance 
+
+with this Order. 
+
+II. 
+
+SOFTWARE SECURITY ASSESSMENTS BY A THIRD PARTY 
+
+IT IS FURTHER ORDERED that, in connection with compliance with Defendant’s 
+
+Software Security Program, Defendant must obtain initial and biennial assessments 
+
+(“Assessments”): 
+
+A. 
+
+The Assessments must be obtained from a qualified, objective, independent third-
+
+party professional (“Assessor”), who: (1) is qualified as a Certified Secure Software Lifecycle 
+
+Professional (CSSLP) with professional experience with secure Internet-accessible devices; 
+
+(2) uses procedures and standards generally accepted in the profession; (3) conducts an 
+
+independent review of the Software Security Program, or, at the election of Defendant, an 
+
+assessment of the Approved Standard; and (4) retains all documents considered for each 
+
+Assessment for five (5) years after completion of such Assessment and will provide such 
+
+6 
+
+[PROPOSED] STIPULATED ORDER FOR INJUNCTION  
+CASE NO. 3:17-cv-00039-JD 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Case 3:17-cv-00039-JD   Document 272-1   Filed 07/02/19   Page 7 of 32 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+26 
+
+27 
+
+28 
+
+documents to the Commission within fourteen (14) days of receipt of a written request from a 
+
+representative of the Commission.  No documents considered for an Assessment may be 
+
+withheld on the basis of a claim of confidentiality, proprietary or trade secrets, work product or 
+
+attorney client privilege. 
+
+B. 
+
+For each Assessment, Respondent shall provide the Associate Director for 
+
+Enforcement for the Bureau of Consumer Protection at the Federal Trade Commission with the 
+
+name and affiliation of the person selected to conduct the Assessment, which the Associate 
+
+Director shall have the authority to approve in his sole discretion.  Any decision not to approve 
+
+an individual selected to conduct such Assessment must be accompanied by a writing setting 
+
+forth in detail the reasons for denying such approval.  
+
+C. 
+
+The reporting period for the Assessments to FTC must cover: (1) from the entry 
+
+of this Order to January 31, 2020, for the initial Assessment; and (2) each 2-year period 
+
+thereafter for ten (10) years after entry of this Order for the biennial Assessments. 
+
+D. 
+
+If Defendant elects to assess Defendant’s compliance with the Software Security 
+
+Program, the Assessment must: (1) determine whether Defendant has implemented and 
+
+maintained the Software Security Program; (2) assess the effectiveness of Defendant’s 
+
+implementation and maintenance of sub-Sections I.A-I; (3) identify any gaps or weaknesses in 
+
+the Software Security Program; (4) identify specific evidence (such as documents reviewed, 
+
+sampling and testing performed, and interviews conducted) examined to make such 
+
+determinations, assessments, and identifications, and explain why the evidence that the Assessor 
+
+examined is sufficient to justify the Assessor’s findings; or,  
+
+E. 
+
+If Defendant elects to assess Defendant’s compliance with the Approved 
+
+Standard, the Assessment must certify compliance with the Approved Standard, including, but 
+
+7 
+
+[PROPOSED] STIPULATED ORDER FOR INJUNCTION  
+CASE NO. 3:17-cv-00039-JD 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Case 3:17-cv-00039-JD   Document 272-1   Filed 07/02/19   Page 8 of 32 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+26 
+
+27 
+
+28 
+
+not limited to, the following provisions:  (1) Part 6.4 (“SR-3: Product Security Requirements”); 
+
+(2) Part 6.5 (“SR-4: Product security requirements content”); (3) Part 6.3 (“SR-2: Threat 
+
+model”); (4) Part 8.3.1(c) (“Static Code Analysis”); (5) Part 9.4 (“SVV-3: Vulnerability 
+
+Testing”); (6) Part 9.5 (“Penetration Testing”); (7) Part 10.4 (“DM-3: Assessing security-related 
+
+issues”); (8) Part 10.5 (“DM-4: Addressing security-related issues”); (9) Part 10.2 (“DM-1: 
+
+Receiving notifications of security-related issues”); (10) Part 11.6 (“SUM-5: Timely delivery of 
+
+security patches”); (11) Part 10.6 (“DM-5: Disclosing security-related issues”); (12) Part 5.6 
+
+(“SM-4: Security expertise”). 
+
+F. 
+
+No finding of any Assessment shall rely solely on assertions or attestations by 
+
+Defendant’s management.  The Assessment shall be signed by the Assessor and shall state that 
+
+the Assessor conducted an independent review of the Software Security Program or the 
+
+Approved Standard, and did not rely solely on assertions or attestations by Defendant’s 
+
+management.  
+
+G. 
+
+To the extent that Defendant has selected, appointed, or worked with a third party 
+
+to implement any of the criteria of the Software Security Program or any criteria of the Approved 
+
+Standard, Defendant shall provide to the Assessor, or cause to be provided to the Assessor, in 
+
+connection with the Assessment, all materials and documentation necessary for the Assessor to 
+
+conduct the Assessment of the effectiveness of the Comprehensive Software Security Program or 
+
+Approved Standard.  All such materials and documentation shall be maintained and produced 
+
+upon request pursuant to the provisions of this Order. 
+
+H. 
+
+Each Assessment must be completed within sixty (60) days after the end of the 
+
+reporting period to which the Assessment applies.  Unless otherwise directed by a Commission 
+
+representative in writing, Defendant must submit the initial Assessment to the Commission 
+
+8 
+
+[PROPOSED] STIPULATED ORDER FOR INJUNCTION  
+CASE NO. 3:17-cv-00039-JD 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Case 3:17-cv-00039-JD   Document 272-1   Filed 07/02/19   Page 9 of 32 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+26 
+
+27 
+
+28 
+
+within twenty (20) days after the Assessment has been completed via email to DEbrief@ftc.gov 
+
+or by overnight courier (not the U.S. Postal Service) to Associate Director for Enforcement, 
+
+Bureau of Consumer Protection, Federal Trade Commission, 600 Pennsylvania Avenue NW, 
+
+Washington, DC  20580.  The subject line must begin, “In re D-Link Systems, FTC File No. 
+
+X170030.”  All subsequent biennial Assessments shall be retained by Defendant until the order 
+
+is terminated and provided to the Associate Director for Enforcement within twenty (20) days of 
+
+request. 
+
+I. 
+
+If Defendant obtains an Assessment (i) certifying that the Software Security 
+
+Program for the Covered Devices is in compliance with the Approved Standard and 
+
+(ii) certifying that Defendant is in compliance with Section I.E.10, Defendant shall be deemed in 
+
+compliance with Section I of this Order for two (2) years from the date of that Assessment or 
+
+until the next January 31 Assessment deadline, whichever is earlier.  Provided, however:  
+
+1. 
+
+Defendant shall not be deemed in compliance with Section I of this Order 
+
+based on a Section II Assessment if Defendant made a representation, express or implied, that 
+
+either misrepresented or omitted a material fact and such misrepresentation or omission would 
+
+likely affect a reasonable Assessor’s decision about whether Defendant complied with the 
+
+Approved Standard.  Further, in the event that such a misrepresentation or omission was made 
+
+for the purpose of deceiving the Assessor, Defendant shall not be deemed in compliance with 
+
+any portion of Section I or Section II of this Order based on that Assessment.   
+
+2. 
+
+Defendant shall not be deemed in compliance with Section I of this Order 
+
+based upon a Section II Assessment if Defendant materially changed its practices after the 
+
+Assessment in question, unless, at the time of the material change, an Assessor qualified under 
+
+[PROPOSED] STIPULATED ORDER FOR INJUNCTION  
+CASE NO. 3:17-cv-00039-JD 
+
+9 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Case 3:17-cv-00039-JD   Document 272-1   Filed 07/02/19   Page 10 of 32 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+26 
+
+27 
+
+28 
+
+this Section certifies that the material change does not cause Defendant to fall out of compliance 
+
+with the Approved Standard on which the Assessment in question was based. 
+
+III.  COOPERATION WITH THIRD-PARTY SOFTWARE SECURITY ASSESSOR 
+
+IT IS FURTHER ORDERED that Defendant, whether acting directly or indirectly, in 
+
+connection with any Assessment required by Section II of this Order titled Software Security 
+
+Assessments by a Third Party, must: 
+
+A. 
+
+Disclose all material facts to the Assessor, and must not misrepresent in any 
+
+manner, expressly or by implication, any fact material to the Assessor’s Assessment; and 
+
+B. 
+
+Provide or otherwise make available to the Assessor all information and material 
+
+in its possession, custody, or control that is necessary to the Assessment for which there is no 
+
+reasonable claim of privilege. 
+
+IV.  ANNUAL CERTIFICATION 
+
+IT IS FURTHER ORDERED that, in connection with compliance with Defendant’s 
+
+Software Security Program, Defendant shall: 
+
+A. 
+
+One year after the entry of this Order, and each year thereafter, provide the 
+
+Commission with a certification from a senior corporate manager, or, if no such senior corporate 
+
+manager exists, a senior officer of Defendant responsible for Defendant’s Software Security 
+
+Program that: (1) the requirements of this Order have been established, implemented, and 
+
+maintained; and (2) Defendant is not aware of any material noncompliance that has not been (a) 
+
+corrected or (b) disclosed to the Commission.  The certification must be based on the personal 
+
+knowledge of the senior corporate manager, senior officer, or subject matter experts upon whom 
+
+the senior corporate manager or senior officer reasonably relies in making the certification. 
+
+[PROPOSED] STIPULATED ORDER FOR INJUNCTION  
+CASE NO. 3:17-cv-00039-JD 
+
+10 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Case 3:17-cv-00039-JD   Document 272-1   Filed 07/02/19   Page 11 of 32 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+26 
+
+27 
+
+28 
+
+B. 
+
+Unless otherwise directed by a Commission representative in writing, submit all 
+
+annual certifications to the Commission pursuant to this Order via email to DEbrief@ftc.gov or 
+
+by overnight courier (not the U.S. Postal Service) to Associate Director for Enforcement, Bureau 
+
+of Consumer Protection, Federal Trade Commission, 600 Pennsylvania Avenue NW, 
+
+Washington, DC  20580.  The subject line must begin, “In re D-Link Systems, Inc., FTC File No. 
+
+X170030.” 
+
+V. 
+
+SPECIFIC CONDUCT PROVISIONS 
+
+IT IS FURTHER ORDERED that  
+
+A. 
+
+Defendant shall no longer sell, distribute, or host on its website the IP Camera set-
+
+up wizard software containing the representations shown in Exhibit C attached hereto for any 
+
+Covered Devices. 
+
+B.  Within 60 days of the effective date of this Order, provide clear and conspicuous 
+
+notice to all consumers who registered their Covered Devices, through the communication 
+
+channel(s) the consumer chose at the time of registration, containing instructions for updating 
+
+said device with the latest firmware update. 
+
+VI.  ORDER ACKNOWLEDGMENTS 
+
+IT IS FURTHER ORDERED that Defendant obtains acknowledgments of receipt of 
+
+this Order: 
+
+A. 
+
+Defendant, within 7 days of entry of this Order, must submit to the Commission 
+
+an acknowledgment of receipt of this Order sworn under penalty of perjury. 
+
+B. 
+
+For three years after entry of this Order, Defendant must deliver a copy of this 
+
+Order to:  (1) all principals, officers, directors, and LLC managers and members; (2) all 
+
+employees having managerial responsibilities for the security of Covered Devices and all agents 
+
+[PROPOSED] STIPULATED ORDER FOR INJUNCTION  
+CASE NO. 3:17-cv-00039-JD 
+
+11 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Case 3:17-cv-00039-JD   Document 272-1   Filed 07/02/19   Page 12 of 32 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+26 
+
+27 
+
+28 
+
+and representatives who participate in the security of Covered Devices; and (3) any business 
+
+entity resulting from any change in structure as set forth in the Section titled Compliance 
+
+Reporting.  Delivery must occur within 7 days of entry of this Order for current personnel.  For 
+
+all others, delivery must occur before they assume their responsibilities. 
+
+C. 
+
+From each individual or entity to which a Defendant delivered a copy of this 
+
+Order, that Defendant must obtain, within 30 days, a signed and dated acknowledgment of 
+
+receipt of this Order. 
+
+VII.  COMPLIANCE REPORTING 
+
+IT IS FURTHER ORDERED that Defendant makes timely submissions to the 
+
+Commission: 
+
+A. 
+
+On January 31, 2020, Defendant must submit a compliance report, sworn under 
+
+penalty of perjury, which must: (1) identify the primary physical, postal, and email address and 
+
+telephone number, as designated points of contact, which representatives of the Commission may 
+
+use to communicate with Defendant; (2) identifies all of that Defendant’s businesses by all of 
+
+their names, telephone numbers, and physical, postal, email, and Internet addresses; (3) describes 
+
+the activities of each business, including the security and marketing practices; (4) describes in 
+
+detail whether and how Defendant is in compliance with each Section of this Order (either 
+
+directly or, at Defendant’s election, Defendant may, for the purpose of satisfying this 
+
+requirement as to Sections I and II, incorporate a Section II initial Assessment); and (5) provides 
+
+a copy of each Order Acknowledgment obtained pursuant to this Order, unless previously 
+
+submitted to the Commission.  
+
+B. 
+
+For ten (10) years after entry of this Order, Defendant must submit a compliance 
+
+notice, sworn under penalty of perjury, within 14 days of any change in the following: (a) any 
+
+12 
+
+[PROPOSED] STIPULATED ORDER FOR INJUNCTION  
+CASE NO. 3:17-cv-00039-JD 
+
+ 
+ 
+ 
+ 
+ 
+Case 3:17-cv-00039-JD   Document 272-1   Filed 07/02/19   Page 13 of 32 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+26 
+
+27 
+
+28 
+
+designated point of contact; or (b) the structure of Defendant or any entity that Defendant has 
+
+any ownership interest in or controls directly or indirectly that may affect compliance obligations 
+
+arising under this Order, including:  creation, merger, sale, or dissolution of the Defendant or any 
+
+subsidiary, parent, or affiliate that Defendant has any ownership interest in or controls directly or 
+
+indirectly that engages in any acts or practices subject to this Order. 
+
+C. 
+
+Defendant must submit to the Commission notice of the filing of any bankruptcy 
+
+petition, insolvency proceeding, or similar proceeding by or against such Defendant within 14 
+
+days of its filing. 
+
+D. 
+
+Any submission to the Commission required by this Order to be sworn under 
+
+penalty of perjury must be true and accurate and comply with 28 U.S.C. § 1746, such as by 
+
+concluding:  “I declare under penalty of perjury under the laws of the United States of America 
+
+that the foregoing is true and correct.  Executed on:  _____” and supplying the date, signatory’s 
+
+full name, title (if applicable), and signature. 
+
+E. 
+
+Unless otherwise directed by a Commission representative in writing, all 
+
+submissions to the Commission pursuant to this Order must be emailed to DEbrief@ftc.gov or 
+
+sent by overnight courier (not the U.S. Postal Service) to:  Associate Director for Enforcement, 
+
+Bureau of Consumer Protection, Federal Trade Commission, 600 Pennsylvania Avenue NW, 
+
+Washington, DC  20580.  The subject line must begin:  FTC v. D-Link Systems, Inc., X170030. 
+
+VIII.  RECORDKEEPING  
+
+IT IS FURTHER ORDERED that Defendant must create certain records for ten (10) 
+
+years after entry of the Order, and retain each such record for 5 years.  Specifically, Defendant 
+
+must create and retain the following records: 
+
+A.  
+
+accounting records showing the revenues from all goods or services sold; 
+
+13 
+
+[PROPOSED] STIPULATED ORDER FOR INJUNCTION  
+CASE NO. 3:17-cv-00039-JD 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Case 3:17-cv-00039-JD   Document 272-1   Filed 07/02/19   Page 14 of 32 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+26 
+
+27 
+
+28 
+
+B.  
+
+Defendant’s personnel records showing, for each person providing services, 
+
+whether as an employee or otherwise, that person’s:  name; addresses; telephone numbers; job 
+
+title or position; dates of service; and (if applicable) the reason for termination; 
+
+C.  
+
+records of all consumer complaints and refund requests, whether received directly 
+
+or indirectly, such as through a third party, concerning the subject matter of the Order; 
+
+D. 
+
+all records necessary to demonstrate full compliance with each provision of this 
+
+Order, including all submissions to the Commission; and 
+
+E. 
+
+ a copy of each unique advertisement or other marketing material by Defendant 
+
+making a representation subject to this Order. 
+
+IX.  COMPLIANCE MONITORING 
+
+IT IS FURTHER ORDERED that, for the purpose of monitoring Defendant’s 
+
+compliance with this Order: 
+
+A.  Within 14 days of receipt of a written request from a representative of the 
+
+Commission, Defendant must:  submit additional compliance reports or other requested 
+
+information, which must be sworn under penalty of perjury; appear for depositions; and produce 
+
+documents for inspection and copying.  The Commission is also authorized to obtain discovery, 
+
+without further leave of court, using any of the procedures prescribed by Federal Rules of Civil 
+
+Procedure 29, 30 (including telephonic depositions), 31, 33, 34, 36, 45, and 69.  Provided, 
+
+however, that Defendant, after attempting to resolve a dispute without court action and for good 
+
+cause shown, may file a motion with this Court seeking an order for one or more of the 
+
+protections set forth in Rule 26(c).  
+
+B.  
+
+For matters concerning this Order, the Commission is authorized to communicate 
+
+directly with Defendant, Defendant must permit representatives of the Commission to interview 
+14 
+
+[PROPOSED] STIPULATED ORDER FOR INJUNCTION  
+CASE NO. 3:17-cv-00039-JD 
+
+ 
+ 
+ 
+ 
+ 
+Case 3:17-cv-00039-JD   Document 272-1   Filed 07/02/19   Page 15 of 32 
+
+any employee or other person affiliated with Defendant who has agreed to such an interview.  
+
+The person interviewed may have counsel present. 
+
+C.  
+
+The Commission may use all other lawful means, including posing, through its 
+
+representatives, as consumers, suppliers, or other individuals or entities, to Defendant or any 
+
+individual or entity affiliated with Defendant, without the necessity of identification or prior 
+
+notice.  Nothing in this Order limits the Commission’s lawful use of compulsory process, 
+
+pursuant to Sections 9 and 20 of the FTC Act, 15 U.S.C. §§ 49, 57b-1, nor does it limit  
+
+Defendant’s ability to assert any and all objections, defenses, rights, or privileges available to it, 
+
+as to any such process. 
+
+[PROPOSED] STIPULATED ORDER FOR INJUNCTION  
+CASE NO. 3:17-cv-00039-JD 
+
+15 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+26 
+
+27 
+
+28 
+
+ 
+ 
+ 
+ 
+ 
+ 
+Case 3:17-cv-00039-JD   Document 272-1   Filed 07/02/19   Page 16 of 32 
+
+X. 
+
+RETENTION OF JURISl>JCTJON 
+
+2 
+
+3 
+
+4 
+s  !I 
+
+11 
+
+. pwpous of conmw:tio11, modificatiOII, 8Tld enfon::i,ment of lhis Order. 
+
+. 
+
+jt  Daled: 
+j 
+
+- - -
+
+Dat.ed: ____  _ 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+i! 
+
+11_ 
+
+:: 1
+
+-,~ 
+
+14  r 
+IS  I 
+16 
+
+[)altd:  ·::;I\ { ''\ 
+
+By :~  
+WJLi:iAM C. BROWN, Chieflnfcnnation Se<:urity Onie.er 
+O.Link Symms, Inc. 
+
+··· ··· 
+
+-
+
+By:  ~L:/,'¼ 
+
+CHRISSY.ANG 
+Law Offices ofS.J. Cbristine Yang 
+AIIO?llO)' for 0.Sfendenl [).Llnlt Syslems, Inc. 
+
+B. y:' 
+
+- ~ ? /~  
+
+- - ···  . . .. 
+
+CC  ONE, President and CEO 
+
+0-Link Syltcms, Inc. 
+
+Ca  of A,lion l1111tit11te 
+tor Defendant 
+Attorney 
+
+By. ~d.
+
+~ 
+
+=INTULLYR 
+JARAD A. BROWN 
+KA THERINE B. MCCARON 
+BRIAN C. BER.OORBN 
+Counsel fer th.a Fcdcmil Trade Commission 
+
+I 
+!so ORDERED rbis _  day or ____ __, l<tJ9. 
+
+Hoooralllc !au>ei Donal() 
+Uniled States District Judp 
+Nor1hem District ofCalifomia 
+
+16 
+
+(PROPOSED) STIPULATED OlU)gR FOR INJUNCTION 
+CA-~ NC).  l:17-e.,.00939JD 
+
+I 
+I 
+
+I? 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+is 
+26 
+
+27 
+
+.28 
+
+Case 3:17-cv-00039-JD   Document 272-1   Filed 07/02/19   Page 17 of 32 
+
+Stipulated Order for  
+Injunction and Judgment 
+Exhibit A 
+(Placeholder Excerpted Public Version of  
+Document Filed Under Seal at ECF 271) 
+
+ 
+ 
+ 
+ 
+ 
+Case 3:17-cv-00039-JD   Document 272-1   Filed 07/02/19   Page 18 of 32 
+This is a preview - click here to buy the full publication
+
+IEC  62443-4-1  
+
+Edition  1.0   2018-01  
+
+®  
+
+INTERNATIONAL  
+  STANDARD  
+
+colour
+inside
+
+  Security for industrial automation and control  systems  –   
+  Part 4-1: Secure product development lifecycle requirements  
+
+INTERNATIONAL  
+ELECTROTECHNICAL  
+COMMISSION  
+
+ICS  25.040.40; 35.030  
+
+ISBN  978-2-8322-5239-0  
+
+   Warning! Make sure that you obtained this publication from an authorized  distributor.  
+
+®  Registered trademark of the International Electrotechnical Commission 
+
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Case 3:17-cv-00039-JD   Document 272-1  
+
+Filed 07/02/19   Page 19 of 32 
+
+This is a preview - click here to buy the full publication
+
+–  2  –  
+
+IEC  62443-4-1:2018 © IEC  2018  
+
+CONTENTS  
+
+FOREWORD ........................................................................................................................... 6  
+
+INTRODUCTION ..................................................................................................................... 8  
+1  
+Scope ............................................................................................................................ 11  
+
+2   Normative references  .................................................................................................... 11  
+3  
+Terms, definitions, abbreviated terms,  acronyms  and conventions ................................. 11  
+
+3.1  
+3.2  
+3.3  
+
+Terms and definitions ............................................................................................ 11  
+Abbreviated terms and  acronyms  .......................................................................... 16  
+Conventions .......................................................................................................... 17  
+4   General  principles  ......................................................................................................... 17  
+Concepts  .............................................................................................................. 17  
+Maturity model  ...................................................................................................... 19  
+Practice  1 –  Security management  ................................................................................ 20  
+
+4.1  
+4.2  
+
+5  
+
+5.6  
+
+5.8  
+
+5.5  
+
+5.7  
+
+5.2.1  
+
+5.1  
+5.2  
+
+5.3  
+5.4  
+
+5.7.1  
+5.7.2  
+
+5.5.1  
+5.5.2  
+
+5.6.1  
+5.6.2  
+
+5.4.1  
+5.4.2  
+
+SM-3:  Identification  of appl
+
+Purpose  ................................................................................................................ 20  
+SM-1:  Development process  ................................................................................. 21  
+Requirement .................................................................................................. 21  
+Rationale and supplemental guidance ................................................................... 21  
+SM-2: I  dentification of r  esponsibilities ................................................................... 21  
+Requirement .................................................................................................. 21  
+Rationale and supplemental guidance............................................................ 21  
+icability ........................................................................ 21  
+Requirement .................................................................................................. 21  
+Rationale and supplemental guidance............................................................ 22  
+SM-4: S  ecurity  expertise ....................................................................................... 22  
+Requirement .................................................................................................. 22  
+Rationale and supplemental guidance............................................................ 22  
+SM-5:  Process scoping  ......................................................................................... 22  
+Requirement .................................................................................................. 22  
+Rationale and supplemental guidance............................................................ 23  
+SM-6:  File integrity ................................................................................................ 23  
+Requirement .................................................................................................. 23  
+Rationale and supplemental guidance............................................................ 23  
+SM-7:  Development environment security  ............................................................. 23  
+Requirement .................................................................................................. 23  
+Rationale and supplemental guidance............................................................ 23  
+5.10   SM-8:  Controls for private keys ............................................................................. 23  
+Requirement .................................................................................................. 23  
+Rationale and supplemental guidance............................................................ 24  
+5.11   SM-9: Security  requirements  for  externally  provided  components .......................... 24  
+Requirement .................................................................................................. 24  
+Rationale and supplemental guidance............................................................ 24  
+5.12   SM-10:  Custom developed components from third-party suppliers  ........................ 24  
+Requirement .................................................................................................. 24  
+Rationale and supplemental guidance............................................................ 25  
+5.13   SM-11: A  ssessing and  addressing  security-related issues  .................................... 25  
+Requirement .................................................................................................. 25  
+Rationale and supplemental guidance............................................................ 25  
+
+5.13.1  
+5.13.2  
+
+5.11.1  
+5.11.2  
+
+5.12.1  
+5.12.2  
+
+5.10.1  
+5.10.2  
+
+5.9.1  
+5.9.2  
+
+5.8.1  
+5.8.2  
+
+5.9  
+
+ 
+ 
+Case 3:17-cv-00039-JD   Document 272-1  
+
+Filed 07/02/19   Page 20 of 32 
+
+This is a preview - click here to buy the full publication
+
+IEC  62443-4-1:2018  ©  IEC  2018  
+
+–  3  –  
+
+6.4  
+
+6.3  
+
+6.5  
+
+6.6  
+
+SR-3: P 
+
+6.1  
+6.2  
+
+6.4.1  
+6.4.2  
+
+6.3.1  
+6.3.2  
+
+6.2.1  
+6.2.2  
+
+6.5.1  
+6.5.2  
+
+5.14.1  
+5.14.2  
+
+5.14   SM-12: P 
+
+rocess  verification  .................................................................................. 25  
+Requirement .................................................................................................. 25  
+Rationale and supplemental guidance............................................................ 25  
+5.15   SM-13:  Continuous improvement  .......................................................................... 25  
+5.15.1  
+Requirement .................................................................................................. 25  
+5.15.2  
+Rationale and supplemental guidance............................................................ 26  
+Practice 2 –  Specification of security  requirements ........................................................ 26  
+Purpose  ................................................................................................................ 26  
+SR-1:  Product security context .............................................................................. 27  
+Requirement .................................................................................................. 27  
+Rationale and supplemental  guidance............................................................ 27  
+SR-2: Threat model ............................................................................................... 27  
+Requirement .................................................................................................. 27  
+Rationale and supplemental guidance............................................................ 28  
+roduct  security  requirements ..................................................................... 28  
+Requirement .................................................................................................. 28  
+Rationale and supplemental guidance............................................................ 28  
+SR-4:  Product security  requirements content  ........................................................ 29  
+Requirement .................................................................................................. 29  
+Rationale and supplemental guidance............................................................ 29  
+SR-5:  Security requirements review  ...................................................................... 29  
+6.6.1  
+Requirement .................................................................................................. 29  
+6.6.2  
+Rationale and supplemental guidance............................................................ 29  
+Practice 3 –  Secure by  design  ....................................................................................... 30  
+Purpose  ................................................................................................................ 30  
+SD-1:  Secure design principles  ............................................................................. 30  
+Requirement .................................................................................................. 30  
+Rationale and supplemental guidance............................................................ 30  
+SD-2: D  efense in depth design.............................................................................. 31  
+Requirement .................................................................................................. 31  
+Rationale and supplemental guidance............................................................ 32  
+SD-3:  Security  design  review  ................................................................................ 32  
+Requirement .................................................................................................. 32  
+Rationale and supplemental  guidance............................................................ 32  
+SD-4:  Secure design best  practices  ...................................................................... 32  
+7.5.1  
+Requirement .................................................................................................. 32  
+7.5.2  
+Rationale and supplemental guidance............................................................ 33  
+Practice 4 –  Secure implementation ............................................................................... 33  
+Purpose  ................................................................................................................ 33  
+Applicability  .......................................................................................................... 33  
+SI-1: S  ecurity  implementation  review  .................................................................... 33  
+Requirement .................................................................................................. 33  
+Rationale and supplemental guidance............................................................ 34  
+SI-2:  Secure coding standards  .............................................................................. 34  
+8.4.1  
+Requirement .................................................................................................. 34  
+8.4.2  
+Rationale and supplemental guidance............................................................ 34  
+Practice 5 –  Security  verification  and validation testing .................................................. 34  
+Purpose  ................................................................................................................ 34  
+
+8.1  
+8.2  
+8.3  
+
+7.4.1  
+7.4.2  
+
+7.3.1  
+7.3.2  
+
+7.2.1  
+7.2.2  
+
+8.3.1  
+8.3.2  
+
+7.1  
+7.2  
+
+7.3  
+
+7.4  
+
+7.5  
+
+8.4  
+
+9.1  
+
+6  
+
+7  
+
+8  
+
+9  
+
+ 
+Case 3:17-cv-00039-JD   Document 272-1  
+
+Filed 07/02/19   Page 21 of 32 
+
+This is a preview - click here to buy the full publication
+
+– 4 – 
+
+IEC 62443-4-1:2018 © IEC 2018 
+
+9.3  
+
+9.4  
+
+9.5  
+
+9.6  
+
+9.2  
+
+9.2.1  
+9.2.2  
+
+9.4.1  
+9.4.2  
+
+9.5.1  
+9.5.2  
+
+9.3.1  
+9.3.2  
+
+9.6.1  
+9.6.2  
+
+10.2.1  
+10.2.2  
+
+SVV-1: S  ecurity  requirements  testing .................................................................... 35  
+Requirement .................................................................................................. 35  
+Rationale and supplemental guidance............................................................ 35  
+SVV-2: Threat mitigation testing ............................................................................ 35  
+Requirement .................................................................................................. 35  
+Rationale and supplemental guidance............................................................ 35  
+SVV-3: Vulnerability  testing  .................................................................................. 36  
+Requirement .................................................................................................. 36  
+Rationale and supplemental guidance............................................................ 36  
+SVV-4: Penetration testing .................................................................................... 36  
+Requirement .................................................................................................. 36  
+Rationale and supplemental guidance............................................................ 36  
+SVV-5: I  ndependence of  testers ............................................................................ 37  
+Requirement .................................................................................................. 37  
+Rationale and supplemental guidance............................................................ 37  
+0   Practice 6 –  Management  of security-related issues  ...................................................... 38  
+10.1   Purpose  ................................................................................................................ 38  
+10.2   DM-1:  Receiving notifications of security-related  issues ........................................ 38  
+Requirement .................................................................................................. 38  
+Rationale and supplemental guidance............................................................ 38  
+10.3   DM-2:  Reviewing security-related issues ............................................................... 38  
+Requirement .................................................................................................. 38  
+Rationale and supplemental guidance............................................................ 39  
+10.4   DM-3:  Assessing security-related issues ............................................................... 39  
+Requirement .................................................................................................. 39  
+Rationale and supplemental guidance............................................................ 39  
+10.5   DM-4:  Addressing security-related issues  ............................................................. 40  
+Requirement .................................................................................................. 40  
+Rationale and supplemental guidance............................................................ 40  
+10.6   DM-5:  Disclosing security-related issues ............................................................... 41  
+Requirement .................................................................................................. 41  
+Rationale and supplemental guidance............................................................ 41  
+10.7   DM-6: P  eriodic  review  of  security  defect m  anagement pr  actice  ............................. 42  
+Requirement .................................................................................................. 42  
+Rationale and supplemental guidance............................................................ 42  
+1   Practice 7 –  Security  update management ..................................................................... 42  
+11.1   Purpose  ................................................................................................................ 42  
+11.2   SUM-1:  Security  update  qualification  .................................................................... 42  
+Requirement .................................................................................................. 42  
+Rationale and supplemental guidance............................................................ 42  
+11.3   SUM-2:  Security  update  documentation  ................................................................ 42  
+Requirement .................................................................................................. 42  
+Rationale and supplemental guidance............................................................ 43  
+
+11.2.1  
+11.2.2  
+
+10.3.1  
+10.3.2  
+
+10.4.1  
+10.4.2  
+
+10.5.1  
+10.5.2  
+
+10.6.1  
+10.6.2  
+
+11.3.1  
+11.3.2  
+
+10.7.1  
+10.7.2  
+
+1
+
+1
+
+11.4   SUM-3: Dependent component or  operating system security  update  
+
+11.4.1  
+11.4.2  
+
+documentation  ...................................................................................................... 43  
+Requirement .................................................................................................. 43  
+Rationale and supplemental guidance............................................................ 43  
+11.5   SUM-4:  Security  update  delivery ........................................................................... 43  
+Requirement .................................................................................................. 43  
+
+11.5.1  
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Case 3:17-cv-00039-JD   Document 272-1  
+
+Filed 07/02/19   Page 22 of 32 
+
+This is a preview - click here to buy the full publication
+
+IEC 62443-4-1:2018 © IEC 2018 
+
+– 5 – 
+
+11.5.2 
+
+Rationale and supplemental guidance............................................................ 43 
+11.6  SUM-5: Timely delivery of security patches ........................................................... 44 
+Requirement .................................................................................................. 44 
+Rationale and supplemental guidance............................................................ 44 
+12  Practice 8 – Security guidelines ..................................................................................... 44 
+
+11.6.1 
+11.6.2 
+
+12.3.1 
+12.3.2 
+
+12.2.1 
+12.2.2 
+
+12.4.1 
+12.4.2 
+
+12.1  Purpose ................................................................................................................ 44 
+12.2  SG-1: Product defense in depth ............................................................................ 44 
+Requirement .................................................................................................. 44 
+Rationale and supplemental guidance............................................................ 45 
+12.3  SG-2: Defense in depth measures expected in the environment ............................ 45 
+Requirement .................................................................................................. 45 
+Rationale and supplemental guidance............................................................ 45 
+12.4  SG-3: Security hardening guidelines ..................................................................... 45 
+Requirement .................................................................................................. 45 
+Rationale and supplemental guidance............................................................ 46 
+12.5  SG-4: Secure disposal guidelines ......................................................................... 46 
+Requirement .................................................................................................. 46 
+Rationale and supplemental guidance............................................................ 46 
+12.6  SG-5: Secure operation guidelines ........................................................................ 46 
+Requirement .................................................................................................. 46 
+Rationale and supplemental guidance............................................................ 47 
+12.7  SG-6: Account management guidelines................................................................. 47 
+Requirement .................................................................................................. 47 
+Rationale and supplemental guidance............................................................ 47 
+12.8  SG-7: Documentation review................................................................................. 47 
+Requirement .................................................................................................. 47 
+Rationale and supplemental guidance............................................................ 47 
+Annex A (informative)  Possible metrics ................................................................................ 48 
+
+12.6.1 
+12.6.2 
+
+12.8.1 
+12.8.2 
+
+12.7.1 
+12.7.2 
+
+12.5.1 
+12.5.2 
+
+Annex B (informative)  Table of requirements ....................................................................... 50 
+
+Bibliography.......................................................................................................................... 52 
+
+Figure 1 – Parts of the IEC 62443 series.................................................................................9 
+
+Figure 2 – Example scope of product life-cycle ..................................................................... 10 
+
+Figure 3 – Defence in depth strategy is a key philosophy of the secure product life-cycle ..... 18 
+
+Table 1 – Maturity levels ....................................................................................................... 20 
+
+Table 2 – Example SDL continuous improvement activities ................................................... 26 
+
+Table 3 – Required level of independence of testers from developers ................................... 37 
+
+Table B.1 – Summary of all requirements.............................................................................. 50 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Case 3:17-cv-00039-JD   Document 272-1   Filed 07/02/19   Page 23 of 32 
+This is a preview - click here to buy the full publication
+
+– 6 – 
+
+IEC 62443-4-1:2018 © IEC 2018 
+
+INTERNATIONAL ELECTROTECHNICAL COMMISSION 
+
+____________ 
+
+SECURITY FOR INDUSTRIAL AUTOMATION 
+AND CONTROL SYSTEMS – 
+
+Part 4-1: Secure product development lifecycle requirements 
+
+FOREWORD 
+
+1)  The International Electrotechnical Commission (IEC) is a worldwide organization for standardization comprising 
+all  national  electrotechnical  committees  (IEC  National  Committees).  The  object  of  IEC  is  to  promote 
+international  co-operation  on  all  questions  concerning  standardization  in  the  electrical  and  electronic  fields.  To 
+this  end  and  in  addition  to  other  activities,  IEC  publishes  International  Standards,  Technical  Specifications, 
+Technical  Reports,  Publicly  Available  Specifications  (PAS)  and  Guides  (hereafter  referred  to  as  “IEC 
+Publication(s)”). Their preparation is entrusted to technical committees; any IEC National Committee interested 
+in  the  subject  dealt  with  may  participate  in  this  preparatory  work.  International,  governmental  and  non-
+governmental  organizations  liaising  with  the  IEC  also  participate  in  this  preparation.  IEC  collaborates  closely 
+with  the  International  Organization  for  Standardization  (ISO)  in  accordance  with  conditions  determined  by 
+agreement between the two organizations. 
+
+2)  The formal decisions or agreements of IEC on technical matters express, as nearly as possible, an international 
+consensus  of  opinion  on  the  relevant  subjects  since  each  technical  committee  has  representation  from  all 
+interested IEC National Committees. 
+
+3)  IEC  Publications  have  the  form  of  recommendations  for  international  use  and  are  accepted  by  IEC  National 
+Committees  in  that  sense.  While  all  reasonable  efforts  are  made  to  ensure  that  the  technical  content  of  IEC 
+Publications  is  accurate,  IEC  cannot  be  held  responsible  for  the  way  in  which  they  are  used  or  for  any 
+misinterpretation by any end user. 
+
+4)  In  order  to  promote  international  uniformity,  IEC  National  Committees  undertake  to  apply  IEC  Publications 
+transparently  to  the  maximum  extent  possible  in  their  national  and  regional  publications.  Any  divergence 
+between any IEC Publication and the corresponding national or regional publication shall be clearly indicated in 
+the latter. 
+
+5)  IEC  itself  does  not  provide  any  attestation  of  conformity.  Independent  certification  bodies  provide  conformity 
+assessment  services  and,  in  some  areas,  access  to  IEC  marks  of  conformity.  IEC  is  not  responsible  for  any 
+services carried out by independent certification bodies. 
+
+6)  All users should ensure that they have the latest edition of this publication. 
+
+7)  No  liability  shall  attach  to  IEC  or  its  directors,  employees,  servants  or  agents  including  individual  experts  and 
+members of its technical committees and IEC National  Committees for any personal injury, property damage or 
+other  damage  of  any  nature  whatsoever,  whether  direct  or  indirect,  or  for  costs  (including  legal  fees)  and 
+expenses  arising  out  of  the  publication,  use  of,  or  reliance  upon,  this  IEC  Publication  or  any  other  IEC 
+Publications. 
+
+8)  Attention  is  drawn  to  the  Normative  references  cited  in  this  publication.  Use  of  the  referenced  publications  is 
+
+indispensable for the correct application of this publication. 
+
+9)  Attention  is  drawn  to  the  possibility  that  some  of  the  elements  of  this  IEC  Publication  may  be  the  subject  of 
+
+patent rights. IEC shall not be held responsible for identifying any or all such patent rights. 
+
+International  Standard  IEC 62443-4-1  has  been  prepared  by  IEC  technical  committee  65: 
+Industrial-process measurement, control and automation. 
+
+The text of this International Standard is based on the following documents: 
+
+FDIS 
+
+Report on voting 
+
+65/685/FDIS 
+
+65/688/RVD 
+
+Full  information  on  the  voting  for  the  approval  of  this  International  Standard  can  be  found  in 
+the report on voting indicated in the above table. 
+
+This document has been drafted in accordance with the ISO/IEC Directives, Part 2. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Case 3:17-cv-00039-JD   Document 272-1   Filed 07/02/19   Page 24 of 32 
+This is a preview - click here to buy the full publication
+
+IEC 62443-4-1:2018 © IEC 2018 
+
+– 7 – 
+
+A  list  of  all  parts  in  the  IEC 62443  series,  published  under  the  general  title  Security  for 
+industrial automation and control systems, can be found on the IEC website. 
+
+Future standards in this series will carry the new general title as cited above. Titles of existing 
+standards in this series will be updated at the time of the next edition. 
+
+The committee has decided that the contents of this document will remain unchanged until the 
+stability date indicated on the IEC website under "http://webstore.iec.ch" in the data related to 
+the specific document. At this date, the document will be 
+
+• 
+
+reconfirmed, 
+
+•  withdrawn, 
+
+• 
+
+replaced by a revised edition, or 
+
+•  amended. 
+
+A bilingual version of this publication may be issued at a later date. 
+
+it  contains  colours  which  are  considered 
+
+IMPORTANT  –  The  'colour  inside'  logo  on  the  cover  page  of  this  publication  indicates 
+that 
+for  the  correct 
+understanding  of  its  contents.  Users  should  therefore  print  this  document  using  a 
+colour printer. 
+
+to  be  useful 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Case 3:17-cv-00039-JD   Document 272-1   Filed 07/02/19   Page 25 of 32 
+This is a preview - click here to buy the full publication
+
+– 8 – 
+
+IEC 62443-4-1:2018 © IEC 2018 
+
+INTRODUCTION 
+
+This  document  is  part  of  a  series  of  standards  that  addresses  the  issue  of  security  for 
+industrial  automation  and  control  systems  (IACS).  This  document  describes  product 
+development  life-cycle  requirements  related to cyber  security for  products  intended for  use  in 
+the  industrial  automation  and  control  systems  environment  and  provides  guidance  on  how  to 
+meet the requirements described for each element. 
+
+This  document  has  been  developed  in  large  part  from  the  Secure  Development  Life-cycle 
+Assessment  (SDLA)  Certification  Requirements  [26] 1  from  the  ISA  Security  Compliance 
+Institute (ISCI). Note that the SDLA procedure was based on the following sources: 
+
+– 
+
+ISO/IEC 15408-3 (Common Criteria) [18]; 
+
+–  Open Web Application Security Project (OWASP) Comprehensive, Lightweight Application 
+
+Security Process (CLASP) [36]; 
+
+–  The Security Development Life-cycle by Michael Howard and Steve Lipner [43]; 
+
+– 
+
+IEC 61508  Functional 
+safety 
+safety-related systems [24], and 
+
+of 
+
+electrical/electronic/ 
+
+programmable 
+
+electronic 
+
+–  RCTA DO-178B Software Considerations in Airborne Systems and Equipment Certification 
+
+[28]. 
+
+Therefore, all these sources can be considered contributing sources to this document. 
+
+This  document  is  the  part  of  the  IEC 62443  series  that  contains  security  requirements  for 
+developers of any automation and control products where security is a concern. 
+
+Figure  1  illustrates  the  relationship  of  the  different  parts  of  IEC 62443  that  were  in  existence 
+or  planned  as  of  the  date  of  circulation  of  this  document.  Those  that  are  normatively 
+referenced  are  included  in  the  list  of  normative  references  in  Clause  2,  and  those  that  are 
+referenced for informational purposes or that are in development are listed in the Bibliography. 
+
+___________ 
+
+1 
+
+Figures in square brackets refer to the bibliography. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+Case 3:17-cv-00039-JD   Document 272-1   Filed 07/02/19   Page 26 of 32 
+This is a preview - click here to buy the full publication
+
+IEC 62443-4-1:2018 © IEC 2018 
+
+– 9 – 
+
+l
+
+a
+r
+e
+n
+e
+G
+
+d
+n
+a
+s
+e
+
+i
+
+c
+
+i
+l
+
+o
+P
+
+s
+e
+r
+u
+d
+e
+c
+o
+r
+p
+
+m
+e
+t
+s
+y
+S
+
+t
+n
+e
+n
+o
+p
+m
+o
+C
+
+IEC  TS  62443 -1 -1  
+
+IEC  TR 62443 -1 -2  
+
+IEC  TS 62443 -1 -3  
+
+IEC TR 62443 1 4 
+
+- -
+
+Terminology, concepts  
+and models  
+
+Master glossary of  
+terms and abbreviations  
+
+System security 
+compliance metrics  
+
+IACS security life-cycle 
+and use-cases 
+
+IEC 62443 2 1 
+
+- -
+
+IEC  TR 62443 -2 -2  
+
+IEC  TR 62443 -2 -3  
+
+IEC 62443 -2 -4  
+
+Establishing an industrial 
+automation and control 
+system security program 
+
+Implementation guidance 
+for an IACS security  
+management system  
+
+Patch management in  
+the IACS environment  
+
+Security program  
+requirements for IACS  
+service providers  
+
+IEC  TR 62443 -3 -1  
+
+IEC 62443 -3 -2  
+
+IEC 62443 -3 -3  
+
+Security technologies  
+for  industrial automation 
+and control systems  
+
+Security risk assessment  
+and system design  
+
+System security 
+requirements  and  
+security levels  
+
+IEC 62443 -4 -1  
+
+IEC 62443 -4 -2  
+
+Product development  
+requirements   
+
+Technical security  
+requirements for IACS  
+components  
+
+s
+u
+t
+a
+t
+
+S
+
+y
+e
+k
+
+Published 
+
+In development 
+
+Development planned 
+
+Published (under review) 
+
+Out for comment/vote 
+
+Adoption planned 
+
+IEC 
+
+Figure 1 – Parts of the IEC 62443 series 
+
+Figure  2  illustrates  how  the  developed  product  relates  to  maintenance  and  integration 
+capabilities  defined  in  IEC 62443-2-4  and  to  its  operation  by  the  asset  owner.  The  product 
+supplier  develops  products  using  a  process  compliant  with  this  document.  Those  products 
+may  be  a  single  component,  such  as  an  embedded  controller,  or  a  group  of  components 
+working  together  as  a  system  or  subsystem.  The  products  are  then  integrated  together, 
+usually  by  a  system  integrator,  into  an  Automation  Solution  using  a  process  compliant  with 
+IEC 62443-2-4.  The  Automation  Solution  is  then  installed  at  a  particular  site  and  becomes 
+part  of  the  industrial  automation  and  control  system  (IACS).  Some  of  these  capabilities 
+reference  security  measures  defined  in  IEC 62443-3-3  [10]  that  the  service  provider  ensures 
+are  supported  in  the  Automation  Solution  (either  as  product  features  or  compensating 
+mechanisms).  This  document  only  addresses  the  process  used  for  the  development  of  the 
+product;  it  does  not  address  design,  installation  or  operation  of  the  Automation  Solution  or 
+IACS. 
+
+In  Figure  2,  the  Automation  Solution  is  illustrated  to  contain  one  or  more  subsystems  and 
+optional  supporting  components  such  as  advanced  control.  The  dashed  boxes  indicate  that 
+these components are “optional”. 
+
+NOTE  1  Automation  Solutions  typically  have  a  single  product,  but  they  are  not  restricted  to  do  so.  In  some 
+industries, there may be a hierarchical product structure. In general, the Automation Solution is the set of hardware 
+and  software,  independent  of  product  packaging,  that  is  used  to  control  a  physical  process  (for  example, 
+continuous or manufacturing) as defined by the asset owner. 
+
+NOTE  2 
+fulfilling the role of product supplier in this diagram. 
+
+If  a  service  provider  provides  products  used  in  the  Automation  Solution,  then  the  service  provider  is 
+
+NOTE  3 
+fulfilling the role of product supplier in this diagram. 
+
+If  a  service  provider  provides  products  used  in  the  Automation  Solution,  then  the  service  provider  is 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Case 3:17-cv-00039-JD   Document 272-1   Filed 07/02/19   Page 27 of 32 
+This is a preview - click here to buy the full publication
+
+– 10 – 
+
+IEC 62443-4-1:2018 © IEC 2018 
+
+Industrial automation and control system (IACS) 
+
+Operational and maintenance 
+capabilities (policies and procedures) 
+
++ 
+
+Automation Solution (IEC 62443
+
+3
+
+3) 
+
+Subsystem 1 
+
+Subsystem 2 
+
+-
+
+-
+
+Complementary 
+hardware and 
+software 
+components 
+
+Includes a configured instance  of the Product 
+
+Product (IEC 62443
+
+4
+
+2)
+
+system, subsystem, or component such as: 
+
+Applications 
+
+Embedded 
+devices 
+
+-
+
+-
+Network 
+components 
+
+Host 
+devices 
+
+IEC 
+
+Asset 
+Owner 
+
+Operates (IEC 62443
+
+2
+
+1, 
+
+IEC 62443
+
+2
+
+4) 
+
+-
+
+-
+
+-
+
+-
+
+System 
+Integrator 
+
+Integrates (IEC 62443
+
+2
+
+4, 
+
+IEC 62443
+
+3
+
+2) 
+
+-
+
+-
+
+-
+
+-
+
+Configured for intended environment 
+
+Product 
+Supplier 
+
+Develops (IEC 62443
+
+4
+
+1) 
+
+-
+
+-
+
+Independent of the intended environment 
+
+Figure 2 – Example scope of product life- cycle 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+  
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+   
+   
+ 
+ 
+Case 3:17-cv-00039-JD   Document 272-1   Filed 07/02/19   Page 28 of 32 
+This is a preview - click here to buy the full publication
+
+IEC 62443-4-1:2018 © IEC 2018 
+
+– 11 – 
+
+SECURITY FOR INDUSTRIAL AUTOMATION 
+AND CONTROL SYSTEMS – 
+
+Part 4-1: Secure product development lifecycle requirements 
+
+1  Scope 
+
+This  part  of  IEC 62443  specifies  process  requirements  for  the  secure  development  of 
+products  used  in  industrial  automation  and  control  systems.  It  defines  a  secure  development 
+life-cycle (SDL) for the purpose of developing and maintaining secure products. This life-cycle 
+includes  security  requirements  definition,  secure  design,  secure  implementation  (including 
+coding  guidelines),  verification  and  validation,  defect  management,  patch  management  and 
+product  end-of-life.  These  requirements  can  be  applied  to  new  or  existing  processes  for 
+developing,  maintaining  and  retiring  hardware,  software  or  firmware  for  new  or  existing 
+products. These requirements apply to the developer and maintainer of the product, but not to 
+the integrator or user of the product. A summary list of the requirements in this  document can 
+be found in Annex B. 
+
+2  Normative references 
+
+The  following  documents  are  referred  to  in  the  text  in  such  a  way  that  some  or  all  of  their 
+content  constitutes  requirements  of  this  document.  For  dated  references,  only  the  edition 
+cited applies. For undated references, the latest edition of the referenced document (including 
+any amendments) applies. 
+
+IEC 62443-2-4:2015,  Security  for  industrial  automation  and  control  systems  –  Part  2-4: 
+Security program requirements for IACS service providers 
+IEC 62443-2-4:2015/AMD1:2017 
+
+3
+
+Terms, definitions, abbreviated terms, acronyms and conventions
+
+3.1
+
+Terms and definitions
+
+For the purposes of this document, the terms and definitions given in  IEC TR 62443-1-2 2 and 
+the following apply.
+
+ISO and  IEC  maintain  terminological databases  for  use  in  standardization  at  the  following
+addresses:
+
+•
+
+•
+
+IEC Electropedia: available at http://www.electropedia.org/
+
+ISO Online browsing platform: available at http://www.iso.org/obp
+
+3.1.1
+abuse case
+test case used to perform negative operations of a use case
+
+Note 1 to entry: Abuse case tests are simulated attacks often based on the threat model. An abuse case is a type 
+of  complete  interaction  between  a  system  and  one  or  more  actors where  the  results  of  the  interaction  are
+intentionally intended to be harmful to the system, one of the actors or one of the stakeholders in the system.
+
+___________
+
+2 Under consideration.
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+Case 3:17-cv-00039-JD   Document 272-1   Filed 07/02/19   Page 29 of 32 
+
+Stipulated Order for  
+Injunction and Judgment 
+Exhibit B 
+
+ 
+ 
+ 
+ 
+ 
+ 
+Case 3:17-cv-00039-JD   Document 272-1   Filed 07/02/19   Page 30 of 32 
+
+Exhibit B 
+
+DCS-1201 
+DCS-2230 
+DCS-3511 
+DCS-4602EV &  -VB1 
+DCS-4603 
+DCS-4605EV 
+DCS-4622 
+DCS-4633EV 
+DCS-4701E & -VB1 
+DCS-4703E 
+DCS-4705E 
+DCS-4802E & -VB1 
+DCS-5615 
+DCS-6004L 
+DCS-6010L 
+DCS-6113 
+DCS-6210 
+DCS-6212L 
+DCS-6314 
+DCS-6315 
+DCS-6510 
+DCS-6511/MCD 
+DCS-6513 
+DCS-6517 & /MCD 
+DCS-6616 
+DCS-6818 
+DCS-6915 
+DCS-7010L 
+DCS-7110 
+DCS-7513 
+DCS-7517 
+DSR-1000AC 
+DSR-150 & 150/RE & 150N & 150N/RE 
+DSR-250 & 250/RE & 250N & 250N/RE 
+DSR-500 & 500/RE &  500N/RE 
+DSL-2750B-VZ 
+DWR-920V-UC 
+DWR-922-UC 
+DWR-961-SP & -UC & -VZ 
+
+Page 1 of 1 
+
+Case 3:17-cv-00039-JD   Document 272-1   Filed 07/02/19   Page 31 of 32 
+
+Stipulated Order for  
+Injunction and Judgment 
+Exhibit C 
+
+ 
+ 
+ 
+ 
+ 
+ 
+Document 272-1  Filed 01/05/17   Page 32 of 32 
+Case 3:17-cv-00039-JSC   Document 1-1   Filed 07/02/19  Page 31 of 31 
+Case 3:17-cv-00039-JD  
+
+t  mydlink Setup Wizard 
+
+I 
+
+,.,Y' 
+my _  , 
+
+l=I  1..a..r 
+
+OCS-2310L Setup Wizard 
+
+Select your camera 
+
+Plug 
+
+~ - -~  
+
+iii• Connect 
+
+Join 
+
+select your camera from the list and click Next when you complete. 
+
+camera 
+
+MAC ID I!) 
+
+IP address 
+
+@ 
+
+DCS-2310L 
+
+F0:7D:68:09:AJ:CF 
+
+172.18195.50 
+
+Connection 
+Ir DHCP 
+
+Enter a password to secure your camera 
+
+·cannot find your camera from the 11st? 
+
+Not ,~:ste<t,j 
+
+Ii  Wrrr. 
+
+Admin account  admin 
+
+Password  l ,,.._,.. ~ - - - - - - - - -~  
+Confirm password  l __ :"_*_0 _'*-'•I'--______ __, 
+
++- Back 
+
+Rescan  C 
+
+Next  . .  
+
+Troubleshooting 
+
+I  Manuals and Downloads 
+
+I 
+
+About 
+
+I 
+
+Exit 
+
+Cop)right© 2009-2012 D-Link Corporation Inc. All rights reseived. 
+
+PX(cid:18)1 
+
+
+

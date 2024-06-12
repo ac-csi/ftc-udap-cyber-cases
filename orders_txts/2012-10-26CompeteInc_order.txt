@@ -1,0 +1,617 @@
+UNITED STATES OF AMERICA
+BEFORE THE FEDERAL TRADE COMMISSION
+
+102 3155
+
+COMMISSIONERS:
+
+Jon Leibowitz, Chairman
+Edith Ramirez
+Julie Brill
+Maureen K. Ohlhausen
+Joshua D. Wright
+
+____________________________________
+
+In the Matter of
+
+)
+)
+)
+)
+)
+____________________________________)
+
+COMPETE, INC., 
+
+a corporation.
+
+DOCKET NO. C-4384
+
+DECISION AND ORDER
+
+The Federal Trade Commission having initiated an investigation of certain acts and
+
+practices of the respondent named in the caption hereof, and the respondent having been
+furnished thereafter with a copy of a draft Complaint that the Bureau of Consumer Protection
+proposed to present to the Commission for its consideration and which, if issued by the
+Commission, would charge the respondent with violation of Section 5 of the Federal Trade
+Commission Act, 15 U.S.C. § 45 et seq.;
+
+The respondent, its attorney, and counsel for the Commission having thereafter executed
+
+an Agreement Containing Consent Order (“Consent Agreement”), an admission by the
+respondent of all the jurisdictional facts set forth in the aforesaid draft Complaint, a statement
+that the signing of said Consent Agreement is for settlement purposes only and does not
+constitute an admission by respondent that the law has been violated as alleged in such
+Complaint, or that the facts as alleged in such Complaint, other than jurisdictional facts, are true,
+and waivers and other provisions as required by the Commission’s Rules; and
+
+The Commission having thereafter considered the matter and having determined that it
+has reason to believe that the respondent has violated the Federal Trade Commission Act, and
+that a Complaint should issue stating its charges in that respect, and having thereupon accepted
+the executed Consent Agreement and placed such Consent Agreement on the public record for a
+period of thirty (30) days for the receipt and consideration of public comments, and having
+carefully considered the comments filed by interested persons, now in further conformity with
+the procedure described in Commission Rule 2.34, 16 C.F.R. § 2.34, the Commission hereby
+issues its Complaint, makes the following jurisdictional findings, and enters the following Order:
+
+Page 1 of  11
+
+1.
+
+2.
+
+1.
+
+Compete, Inc., is a Delaware corporation with its principal place of business at 501
+Boylston Street, Suite 6101, Boston, Massachusetts. 
+
+The Federal Trade Commission has jurisdiction of the subject matter of this proceeding
+and of respondent, and the proceeding is in the public interest.
+
+ORDER
+
+DEFINITIONS
+
+For purposes of this order, the following definitions shall apply:
+
+“Affected Consumers” shall mean persons who, prior to the date of issuance of this order,
+downloaded and installed any Data Collection Agent, including but not limited to the
+Compete Toolbar and Consumer Input Panel software. 
+
+2.
+
+“Clearly and prominently” shall mean as follows:
+
+A.
+
+B.
+
+C.
+
+D.
+
+E.
+
+In textual communications (e.g., printed publications or words displayed on the
+screen of a computer or a mobile device), the required disclosures are of a type,
+size, and location sufficiently noticeable for an ordinary consumer to read and
+comprehend them, in print that contrasts highly with the background on which
+they appear; 
+
+In communications disseminated orally or through audible means (e.g., radio or
+streaming audio), the required disclosures are delivered in a volume and cadence
+sufficient for an ordinary consumer to hear and comprehend them;
+
+In communications disseminated through video means (e.g., television or
+streaming video), the required disclosures are in writing in a form consistent with
+subparagraph (A) of this definition and shall appear on the screen for a duration
+sufficient for an ordinary consumer to read and comprehend them;
+
+In communications made through interactive media, such as the Internet, online
+services, and software, the required disclosures are unavoidable and presented in
+a form consistent with subparagraph (A) of this definition, in addition to any
+audio or video presentation of them; and
+
+In all instances, the required disclosures are presented in an understandable
+language and syntax; in the same language as the predominant language that is
+used in the communication; and with nothing contrary to, inconsistent with, or in
+mitigation of the disclosures used in any communication of them.
+
+Page 2 of  11
+
+3.
+
+4.
+
+5.
+
+6.
+
+7.
+
+“Collected Information” shall mean any information transmitted, on or before the date of
+issuance of this order, from a computer by a Data Collection Agent to any computer
+server owned by, operated by, or operated for the benefit of respondent.
+
+“Commerce” shall mean as defined in Section 4 of the Federal Trade Commission Act,
+15 U.S.C. § 44.  
+
+“Computer” shall mean any desktop, laptop computer, tablet, handheld device, telephone,
+or other electronic product or device that has a platform on which to download, install, or
+run any software program, code, script, or other content and to play any digital audio,
+visual, or audiovisual content.
+
+“Data Collection Agent” shall mean any software program, including any application;
+created, licensed or distributed, directly or through a Third Party, by respondent; installed
+on consumers’ computers, whether as a standalone product or as a feature of another
+product; and used to record, or transmit information about any activity occurring on that
+computer, unless: (a) the activity involves transmission of information related to the
+configuration of the software program or application itself; (b) the transmission is limited
+to information about whether the program is functioning as intended; or (c) the activity
+involves a consumer’s interactions with respondent’s websites and/or forms.  The
+Compete Toolbar and the Consumer Input Panel software, for example, are both Data
+Collection Agents.
+
+“Personal Information” shall mean individually identifiable information from or about an
+individual consumer including, but not limited to: (a) a first and last name; (b) a home or
+other physical address, including street name and name of city or town; (c) an email
+address or other online contact information, such as an instant messaging user identifier
+or a screen name; (d) a telephone number; (e) a Social Security number; (f) a driver’s
+license number or other government-issued identification number; (g) a bank account,
+debit card, or credit card account number; (h) a persistent identifier, such as a customer
+number held in a “cookie” or static IP address; or (i) a biometric record.
+
+8.
+
+“Third Party” shall mean any individual or entity other than respondent, except that a
+third party shall not include a service provider of respondent that:
+
+A. 
+
+B. 
+
+Only uses or receives information collected by or on behalf of respondent for and
+at the direction of the respondent and no other individual or entity; 
+
+Does not disclose the information, or any individually identifiable information
+derived from it, to any individual or entity other than respondent; and 
+
+C. 
+
+Does not use the information for any other purpose.
+
+Page 3 of  11
+
+9.
+
+Unless otherwise indicated, “respondent” shall mean Compete, Inc., and its successors
+and assigns, and its officers, agents, representatives, and employees.
+
+I.
+
+IT IS ORDERED that respondent, directly or indirectly, including through any contract,
+
+agreement, license, sale, or arrangement with any Third Party, is prohibited from: 
+
+A. 
+
+Collecting any information from any Data Collection Agent made available to
+consumers directly by respondent after the date of service of this order, unless
+prior to such collection respondent has: 
+
+1.
+
+Disclosed to the consumer clearly and prominently, and prior to the
+display of and on a separate screen from, any “end user license
+agreement,” “privacy policy,” “terms of use” page, or similar document: 
+
+a) 
+
+all the types of information that will be collected, including, but
+not limited to, if applicable, a statement that the information
+includes consumer transactions (both completed and incomplete)
+or communications in forms, online accounts, web-based email
+accounts, or search engine pages, and whether the information
+includes personal, financial or health information; and
+
+b) 
+
+how the information is to be used, including if it is shared with any
+Third Party; and
+
+B.
+
+C.
+
+2.
+
+Obtained express affirmative consent from the consumer to the collection,
+use or sharing of the information.
+
+Collecting any information from any Data Collection Agent made available to
+consumers by a Third Party after the date of service of this order, unless prior to
+such collection respondent has provided the disclosures and obtained the consent
+described in subpart A(1-2), or has both required the Third Party by contract to do
+so, and monitored compliance with such contractual provisions.
+
+Collecting any information from any Data Collection Agent that was made
+available to consumers before the date of service of this order, unless it has made
+the disclosures and obtained the express affirmative consent described in subpart
+A(1-2) or:
+
+1.
+
+2.
+
+It has made the disclosure required by Part II(A)(3); and
+
+It does not use information collected from an Affected Consumer by a
+Data Collection Agent, except in an aggregate and/or anonymous form
+
+Page 4 of  11
+
+that does not disclose, report, or otherwise share any individually
+identifiable information.
+
+D.
+
+Using any Collected Information gathered on or after February 1, 2010, unless it
+has obtained express affirmative consent from the consumer to the use of the
+Collected Information, or
+
+1.
+
+2.
+
+It does not use the Collected Information, except in an aggregate and/or
+anonymous form that does not disclose, report, or otherwise share any
+individually identifiable information; and 
+
+It does not otherwise access any Affected Consumer’s personal
+information that was collected by a Data Collection Agent.
+
+E.
+
+Making any material change from stated practices about collection, use or sharing
+of such information, unless it has obtained express affirmative consent from the
+consumer.
+
+Provided, however, this Part will not apply to the collection, use or sharing of
+information as reasonably necessary:  1) to comply with applicable law, regulation, or
+legal process; 2) to enforce respondent’s terms of use; 3) to detect, prevent, or mitigate
+fraud or security vulnerabilities; 4) for configuration of the software program or
+application itself; or 5) to determine whether the program is functioning as intended.
+
+II.
+
+IT IS FURTHER ORDERED that Compete, Inc., and its successors and assigns, shall:
+
+A.
+
+Notify Affected Consumers: 1) that they have or had a Data Collection Agent
+installed on their Computers, and that this software collected and transmitted
+information to or on behalf of respondent, listing the categories of personal
+information that were, or could have been, transmitted by a Data Collection
+Agent; and 2) how to permanently disable and/or uninstall the Data Collection
+Agent.  Notification shall be by each of the following means:
+
+1.
+
+2.
+
+On or before thirty (30) days after the date of service of this order and for
+two (2) years after the date of service of this order, posting of a clear and
+prominent notice on the websites of Compete, Inc., and its successors and
+assigns;
+
+On or before thirty (30) days after the date of service of this order and for
+three (3) years after the date of service of this order, informing Affected
+Consumers who complain or inquire about the privacy or security of a
+Data Collection Agent; and
+
+Page 5 of  11
+
+ 
+3.  
+
+Beginning only once notification described in both subparts II(A)(1) and
+(2) above have commenced, and completed on or before sixty (60) days
+after the date of service of this order, providing clear and prominent notice
+to consumers via Affected Consumers’ computers on which a Data
+Collection Agent is operating, through the browser, software upgrade or
+similar technology, that:
+
+a)
+
+b)
+
+c)
+
+is visible until the consumer has taken action in response to the
+notice; 
+
+includes a hyperlink and/or the address for a website of Compete,
+Inc., and its successors or assigns; and
+
+includes the name of the company from whom the consumer
+obtained the Data Collection Agent, or the brand name (as
+marketed to the consumer) of the software or application
+containing the Data Collection Agent, and an explanation that
+Compete provides technology for the specific Data Collection
+Agent. 
+
+B.
+
+Provide prompt and free support with clear and prominent contact information to
+help consumers disable and/or uninstall a Data Collection Agent.  For two (2)
+years after the date of service of this order, this support shall include toll-free,
+telephonic and electronic mail support.
+
+III.
+
+IT IS FURTHER ORDERED that before entering into any contract, agreement, license,
+
+sale, or arrangement with any Third Party in connection with any Data Collection Agent made
+available to consumers by such Third Party, Compete, Inc., and its successors and assigns, shall
+serve the Third Party with a copy of this order.  For any existing contract, agreement, license,
+sale, or arrangement with any Third Party in connection with any Data Collection Agent made
+available to consumers by such Third Party, respondent shall serve the Third Party with a copy
+of this order within 30 days of service of this order.
+
+IV.
+
+IT IS FURTHER ORDERED that respondent, directly or through any corporation,
+
+subsidiary, division, website, or other device, in connection with the offering of any service or
+product in or affecting commerce, shall not make any representation, in any manner, expressly or
+by implication, about the extent to which respondent collects, maintains and protects the
+security, privacy, confidentiality, or integrity of any information collected from or about
+consumers, unless the representation is true, and non-misleading. 
+
+Page 6 of  11
+
+V.
+
+IT IS FURTHER ORDERED that Compete, Inc., and its successors and assigns;
+directly or through any corporation, subsidiary, division, website, or other device; in connection
+with its advertising, marketing, promotion, or offering of any product or service, in or affecting
+commerce; shall no later than the date of service of this order, establish and implement, and
+thereafter maintain a comprehensive information security program that is reasonably designed to
+protect the security, privacy, confidentiality, and integrity of personal information collected from
+or about consumers.  Such program, the content and implementation of which must be fully
+documented in writing, shall contain administrative, technical, and physical safeguards
+appropriate to respondent’s size and complexity and the nature and scope of respondent's
+activities, and the sensitivity of the personal information collected from or about consumers,
+including: 
+
+A.
+
+B.
+
+C.
+
+D.
+
+E.
+
+The designation of an employee or employees to coordinate and be accountable
+for the information security program;
+
+The identification of material internal and external risks that could result in the
+unauthorized disclosure, misuse, loss, alteration, destruction, or other compromise
+of personal information and an assessment of the sufficiency of any safeguards in
+place to control these risks.  At a minimum, this risk assessment should include
+consideration of risks in each area of relevant operation, including, but not limited
+to:  (1) employee training and management; (2) information systems, including
+network and software design, information processing, storage, transmission, and
+disposal; and (3) prevention, detection, and response to attacks, intrusions,
+account takeovers, or other systems failures;
+
+The design and implementation of reasonable safeguards to control the risks
+identified through risk assessment, and regular testing or monitoring of the
+effectiveness of the safeguards' key controls, systems, and procedures;
+
+The development and use of reasonable steps to select and retain service
+providers capable of appropriately safeguarding personal information such
+service providers receive from respondent or obtain on respondent's behalf, and
+the requirement, by contract, that such service providers implement and maintain
+appropriate safeguards; and
+
+The evaluation and adjustment of respondent’s information security program in
+light of the results of the testing and monitoring required by subpart C, any
+material changes to respondent's operations or business arrangements, or any
+other circumstances that respondent knows or has reason to know may have a
+material impact on the effectiveness of its information security program.
+
+Page 7 of  11
+
+VI.
+
+IT IS FURTHER ORDERED that, in connection with its compliance with Part V of
+
+this order, Compete, Inc., and its successors and assigns, shall obtain initial and biennial
+assessments and reports (“Assessments”) from a qualified, objective, independent third-party
+professional, who uses procedures and standards generally accepted in the profession. 
+Professionals qualified to prepare such Assessments shall be: a person qualified as a Certified
+Information System Security Professional (CISSP) or as a Certified Information Systems
+Auditor (CISA); a person holding Global Information Assurance Certification (GIAC) from the
+SysAdmin, Audit, Network, Security (SANS) Institute; or a similarly qualified person or
+organization approved by the Associate Director for Enforcement, Bureau of Consumer
+Protection, Federal Trade Commission, Washington, D.C. 20580.  The reporting period for the
+Assessments shall cover: (1) the first one hundred and eighty (180) days after service of the
+order for the initial Assessment, and (2) each two (2) year period thereafter for twenty (20) years
+after service of the order for the biennial Assessments.  Each Assessment shall:
+
+A.
+
+B.
+
+C.
+
+D.
+
+Set forth the specific administrative, technical, and physical safeguards that
+respondent has implemented and maintained during the reporting period;
+
+Explain how such safeguards are appropriate to respondent's size and complexity,
+and the nature and scope of respondent's activities, and the sensitivity of the
+personal information collected from or about consumers;
+
+Explain how the safeguards that have been implemented meet or exceed the
+protections required by Part V of this order; and
+
+Certify that respondent's security program is operating with sufficient
+effectiveness to provide reasonable assurance that the security, confidentiality,
+and integrity of personal information is protected and has so operated throughout
+the reporting period.
+
+Each Assessment shall be prepared and completed within sixty (60) days after the end of the
+reporting period to which the Assessment applies.  Respondent shall provide the initial
+Assessment to the Associate Director for Enforcement, Bureau of Consumer Protection, Federal
+Trade Commission, Washington, D.C. 20580, within ten (10) days after the Assessment has been
+prepared.  All subsequent biennial Assessments shall be retained by respondent until the order is
+terminated and provided to the Associate Director of Enforcement within ten (10) days of
+request.
+
+Page 8 of  11
+
+VII.
+
+IT IS FURTHER ORDERED that Compete, Inc., and its successors and assigns, shall,
+
+within fourteen (14) days after the date of service of this order, delete or destroy, Collected
+Information in respondent’s custody or control that was collected prior to February 1, 2010,
+unless otherwise directed by a representative of the Commission. 
+
+VIII.
+
+IT IS FURTHER ORDERED that Compete, Inc., and its successors and assigns, shall,
+for a period of five (5) years after the last date of dissemination of any representation covered by
+this order, maintain and upon request make available to the Commission for inspection and
+copying:
+
+A. 
+
+B.
+
+C.
+
+D.
+
+E.
+
+F.
+
+All advertisements, labeling, packaging and promotional material containing the
+representation;
+
+All materials relied upon in disseminating the representation; 
+
+All tests, reports, studies, surveys, demonstrations, or other evidence in its
+possession or control that contradict, qualify, or call into question the
+representation, or the basis relied upon for the representation, including
+complaints and other communications with consumers or with governmental or
+consumer protection organizations; and 
+
+All acknowledgments of receipt of this order, obtained pursuant to Part IX.
+
+All notices related to service of the order on Third Parties, pursuant to Part III.
+
+All materials demonstrating compliance with Part I(B), including all contracts and
+measures to monitor compliance.
+
+Moreover, for a period of three (3) years after the date of preparation of each Assessment
+required under Part VI of this order, respondent shall maintain and upon request make available
+to the Commission for inspection and copying all materials relied upon to prepare the
+Assessment, whether prepared by or on behalf of the respondent, including but not limited to all
+plans, reports, studies, reviews, audits, audit trails, policies, training materials, and assessments,
+for the compliance period covered by such Assessment.
+
+Page 9 of  11
+
+ 
+IX.
+
+IT IS FURTHER ORDERED that Compete, Inc., and its successors and assigns, shall
+
+deliver a copy of this order to: (1) all current and future principals, officers, and directors; and
+(2) all current and future managers who have responsibilities with respect to the subject matter of
+this order, and shall secure from each such person a signed and dated statement acknowledging
+receipt of the order, with any electronic signatures complying with the requirements of the E-
+Sign Act, 15 U.S.C. § 7001 et seq.  Respondent shall deliver this order to current personnel
+within thirty (30) days after the date of service of the order, and to future personnel within thirty
+(30) days after the person assumes such position or responsibilities.
+
+X.
+
+IT IS FURTHER ORDERED that Compete, Inc., and its successors and assigns, shall
+notify the Commission at least thirty (30) days prior to any change in respondent that may affect
+compliance obligations arising under this order, including but not limited to, a dissolution,
+assignment, sale, merger, or other action that would result in the emergence of a successor
+company; the creation or dissolution of a subsidiary (including an LLC), parent, or affiliate that
+engages in any acts or practices subject to this order; the proposed filing of a bankruptcy
+petition; or a change in respondent’s name or address.  Provided, however, that with respect to
+any proposed change about which respondent learns less than thirty (30) days prior to the date
+such action is to take place, respondent shall notify the Commission as soon as is practicable
+after obtaining such knowledge. 
+
+Unless otherwise directed by a representative of the Commission, all notices required by
+this Part shall be sent by overnight courier (not the U.S. Postal Service) to the Associate Director
+of Enforcement, Bureau of Consumer Protection, Federal Trade Commission, 600 Pennsylvania
+Avenue NW, Washington, DC 20580, with the subject line FTC v. Compete.  Provided,
+however, that, in lieu of overnight courier, notices may be sent by first-class mail, but only if an
+electronic version of such notices is contemporaneously sent to the Commission at
+DEbrief@ftc.gov.
+
+XI.
+
+IT IS FURTHER ORDERED that Compete, Inc., and its successors and assigns, shall,
+within sixty (60) days after service of this order, and at such other times as the FTC may require,
+file with the Commission a true and accurate report, in writing, setting forth in detail the manner
+and form in which respondent has complied with this order.  Within ten (10) days of receipt of
+written notice from a representative of the Commission, respondent shall submit additional true
+and accurate written reports.
+
+Page 10 of  11
+
+XII.
+
+This order will terminate on February 20, 2033, or twenty (20) years from the most
+recent date that the United States or the Commission files a complaint (with or without an
+accompanying consent decree) in federal court alleging any violation of the order, whichever
+comes later; provided, however, that the filing of such a complaint will not affect the duration of:
+
+A.
+
+B.
+
+C.
+
+Any Part of this order that terminates in less than twenty (20) years; 
+
+This order’s application to any respondent that is not named as a defendant in
+such complaint; and
+
+This order if such complaint is filed after the order has terminated pursuant to this
+Part.
+
+Provided, further, that if such complaint is dismissed or a federal court rules that the respondent
+did not violate any provision of the order, and the dismissal or ruling is either not appealed or
+upheld on appeal, then the order will terminate according to this Part as though the complaint
+had never been filed, except that this order will not terminate between the date such complaint is
+filed and the later of the deadline for appealing such dismissal or ruling and the date such
+dismissal or ruling is upheld on appeal.
+
+By the Commission, Chairman Leibowitz and Commissioner Wright not participating.
+
+Donald S. Clark                                                           
+                                                                        Secretary                                                                     
+SEAL
+
+ISSUED:  February 20, 2013
+
+Page 11 of  11
+
+

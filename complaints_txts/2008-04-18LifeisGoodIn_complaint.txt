@@ -1,0 +1,156 @@
+COMMISSIONERS:
+
+0723046
+
+UNITED STATES OF AMERICA
+FEDERAL TRADE COMMISSION
+
+William E. Kovacic, Chairman
+Pamela Jones Harbour
+Jon Leibowitz
+J. Thomas Rosch
+
+______________________________
+
+In the Matter of
+
+LIFE IS GOOD, INC.,
+a corporation,
+
+)
+)
+)
+)
+)
+)
+)
+)
+)
+)
+)
+______________________________)
+
+LIFE IS GOOD RETAIL, INC.,
+a corporation.
+
+and
+
+DOCKET NO. C-4218
+
+COMPLAINT
+
+The Federal Trade Commission, having reason to believe that Life is good, Inc., and Life
+
+is good Retail, Inc. (“respondents”), have violated the provisions of the Federal Trade
+Commission Act, and it appearing to the Commission that this proceeding is in the public
+interest, alleges:
+
+1.
+
+2.
+
+3.
+
+4.
+
+Respondent Life is good, Inc., is a Massachusetts corporation with its principal office or
+place of business at 283-285 Newbury Street, Boston, Massachusetts 02115.  
+
+Respondent Life is good Retail, Inc., is a Delaware corporation with its principal office or
+place of business at 283-285 Newbury Street, Boston, Massachusetts 02115.  Life is good
+Retail, Inc., is a wholly-owned subsidiary of Life is good, Inc.  
+
+The acts and practices of respondents as alleged in this complaint are in or affecting
+commerce, as “commerce” is defined in Section 4 of the Federal Trade Commission Act.
+
+Respondents design and distribute retail apparel and accessories and operate a retail
+website at www.lifeisgood.com.
+
+1
+
+5.
+
+6.
+
+7.
+
+8.
+
+9.
+
+Respondents operate a computer network that consumers use, in conjunction with
+respondents’ website (www.lifeisgood.com) and web application, to obtain information
+and to buy respondents’ products.
+
+In selling their products, respondents routinely have collected sensitive information from
+consumers, including name, address, e-mail address, phone number, credit card number,
+credit card expiration date, and credit card security code (hereinafter “consumer
+information”).  Respondents have collected this consumer information through their
+website and telephone orders and stored it on a network computer accessible through the
+website.
+
+Since at least October 2005, respondents have disseminated or caused to be disseminated
+privacy policies and statements on their website, including, but not necessarily limited to,
+the following statements regarding the privacy and confidentiality of the consumer
+information they collect:
+
+We are committed to maintaining our customers’ privacy.  We collect and store
+information you share with us – name, address, credit card and phone numbers –
+along with information about products and services you request.  All information
+is kept in a secure file and is used to tailor our communications with you.  
+
+(Emphasis added).
+
+Since at least October 2005, respondents have engaged in a number of practices that,
+taken together, failed to provide reasonable and appropriate security for the consumer
+information stored on their network, including credit card numbers, expiration dates, and
+security codes.  In particular, respondents: (1) stored the consumer information in clear,
+readable text; (2) created unnecessary risks to consumer information by storing it
+indefinitely on their network, without a business need, and by storing credit card security
+codes; (3) did not adequately assess the vulnerability of their web application and
+network to commonly known or reasonably foreseeable attacks, such as “Structured
+Query Language” ( “SQL”) injection attacks; (4) did not implement simple, free or low-
+cost, and readily available defenses to such attacks; (5) did not use readily available
+security measures to monitor and control connections from the network to the internet;
+and (6) failed to employ reasonable measures to detect unauthorized access to consumer
+information.
+
+Between June and August 2006, a hacker exploited the failures set forth in Paragraph 8 by
+using SQL injection attacks on respondents’ website and web application and exporting
+to the hacker’s browser consumer information for thousands of customers, including
+credit card numbers, expiration dates, and security codes.  After learning of the breach
+from their customers, respondents took steps to prevent further unauthorized access,
+notified law enforcement, and sent breach notification letters to affected customers. 
+
+2
+
+10.
+
+11.
+
+12.
+
+Through the means described in Paragraph 7, respondents represented, expressly or by
+implication, that they implemented reasonable and appropriate measures to protect
+consumer information against unauthorized access.  
+
+In truth and in fact, respondents did not implement reasonable and appropriate measures
+to protect consumer information against unauthorized access.  Therefore, the
+representation set forth in Paragraph 7 was, and is, false or misleading.
+
+The acts and practices of respondents as alleged in this complaint constitute deceptive
+acts or practices in or affecting commerce in violation of Section 5(a) of the Federal
+Trade Commission Act.
+
+THEREFORE, the Federal Trade Commission this sixteenth day of April, 2008, has
+
+issued this complaint against respondents.
+
+By the Commission.
+
+Donald S. Clark
+Secretary
+
+3
+
+
