@@ -1,7 +1,7 @@
 import csv
 import urllib.request
 
-filename = "cases2.csv"
+filename = "cases.csv"
 complaint_pdfs = "complaints_pdfs/"
 orders_pdfs = "orders_pdfs/"
 
